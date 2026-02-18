@@ -1,0 +1,10 @@
+molecule,first_listing,velocity_start,max_share,latest_share,months_observed,months_to_10pct,months_to_25pct,months_to_50pct,months_to_75pct,months_to_90pct,reliability
+bevacizumab,2021-06-01,2021-06-01,1,1,53,0,0,1,1,2,post_delisting
+filgrastim,2011-04-01,2011-04-01,1,1,175,123,123,123,123,123,post_delisting
+pegfilgrastim,2020-03-01,2020-03-01,1,1,68,16,16,16,16,16,post_delisting
+rituximab,2019-10-01,2019-10-01,1,1,73,35,35,36,37,39,clean
+infliximab,2015-12-01,2015-12-01,1,0.99978501558637,119,0,0,0,0,0,unreliable
+etanercept,2017-04-01,2017-04-01,0.98955525606469,0.988925676447083,103,0,0,0,0,0,unreliable
+trastuzumab,2019-08-01,2019-08-01,0.8717902675525229,0.8180773649942551,75,0,0,0,0,NA,unreliable
+adalimumab,2021-04-01,2021-07-01,0.35885549872122763,0.20393874389226552,52,0,0,NA,NA,NA,partial
+insulin glargine,2019-10-01,2019-10-01,0,0,73,NA,NA,NA,NA,NA,na

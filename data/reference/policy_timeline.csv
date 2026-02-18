@@ -1,0 +1,57 @@
+molecule,intervention_type,date,description,source
+all,aip_regulation,2019-10-31,Active Ingredient Prescribing mandatory for biosimilar groups,TGA/PBS legislative instrument
+all,streamlined_authority,2023-11-01,"Streamlined authority for anti-TNF biosimilars (adalimumab, etanercept, infliximab)",PBS Schedule Nov 2023
+filgrastim,biosimilar_listing,2011-04-01,Nivestim (Hospira) listed — first Australian biosimilar,PBS Schedule Apr 2011
+filgrastim,a_flag,2011-04-01,'a' flag enabled for filgrastim biosimilars,PBS Schedule Apr 2011
+filgrastim,additional_biosimilar,2013-09-01,Zarzio (Sandoz) listed,PBS Schedule Sep 2013
+filgrastim,additional_biosimilar,2014-04-01,Tevagrastim listed,PBS Schedule Apr 2014
+filgrastim,additional_biosimilar,2019-12-01,Releuko (Sandoz) listed,PBS Schedule Dec 2019
+filgrastim,reference_delisting,2023-12-01,Neupogen (Amgen) delisted from PBS at sponsor request,PBS Schedule Dec 2023
+infliximab,biosimilar_listing,2015-12-01,Inflectra (Pfizer/Celltrion) listed,PBS Schedule Dec 2015
+infliximab,a_flag,2015-12-01,'a' flag enabled for infliximab biosimilars,PBS Schedule Dec 2015
+infliximab,additional_biosimilar,2017-08-01,Renflexis (Samsung Bioepis) listed,PBS Schedule Aug 2017
+infliximab,additional_biosimilar,2021-07-01,Remsima SC listed — subcutaneous infliximab biosimilar,PBS Schedule Jul 2021
+infliximab,additional_biosimilar,2025-11-01,Ixifi listed,PBS Schedule Nov 2025
+infliximab,price_disclosure,2018-04-01,Price disclosure cycle — infliximab price reduction,PBS price disclosure
+infliximab,streamlined_authority,2023-11-01,Streamlined authority for RA indications,PBS Schedule Nov 2023
+infliximab,streamlined_authority,2023-12-01,Streamlined authority extended to AS indications,PBS Schedule Dec 2023
+etanercept,biosimilar_listing,2017-04-01,Brenzys (Samsung Bioepis) listed,PBS Schedule Apr 2017
+etanercept,a_flag,2017-04-01,'a' flag enabled for etanercept biosimilars,PBS Schedule Apr 2017
+etanercept,streamlined_authority,2023-11-01,Streamlined authority for RA/psoriasis indications,PBS Schedule Nov 2023
+etanercept,streamlined_authority,2023-12-01,Streamlined authority extended to AS indications,PBS Schedule Dec 2023
+etanercept,additional_biosimilar,2025-07-01,Nepexto (Sandoz) listed — second etanercept biosimilar,PBS Schedule Jul 2025
+etanercept,additional_biosimilar,2025-10-01,Erelzi listed — third etanercept biosimilar,PBS Schedule Oct 2025
+rituximab,biosimilar_listing,2019-10-01,Riximyo (Sandoz) listed,PBS Schedule Oct 2019
+rituximab,a_flag,2020-01-01,'a' flag enabled for rituximab biosimilars,PBS Schedule Jan 2020
+rituximab,additional_biosimilar,2020-01-01,Truxima (Celltrion) listed,PBS Schedule Jan 2020
+rituximab,reference_delisting,2021-04-01,MabThera IV (reference rituximab) delisted from PBS,PBS Schedule Apr 2021
+rituximab,reference_delisting,2021-10-01,MabThera SC delisted from PBS,PBS Schedule Oct 2021
+rituximab,additional_biosimilar,2022-09-01,Ruxience listed,PBS Schedule Sep 2022
+rituximab,streamlined_authority,2022-09-01,Rituximab changed to Unrestricted Benefit (no authority),PBAC Sep 2021 recommendation
+trastuzumab,biosimilar_listing,2019-08-01,Ogivri (Mylan) listed,PBS Schedule Aug 2019
+trastuzumab,a_flag,2019-08-01,'a' flag enabled for trastuzumab biosimilars,PBS Schedule Aug 2019
+trastuzumab,additional_biosimilar,2020-04-01,Herzuma (Celltrion) listed,PBS Schedule Apr 2020
+trastuzumab,additional_biosimilar,2020-05-01,Trazimera listed,PBS Schedule May 2020
+trastuzumab,additional_biosimilar,2020-10-01,Kanjinti (Amgen) listed,PBS Schedule Oct 2020
+insulin glargine,biosimilar_listing,2019-10-01,Semglee (Mylan/Viatris) listed,PBS Schedule Oct 2019
+insulin glargine,a_flag,2019-10-01,'a' flag enabled for insulin glargine biosimilars,PBS Schedule Oct 2019
+insulin glargine,reference_delisting,2020-07-01,Lantus delisted; Sanofi consolidated to Optisulin brand,The Limbic / PBS Schedule
+pegfilgrastim,biosimilar_listing,2020-03-01,Ziextenzo (Sandoz) listed,PBS Schedule Mar 2020
+pegfilgrastim,a_flag,2020-03-01,'a' flag enabled for pegfilgrastim biosimilars,PBS Schedule Mar 2020
+pegfilgrastim,additional_biosimilar,2020-08-01,Pelgraz listed — second pegfilgrastim biosimilar,PBS Schedule Aug 2020
+adalimumab,biosimilar_listing,2021-04-01,Amgevita (Amgen) and Hadlima (Organon) listed,PBS Schedule Apr 2021
+adalimumab,a_flag,2021-04-01,'a' flag enabled for adalimumab biosimilars,PBS Schedule Apr 2021
+adalimumab,additional_biosimilar,2021-04-01,"Hyrimoz (Sandoz), Idacio (Fresenius Kabi) listed",PBS Schedule Apr 2021
+adalimumab,additional_biosimilar,2023-03-01,Yuflyma (Celltrion) listed — fifth adalimumab biosimilar,PBS Schedule Mar 2023
+adalimumab,price_cut,2023-04-01,24.39% catch-up statutory price reduction for Humira; 6.91% for biosimilars,Pearce IP / PBS pricing
+adalimumab,additional_biosimilar,2024-01-01,Adalicip (Cipla/Alvotech) listed — sixth adalimumab biosimilar,PBS Schedule Jan 2024
+adalimumab,additional_biosimilar,2024-08-01,Abrilada (Pfizer) listed — seventh adalimumab biosimilar,PBS Schedule Aug 2024
+adalimumab,streamlined_authority,2023-11-01,Streamlined authority for RA/psoriasis indications,PBS Schedule Nov 2023
+adalimumab,streamlined_authority,2023-12-01,Streamlined authority extended to AS indications,PBS Schedule Dec 2023
+bevacizumab,biosimilar_listing,2021-06-01,Mvasi (Amgen) listed,PBS Schedule Jun 2021
+bevacizumab,a_flag,2021-06-01,'a' flag enabled for bevacizumab biosimilars,PBS Schedule Jun 2021
+bevacizumab,reference_delisting,2021-06-01,Avastin (Roche) voluntarily delisted from PBS,PBS news Jul 2021
+bevacizumab,additional_biosimilar,2022-12-01,Abevmy listed — second bevacizumab biosimilar,PBS Schedule Dec 2022
+bevacizumab,additional_biosimilar,2024-10-01,Vegzelma listed — third bevacizumab biosimilar,PBS Schedule Oct 2024
+aflibercept,biosimilar_listing,2026-02-01,Afqlir (Samsung Bioepis) listed — first aflibercept biosimilar,PBS Schedule Feb 2026
+aflibercept,a_flag,2026-02-01,'a' flag enabled for aflibercept biosimilars,PBS Schedule Feb 2026

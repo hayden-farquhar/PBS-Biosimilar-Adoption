@@ -1,0 +1,19 @@
+effect,group,term,estimate,std.error,statistic,model
+fixed,NA,(Intercept),-3.094570497486046e-17,0.001023140574284364,-3.024579979784835e-14,Random intercept
+fixed,NA,time,3.6270563375030916e-19,1.1931141118595589e-5,3.039991147074817e-14,Random intercept
+fixed,NA,post_listing,3.738228954771507e-4,0.0024516835080936883,0.15247600036589448,Random intercept
+fixed,NA,time_after_listing,0.0021478016281310727,2.29563764220337e-4,9.356013286441831,Random intercept
+fixed,NA,post_delist_iv,2.457169453778188e-4,0.003508808343847891,0.07002860267607446,Random intercept
+fixed,NA,time_after_delist_iv,-2.866869688544929e-5,3.7881373224668644e-4,-0.07568019436734678,Random intercept
+ran_pars,state,sd__(Intercept),0.0014084997434757056,NA,NA,Random intercept
+ran_pars,Residual,sd__Observation,0.014272756910066893,NA,NA,Random intercept
+fixed,NA,(Intercept),-2.5901715171975328e-17,8.611054225538008e-4,-3.0079609875359974e-14,Random intercept + slope
+fixed,NA,time,1.6494444319073824e-19,1.1293437841129857e-5,1.4605335019423662e-14,Random intercept + slope
+fixed,NA,post_listing,3.7382289547714626e-4,0.0023206443566094015,0.1610858184333439,Random intercept + slope
+fixed,NA,time_after_listing,0.0021478016281310935,3.103621812293646e-4,6.920307170234186,Random intercept + slope
+fixed,NA,post_delist_iv,2.457169453777484e-4,0.0033212673066051533,0.07398288746258999,Random intercept + slope
+fixed,NA,time_after_delist_iv,-2.8668696885444717e-5,3.585666530946144e-4,-0.07995360594193335,Random intercept + slope
+ran_pars,state,sd__(Intercept),4.541438317085179e-4,NA,NA,Random intercept + slope
+ran_pars,state,cor__(Intercept).time_after_listing,-1,NA,NA,Random intercept + slope
+ran_pars,state,sd__time_after_listing,6.26788944349493e-4,NA,NA,Random intercept + slope
+ran_pars,Residual,sd__Observation,0.013509897450979977,NA,NA,Random intercept + slope

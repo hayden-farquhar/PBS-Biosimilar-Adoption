@@ -1,0 +1,747 @@
+item_number,molecule,drug_name,form_strength,atc_code,brand_name,brand_from_desc,type
+01082Y,filgrastim,FILGRASTIM,Injection 300 micrograms in 0.5 mL single use pre-filled syringe (TevaGrastim),L03AA02,TevaGrastim,TevaGrastim,biosimilar
+01113N,filgrastim,FILGRASTIM,Injection 480 micrograms in 0.8 mL single use pre-filled syringe (TevaGrastim),L03AA02,TevaGrastim,TevaGrastim,biosimilar
+01123D,filgrastim,FILGRASTIM,Injection 300 micrograms in 0.5 mL single use pre-filled syringe (TevaGrastim),L03AA02,TevaGrastim,TevaGrastim,biosimilar
+01126G,filgrastim,FILGRASTIM,Injection 480 micrograms in 0.8 mL single use pre-filled syringe (TevaGrastim),L03AA02,TevaGrastim,TevaGrastim,biosimilar
+01954W,etanercept,ETANERCEPT,Injection set containing 4 vials powder for injection 25 mg and 4 pre-filled syringes solvent 1 mL,L04AB01,Enbrel,NA,reference
+01963H,etanercept,ETANERCEPT,"Injections 50 mg in 1 mL single use pre-filled syringes, 4",L04AB01,Erelzi,NA,biosimilar
+01964J,etanercept,ETANERCEPT,"Injection 50 mg in 1 mL single use auto-injector, 4",L04AB01,Erelzi,NA,biosimilar
+02168D,aflibercept,AFLIBERCEPT,Solution for intravitreal injection 4 mg in 100 microlitres (40 mg per mL),S01LA05,Eylea,40 mg per mL,reference
+02733W,filgrastim,FILGRASTIM,Injection 480 micrograms in 0.5 mL single-use pre-filled syringe,L03AA02,Zarzio,NA,biosimilar
+02747N,filgrastim,FILGRASTIM,Injection 300 micrograms in 0.5 mL single-use pre-filled syringe,L03AA02,Zarzio,NA,biosimilar
+02758E,filgrastim,FILGRASTIM,Injection 300 micrograms in 0.5 mL single-use pre-filled syringe,L03AA02,Zarzio,NA,biosimilar
+02783L,filgrastim,FILGRASTIM,Injection 480 micrograms in 0.5 mL single-use pre-filled syringe,L03AA02,Zarzio,NA,biosimilar
+03445H,etanercept,ETANERCEPT,Injection set containing 4 vials powder for injection 25 mg and 4 pre-filled syringes solvent 1 mL,L04AB01,Enbrel,NA,reference
+03446J,etanercept,ETANERCEPT,"Injections 50 mg in 1 mL single use pre-filled syringes, 4",L04AB01,Erelzi,NA,biosimilar
+03447K,etanercept,ETANERCEPT,"Injection 50 mg in 1 mL single use auto-injector, 4",L04AB01,Erelzi,NA,biosimilar
+03448L,etanercept,ETANERCEPT,Injection set containing 4 vials powder for injection 25 mg and 4 pre-filled syringes solvent 1 mL,L04AB01,Enbrel,NA,reference
+03449M,etanercept,ETANERCEPT,"Injections 50 mg in 1 mL single use pre-filled syringes, 4",L04AB01,Erelzi,NA,biosimilar
+03450N,etanercept,ETANERCEPT,"Injection 50 mg in 1 mL single use auto-injector, 4",L04AB01,Erelzi,NA,biosimilar
+04284L,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,Remicade,NA,reference
+04400N,bevacizumab,BEVACIZUMAB,Solution for I.V. infusion 100 mg in 4 mL,L01XC07,NA,NA,reference
+04613T,rituximab,RITUXIMAB,Solution for I.V. infusion 500 mg in 50 mL,L01FA01,NA,NA,reference
+04614W,rituximab,RITUXIMAB,Solution for I.V. infusion 500 mg in 50 mL,L01FA01,NA,NA,reference
+04615X,rituximab,RITUXIMAB,Solution for I.V. infusion 500 mg in 50 mL,L01FA01,NA,NA,reference
+04632T,trastuzumab,TRASTUZUMAB,Powder for I.V. infusion 60 mg,L01FD01,Ogivri,NA,biosimilar
+04639E,trastuzumab,TRASTUZUMAB,Powder for I.V. infusion 60 mg,L01FD01,Ogivri,NA,biosimilar
+04650R,trastuzumab,TRASTUZUMAB,Powder for I.V. infusion 60 mg,L01FD01,Ogivri,NA,biosimilar
+04703M,trastuzumab,TRASTUZUMAB,Powder for I.V. infusion 60 mg,L01FD01,Ogivri,NA,biosimilar
+05281Y,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,Hadlima,NA,biosimilar
+05282B,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,Hyrimoz,NA,biosimilar
+05283C,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,Hadlima,NA,biosimilar
+05284D,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,Hyrimoz,NA,biosimilar
+05589E,rituximab,RITUXIMAB,Solution for I.V. infusion 100 mg in 10 mL,L01XC02,NA,NA,reference
+05590F,rituximab,RITUXIMAB,Solution for I.V. infusion 500 mg in 50 mL,L01XC02,NA,NA,reference
+05733R,etanercept,ETANERCEPT,"Injections 50 mg in 1 mL single use pre-filled syringes, 4",L04AB01,Erelzi,NA,biosimilar
+05734T,etanercept,ETANERCEPT,Injection set containing 4 vials powder for injection 25 mg and 4 pre-filled syringes solvent 1 mL,L04AB01,Enbrel,NA,reference
+05735W,etanercept,ETANERCEPT,"Injection 50 mg in 1 mL single use auto-injector, 4",L04AB01,Erelzi,NA,biosimilar
+05741E,filgrastim,FILGRASTIM,Injection 300 micrograms in 1 mL,L03AA02,NA,NA,reference
+05742F,filgrastim,FILGRASTIM,Injection 300 micrograms in 0.5 mL single-use pre-filled syringe,L03AA02,Nivestim,NA,biosimilar
+05743G,filgrastim,FILGRASTIM,Injection 480 micrograms in 1.6 mL,L03AA02,NA,NA,biosimilar
+05744H,filgrastim,FILGRASTIM,Injection 480 micrograms in 0.5 mL single-use pre-filled syringe,L03AA02,Nivestim,NA,biosimilar
+05753T,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,Inflectra,NA,biosimilar
+05754W,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,Inflectra,NA,biosimilar
+05755X,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,Inflectra,NA,biosimilar
+05756Y,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,Inflectra,NA,biosimilar
+05757B,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,Inflectra,NA,biosimilar
+05758C,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,Inflectra,NA,biosimilar
+05829T,filgrastim,FILGRASTIM,Injection 120 micrograms in 0.2 mL single-use pre-filled syringe,L03AA02,Nivestim,NA,biosimilar
+05830W,filgrastim,FILGRASTIM,Injection 120 micrograms in 0.2 mL single-use pre-filled syringe,L03AA02,Nivestim,NA,biosimilar
+05849W,bevacizumab,BEVACIZUMAB,Solution for I.V. infusion 100 mg in 4 mL,L01XC07,NA,NA,reference
+05850X,bevacizumab,BEVACIZUMAB,Solution for I.V. infusion 400 mg in 16 mL,L01XC07,NA,NA,reference
+05896H,rituximab,RITUXIMAB,Solution for I.V. infusion 100 mg in 10 mL,L01XC02,NA,NA,reference
+05897J,rituximab,RITUXIMAB,Solution for I.V. infusion 500 mg in 50 mL,L01XC02,NA,NA,reference
+05978P,rituximab,RITUXIMAB,Solution for I.V. infusion 100 mg in 10 mL,L01XC02,NA,NA,reference
+05979Q,rituximab,RITUXIMAB,Solution for I.V. infusion 500 mg in 50 mL,L01XC02,NA,NA,reference
+06126K,filgrastim,FILGRASTIM,Injection 300 micrograms in 1 mL,L03AA02,NA,NA,reference
+06127L,filgrastim,FILGRASTIM,Injection 480 micrograms in 1.6 mL,L03AA02,NA,NA,reference
+06224N,filgrastim,FILGRASTIM,Injection 300 micrograms in 1 mL single use pre-filled syringe,L03AA02,NA,NA,no_data
+06225P,filgrastim,FILGRASTIM,Injection 480 micrograms in 1.6 mL single use pre-filled syringe,L03AA02,NA,NA,no_data
+06291D,filgrastim,FILGRASTIM,Injection 300 micrograms in 0.5 mL single-use pre-filled syringe,L03AA02,Nivestim,NA,biosimilar
+06292E,filgrastim,FILGRASTIM,Injection 480 micrograms in 0.5 mL single-use pre-filled syringe,L03AA02,Nivestim,NA,biosimilar
+06363X,pegfilgrastim,PEGFILGRASTIM,Injection 6 mg in 0.6 mL single use pre-filled syringe,L03AA13,Ziextenzo,NA,biosimilar
+06367D,etanercept,ETANERCEPT,Injection set containing 4 vials powder for injection 25 mg and 4 pre-filled syringes solvent 1 mL,L04AB01,Enbrel,NA,reference
+06397Q,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,Inflectra,NA,biosimilar
+06398R,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg vial,L04AA12,NA,NA,no_data
+06448J,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,Inflectra,NA,biosimilar
+06496X,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,Inflectra,NA,biosimilar
+06497Y,trastuzumab,TRASTUZUMAB,Powder for I.V. infusion 150 mg,L01XC03,NA,NA,reference
+07243F,bevacizumab,BEVACIZUMAB,Solution for I.V. infusion 100 mg in 4 mL,L01XC07,NA,NA,reference
+07257Y,rituximab,RITUXIMAB,Solution for I.V. infusion 500 mg in 50 mL,L01FA01,NA,NA,reference
+07258B,rituximab,RITUXIMAB,Solution for I.V. infusion 500 mg in 50 mL,L01FA01,NA,NA,reference
+07259C,rituximab,RITUXIMAB,Solution for I.V. infusion 500 mg in 50 mL,L01FA01,NA,NA,reference
+07264H,trastuzumab,TRASTUZUMAB,Powder for I.V. infusion 60 mg,L01FD01,Ogivri,NA,biosimilar
+07265J,trastuzumab,TRASTUZUMAB,Powder for I.V. infusion 60 mg,L01FD01,Ogivri,NA,biosimilar
+07266K,trastuzumab,TRASTUZUMAB,Powder for I.V. infusion 60 mg,L01FD01,Ogivri,NA,biosimilar
+07267L,trastuzumab,TRASTUZUMAB,Powder for I.V. infusion 60 mg,L01FD01,Ogivri,NA,biosimilar
+08293L,rituximab,RITUXIMAB,Solution for I.V. infusion 100 mg in 10 mL,L01XC02,NA,NA,reference
+08294M,rituximab,RITUXIMAB,Solution for I.V. infusion 500 mg in 50 mL,L01XC02,NA,NA,reference
+08637N,etanercept,ETANERCEPT,Injection set containing 4 vials powder for injection 25 mg and 4 pre-filled syringes solvent 1 mL,L04AB01,Enbrel,NA,reference
+08638P,etanercept,ETANERCEPT,Injection set containing 4 vials powder for injection 25 mg and 4 pre-filled syringes solvent 1 mL,L04AB01,Enbrel,NA,reference
+08665C,rituximab,RITUXIMAB,Solution for I.V. infusion 100 mg in 10 mL,L01XC02,NA,NA,reference
+08666D,rituximab,RITUXIMAB,Solution for I.V. infusion 500 mg in 50 mL,L01XC02,NA,NA,reference
+08737W,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,Hadlima,NA,biosimilar
+08741C,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,Hadlima,NA,biosimilar
+08778B,etanercept,ETANERCEPT,Injection set containing 4 vials powder for injection 25 mg and 4 pre-filled syringes solvent 1 mL,L04AB01,Enbrel,NA,reference
+08779C,etanercept,ETANERCEPT,Injection set containing 4 vials powder for injection 25 mg and 4 pre-filled syringes solvent 1 mL,L04AB01,Enbrel,NA,reference
+08861J,etanercept,ETANERCEPT,Injection set containing 4 vials powder for injection 50 mg and 4 pre-filled syringes solvent 1 mL,L04AB01,NA,NA,reference
+08862K,etanercept,ETANERCEPT,Injection set containing 4 vials powder for injection 50 mg and 4 pre-filled syringes solvent 1 mL,L04AB01,NA,NA,reference
+08961P,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,NA,NA,reference
+08962Q,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,NA,NA,reference
+08963R,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,Hadlima,NA,biosimilar
+08964T,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,Hadlima,NA,biosimilar
+08965W,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,Hyrimoz,NA,biosimilar
+08966X,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,Hyrimoz,NA,biosimilar
+09033K,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,Hadlima,NA,biosimilar
+09034L,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,Hadlima,NA,biosimilar
+09035M,etanercept,ETANERCEPT,Injection set containing 4 vials powder for injection 25 mg and 4 pre-filled syringes solvent 1 mL,L04AB01,Enbrel,NA,reference
+09036N,etanercept,ETANERCEPT,Injection set containing 4 vials powder for injection 25 mg and 4 pre-filled syringes solvent 1 mL,L04AB01,Enbrel,NA,reference
+09037P,etanercept,ETANERCEPT,Injection set containing 4 vials powder for injection 25 mg and 4 pre-filled syringes solvent 1 mL,L04AB01,Enbrel,NA,reference
+09038Q,etanercept,ETANERCEPT,Injection set containing 4 vials powder for injection 50 mg and 4 pre-filled syringes solvent 1 mL,L04AB01,NA,NA,reference
+09039R,insulin glargine,INSULIN GLARGINE,"Injections (human analogue), cartridges, 100 units per mL, 3 mL, 5",A10AE04,Optisulin,human analogue,reference
+09077R,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,Hadlima,NA,biosimilar
+09078T,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,Hadlima,NA,biosimilar
+09081Y,etanercept,ETANERCEPT,Injection set containing 4 vials powder for injection 50 mg and 4 pre-filled syringes solvent 1 mL,L04AB01,NA,NA,reference
+09082B,etanercept,ETANERCEPT,Injection set containing 4 vials powder for injection 50 mg and 4 pre-filled syringes solvent 1 mL,L04AB01,NA,NA,reference
+09083C,etanercept,ETANERCEPT,Injection set containing 4 vials powder for injection 50 mg and 4 pre-filled syringes solvent 1 mL,L04AB01,NA,NA,reference
+09084D,etanercept,ETANERCEPT,Injection set containing 4 vials powder for injection 50 mg and 4 pre-filled syringes solvent 1 mL,L04AB01,NA,NA,reference
+09085E,etanercept,ETANERCEPT,"Injections 50 mg in 1 mL single use pre-filled syringes, 4",L04AB01,Brenzys,NA,biosimilar
+09086F,etanercept,ETANERCEPT,"Injections 50 mg in 1 mL single use pre-filled syringes, 4",L04AB01,Brenzys,NA,biosimilar
+09087G,etanercept,ETANERCEPT,"Injections 50 mg in 1 mL single use pre-filled syringes, 4",L04AB01,Brenzys,NA,biosimilar
+09088H,etanercept,ETANERCEPT,"Injections 50 mg in 1 mL single use pre-filled syringes, 4",L04AB01,Brenzys,NA,biosimilar
+09089J,etanercept,ETANERCEPT,"Injections 50 mg in 1 mL single use pre-filled syringes, 4",L04AB01,Brenzys,NA,biosimilar
+09090K,etanercept,ETANERCEPT,"Injections 50 mg in 1 mL single use pre-filled syringes, 4",L04AB01,Brenzys,NA,biosimilar
+09091L,etanercept,ETANERCEPT,"Injections 50 mg in 1 mL single use pre-filled syringes, 4",L04AB01,Brenzys,NA,biosimilar
+09099X,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,Hyrimoz,NA,biosimilar
+09100Y,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,Hyrimoz,NA,biosimilar
+09101B,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,Hyrimoz,NA,biosimilar
+09102C,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,Hyrimoz,NA,biosimilar
+09103D,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,Hyrimoz,NA,biosimilar
+09104E,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,Hyrimoz,NA,biosimilar
+09186L,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,NA,NA,reference
+09187M,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,NA,NA,reference
+09188N,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,Hadlima,NA,biosimilar
+09189P,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,Hadlima,NA,biosimilar
+09190Q,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,Hyrimoz,NA,biosimilar
+09191R,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,Hyrimoz,NA,biosimilar
+09425C,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,Hadlima,NA,biosimilar
+09426D,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,Hyrimoz,NA,biosimilar
+09427E,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,Hadlima,NA,biosimilar
+09428F,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,Hyrimoz,NA,biosimilar
+09429G,etanercept,ETANERCEPT,Injection set containing 4 vials powder for injection 25 mg and 4 pre-filled syringes solvent 1 mL,L04AB01,Enbrel,NA,reference
+09430H,etanercept,ETANERCEPT,Injection set containing 4 vials powder for injection 50 mg and 4 pre-filled syringes solvent 1 mL,L04AB01,NA,NA,no_data
+09431J,etanercept,ETANERCEPT,"Injections 50 mg in 1 mL single use pre-filled syringes, 4",L04AB01,Brenzys,NA,biosimilar
+09442Y,bevacizumab,BEVACIZUMAB,Solution for I.V. infusion 100 mg in 4 mL,L01XC07,NA,NA,reference
+09443B,bevacizumab,BEVACIZUMAB,Solution for I.V. infusion 400 mg in 16 mL,L01XC07,NA,NA,reference
+09455P,etanercept,ETANERCEPT,"Injection 50 mg in 1 mL single use auto-injector, 4",L04AB01,Brenzys,NA,biosimilar
+09456Q,etanercept,ETANERCEPT,"Injection 50 mg in 1 mL single use auto-injector, 4",L04AB01,Brenzys,NA,biosimilar
+09457R,etanercept,ETANERCEPT,"Injection 50 mg in 1 mL single use auto-injector, 4",L04AB01,Brenzys,NA,biosimilar
+09458T,etanercept,ETANERCEPT,"Injection 50 mg in 1 mL single use auto-injector, 4",L04AB01,Brenzys,NA,biosimilar
+09459W,etanercept,ETANERCEPT,"Injection 50 mg in 1 mL single use auto-injector, 4",L04AB01,Brenzys,NA,biosimilar
+09460X,etanercept,ETANERCEPT,"Injection 50 mg in 1 mL single use auto-injector, 4",L04AB01,Brenzys,NA,biosimilar
+09461Y,etanercept,ETANERCEPT,"Injection 50 mg in 1 mL single use auto-injector, 4",L04AB01,Brenzys,NA,biosimilar
+09462B,etanercept,ETANERCEPT,"Injection 50 mg in 1 mL single use auto-injector, 4",L04AB01,Brenzys,NA,biosimilar
+09514R,pegfilgrastim,PEGFILGRASTIM,Injection 6 mg in 0.6 mL single use pre-filled syringe,L03AA13,Ziextenzo,NA,biosimilar
+09544H,rituximab,RITUXIMAB,Solution for I.V. infusion 500 mg in 50 mL,L01FA01,NA,NA,reference
+09601H,pegfilgrastim,PEGFILGRASTIM,Injection 6 mg in 0.6 mL single use pre-filled injection pen,L03AA13,NA,NA,no_data
+09611W,rituximab,RITUXIMAB,Solution for I.V. infusion 500 mg in 50 mL,L01FA01,NA,NA,reference
+09612X,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,Inflectra,NA,biosimilar
+09613Y,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,Inflectra,NA,biosimilar
+09615C,etanercept,ETANERCEPT,"Injections 50 mg in 1 mL single use pre-filled syringes, 4",L04AB01,Erelzi,NA,biosimilar
+09617E,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,Inflectra,NA,biosimilar
+09641K,etanercept,ETANERCEPT,"Injection 50 mg in 1 mL single use auto-injector, 4",L04AB01,Erelzi,NA,biosimilar
+09654D,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,Inflectra,NA,biosimilar
+09661L,adalimumab,ADALIMUMAB,Injection 20 mg in 0.4 mL pre-filled syringe,L04AB04,NA,NA,reference
+09662M,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,Hadlima,NA,biosimilar
+09663N,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,Hyrimoz,NA,biosimilar
+09674E,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,Inflectra,NA,biosimilar
+09678J,adalimumab,ADALIMUMAB,Injection 20 mg in 0.4 mL pre-filled syringe,L04AB04,NA,NA,reference
+09679K,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,Hadlima,NA,biosimilar
+09680L,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,Hyrimoz,NA,biosimilar
+09689Y,trastuzumab,TRASTUZUMAB,Powder for I.V. infusion 150 mg,L01XC03,NA,NA,reference
+09690B,trastuzumab,TRASTUZUMAB,Powder for I.V. infusion 60 mg,L01XC03,NA,NA,reference
+09691C,trastuzumab,TRASTUZUMAB,Powder for I.V. infusion 60 mg,L01XC03,NA,NA,reference
+09692D,filgrastim,FILGRASTIM,Injection 300 micrograms in 0.5 mL single-use pre-filled syringe,L03AA02,NA,NA,biosimilar
+09693E,filgrastim,FILGRASTIM,Injection 300 micrograms in 0.5 mL single-use pre-filled syringe,L03AA02,NA,NA,biosimilar
+09694F,filgrastim,FILGRASTIM,Injection 480 micrograms in 0.5 mL single-use pre-filled syringe,L03AA02,NA,NA,biosimilar
+09695G,filgrastim,FILGRASTIM,Injection 480 micrograms in 0.5 mL single-use pre-filled syringe,L03AA02,NA,NA,biosimilar
+10057H,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,Inflectra,NA,biosimilar
+10067W,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,Inflectra,NA,biosimilar
+10114H,bevacizumab,BEVACIZUMAB,Solution for I.V. infusion 100 mg in 4 mL,L01XC07,NA,NA,reference
+10115J,bevacizumab,BEVACIZUMAB,Solution for I.V. infusion 100 mg in 4 mL,L01XC07,NA,NA,reference
+10120P,bevacizumab,BEVACIZUMAB,Solution for I.V. infusion 100 mg in 4 mL,L01XC07,NA,NA,reference
+10121Q,bevacizumab,BEVACIZUMAB,Solution for I.V. infusion 100 mg in 4 mL,L01XC07,NA,NA,reference
+10179R,rituximab,RITUXIMAB,Solution for I.V. infusion 500 mg in 50 mL,L01FA01,NA,NA,reference
+10184B,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,Inflectra,NA,biosimilar
+10193L,rituximab,RITUXIMAB,Solution for I.V. infusion 500 mg in 50 mL,L01FA01,NA,NA,reference
+10196P,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,Inflectra,NA,biosimilar
+10269L,trastuzumab,TRASTUZUMAB,Powder for I.V. infusion 60 mg,L01XC03,NA,NA,reference
+10270M,trastuzumab,TRASTUZUMAB,Powder for I.V. infusion 60 mg,L01XC03,NA,NA,reference
+10296X,trastuzumab,TRASTUZUMAB,Powder for I.V. infusion 60 mg,L01XC03,NA,NA,reference
+10324J,trastuzumab,TRASTUZUMAB,Powder for I.V. infusion 60 mg,L01XC03,NA,NA,reference
+10346M,trastuzumab,TRASTUZUMAB,Powder for I.V. infusion 60 mg,L01XC03,NA,NA,reference
+10362J,trastuzumab,TRASTUZUMAB,Powder for I.V. infusion 60 mg,L01XC03,NA,NA,reference
+10381J,trastuzumab,TRASTUZUMAB,Powder for I.V. infusion 60 mg,L01XC03,NA,NA,reference
+10383L,trastuzumab,TRASTUZUMAB,Powder for I.V. infusion 60 mg,L01FD01,Ogivri,NA,biosimilar
+10389T,adalimumab,ADALIMUMAB,Injection 20 mg in 0.4 mL pre-filled syringe,L04AB04,NA,NA,reference
+10391X,trastuzumab,TRASTUZUMAB,Powder for I.V. infusion 60 mg,L01FD01,Ogivri,NA,biosimilar
+10396E,adalimumab,ADALIMUMAB,Injection 20 mg in 0.4 mL pre-filled syringe,L04AB04,NA,NA,reference
+10397F,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,NA,NA,reference
+10399H,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,Hadlima,NA,biosimilar
+10400J,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,Hyrimoz,NA,biosimilar
+10401K,trastuzumab,TRASTUZUMAB,Powder for I.V. infusion 60 mg,L01FD01,Ogivri,NA,biosimilar
+10402L,trastuzumab,TRASTUZUMAB,Powder for I.V. infusion 60 mg,L01FD01,Ogivri,NA,biosimilar
+10404N,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,NA,NA,reference
+10412B,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,Hadlima,NA,biosimilar
+10413C,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,Hyrimoz,NA,biosimilar
+10419J,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,Hadlima,NA,biosimilar
+10420K,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,Hyrimoz,NA,biosimilar
+10422M,adalimumab,ADALIMUMAB,Injection 20 mg in 0.4 mL pre-filled syringe,L04AB04,NA,NA,reference
+10423N,trastuzumab,TRASTUZUMAB,Powder for I.V. infusion 60 mg,L01XC03,NA,NA,reference
+10505X,aflibercept,AFLIBERCEPT,Solution for intravitreal injection 4 mg in 100 microlitres (40 mg per mL),S01LA05,Eylea,40 mg per mL,reference
+10575N,trastuzumab,TRASTUZUMAB,Powder for I.V. infusion 60 mg,L01XC03,NA,NA,reference
+10576P,rituximab,RITUXIMAB,Solution for I.V. infusion 500 mg in 50 mL,L01FA01,NA,NA,reference
+10581X,trastuzumab,TRASTUZUMAB,Powder for I.V. infusion 60 mg,L01FD01,Ogivri,NA,biosimilar
+10583B,rituximab,RITUXIMAB,Solution for I.V. infusion 100 mg in 10 mL,L01FA01,NA,NA,reference
+10588G,trastuzumab,TRASTUZUMAB,Powder for I.V. infusion 60 mg,L01FD01,Ogivri,NA,biosimilar
+10589H,trastuzumab,TRASTUZUMAB,Powder for I.V. infusion 60 mg,L01FD01,Ogivri,NA,biosimilar
+10591K,rituximab,RITUXIMAB,Solution for I.V. infusion 100 mg in 10 mL,L01FA01,NA,NA,reference
+10593M,rituximab,RITUXIMAB,Solution for I.V. infusion 500 mg in 50 mL,L01FA01,NA,NA,reference
+10595P,trastuzumab,TRASTUZUMAB,Powder for I.V. infusion 60 mg,L01XC03,NA,NA,reference
+10597R,trastuzumab,TRASTUZUMAB,Powder for I.V. infusion 60 mg,L01FD01,Ogivri,NA,biosimilar
+10682F,trastuzumab,TRASTUZUMAB,Solution for subcutaneous injection containing trastuzumab 600 mg in 5 mL,L01FD01,Herceptin SC,NA,reference
+10703H,rituximab,RITUXIMAB,Solution for subcutaneous injection containing rituximab 1400 mg in 11.7 mL,L01XC02,NA,NA,reference
+10708N,rituximab,RITUXIMAB,Solution for subcutaneous injection containing rituximab 1400 mg in 11.7 mL,L01XC02,NA,NA,reference
+10709P,rituximab,RITUXIMAB,Solution for subcutaneous injection containing rituximab 1400 mg in 11.7 mL,L01XC02,NA,NA,reference
+10710Q,rituximab,RITUXIMAB,Solution for subcutaneous injection containing rituximab 1400 mg in 11.7 mL,L01XC02,NA,NA,reference
+10719E,rituximab,RITUXIMAB,Solution for subcutaneous injection containing rituximab 1400 mg in 11.7 mL,L01XC02,NA,NA,reference
+10720F,rituximab,RITUXIMAB,Solution for subcutaneous injection containing rituximab 1400 mg in 11.7 mL,L01XC02,NA,NA,reference
+10721G,trastuzumab,TRASTUZUMAB,Solution for subcutaneous injection containing trastuzumab 600 mg in 5 mL,L01XC03,NA,NA,reference
+10741H,rituximab,RITUXIMAB,Solution for subcutaneous injection containing rituximab 1400 mg in 11.7 mL,L01XC02,NA,NA,reference
+10742J,rituximab,RITUXIMAB,Solution for subcutaneous injection containing rituximab 1400 mg in 11.7 mL,L01XC02,NA,NA,reference
+10743K,trastuzumab,TRASTUZUMAB,Solution for subcutaneous injection containing trastuzumab 600 mg in 5 mL,L01FD01,Herceptin SC,NA,reference
+10744L,trastuzumab,TRASTUZUMAB,Solution for subcutaneous injection containing trastuzumab 600 mg in 5 mL,L01XC03,NA,NA,reference
+10798H,trastuzumab,TRASTUZUMAB,Solution for subcutaneous injection containing trastuzumab 600 mg in 5 mL,L01FD01,Herceptin SC,NA,reference
+10803N,trastuzumab,TRASTUZUMAB,Solution for subcutaneous injection containing trastuzumab 600 mg in 5 mL,L01FD01,Herceptin SC,NA,reference
+10811B,trastuzumab,TRASTUZUMAB,Solution for subcutaneous injection containing trastuzumab 600 mg in 5 mL,L01FD01,Herceptin SC,NA,reference
+10817H,trastuzumab,TRASTUZUMAB,Solution for subcutaneous injection containing trastuzumab 600 mg in 5 mL,L01FD01,Herceptin SC,NA,reference
+10825R,trastuzumab,TRASTUZUMAB,Solution for subcutaneous injection containing trastuzumab 600 mg in 5 mL,L01XC03,NA,NA,reference
+10829Y,trastuzumab,TRASTUZUMAB,Solution for subcutaneous injection containing trastuzumab 600 mg in 5 mL,L01XC03,NA,NA,reference
+10881Q,bevacizumab,BEVACIZUMAB,Solution for I.V. infusion 100 mg in 4 mL,L01XC07,NA,NA,reference
+10885X,bevacizumab,BEVACIZUMAB,Solution for I.V. infusion 100 mg in 4 mL,L01XC07,NA,NA,reference
+10944B,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,Hadlima,NA,biosimilar
+10945C,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,NA,NA,reference
+10955N,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,Hyrimoz,NA,biosimilar
+10960W,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,Hadlima,NA,biosimilar
+10961X,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,Hyrimoz,NA,biosimilar
+10972L,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,NA,NA,reference
+11121H,adalimumab,ADALIMUMAB,Injection 20 mg in 0.4 mL pre-filled syringe,L04AB04,NA,NA,reference
+11127P,adalimumab,ADALIMUMAB,Injection 20 mg in 0.4 mL pre-filled syringe,L04AB04,NA,NA,reference
+11132X,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,NA,NA,reference
+11133Y,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,NA,NA,reference
+11137E,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,NA,NA,reference
+11196G,etanercept,ETANERCEPT,"Injections 50 mg in 1 mL single use pre-filled syringes, 4",L04AB01,Brenzys,NA,biosimilar
+11197H,etanercept,ETANERCEPT,Injection set containing 4 vials powder for injection 25 mg and 4 pre-filled syringes solvent 1 mL,L04AB01,Enbrel,NA,reference
+11198J,etanercept,ETANERCEPT,"Injection 50 mg in 1 mL single use auto-injector, 4",L04AB01,Brenzys,NA,biosimilar
+11201M,etanercept,ETANERCEPT,"Injection 50 mg in 1 mL single use auto-injector, 4",L04AB01,Brenzys,NA,biosimilar
+11202N,etanercept,ETANERCEPT,"Injection 50 mg in 1 mL single use auto-injector, 4",L04AB01,Brenzys,NA,biosimilar
+11204Q,etanercept,ETANERCEPT,Injection set containing 4 vials powder for injection 25 mg and 4 pre-filled syringes solvent 1 mL,L04AB01,Enbrel,NA,reference
+11207W,etanercept,ETANERCEPT,Injection set containing 4 vials powder for injection 25 mg and 4 pre-filled syringes solvent 1 mL,L04AB01,Enbrel,NA,reference
+11208X,etanercept,ETANERCEPT,"Injections 50 mg in 1 mL single use pre-filled syringes, 4",L04AB01,Brenzys,NA,biosimilar
+11211C,etanercept,ETANERCEPT,"Injections 50 mg in 1 mL single use pre-filled syringes, 4",L04AB01,Brenzys,NA,biosimilar
+11215G,etanercept,ETANERCEPT,"Injection 50 mg in 1 mL single use auto-injector, 4",L04AB01,Brenzys,NA,biosimilar
+11216H,etanercept,ETANERCEPT,"Injections 50 mg in 1 mL single use pre-filled syringes, 4",L04AB01,Brenzys,NA,biosimilar
+11217J,etanercept,ETANERCEPT,"Injections 50 mg in 1 mL single use pre-filled syringes, 4",L04AB01,Brenzys,NA,biosimilar
+11218K,etanercept,ETANERCEPT,"Injection 50 mg in 1 mL single use auto-injector, 4",L04AB01,Brenzys,NA,biosimilar
+11219L,etanercept,ETANERCEPT,"Injections 50 mg in 1 mL single use pre-filled syringes, 4",L04AB01,NA,NA,biosimilar
+11220M,etanercept,ETANERCEPT,"Injection 50 mg in 1 mL single use auto-injector, 4",L04AB01,NA,NA,biosimilar
+11221N,etanercept,ETANERCEPT,"Injection 50 mg in 1 mL single use auto-injector, 4",L04AB01,Brenzys,NA,biosimilar
+11222P,etanercept,ETANERCEPT,"Injection 50 mg in 1 mL single use auto-injector, 4",L04AB01,Brenzys,NA,biosimilar
+11223Q,etanercept,ETANERCEPT,Injection set containing 4 vials powder for injection 25 mg and 4 pre-filled syringes solvent 1 mL,L04AB01,Enbrel,NA,reference
+11224R,etanercept,ETANERCEPT,"Injections 50 mg in 1 mL single use pre-filled syringes, 4",L04AB01,Brenzys,NA,biosimilar
+11225T,etanercept,ETANERCEPT,"Injections 50 mg in 1 mL single use pre-filled syringes, 4",L04AB01,Brenzys,NA,biosimilar
+11302W,insulin glargine,INSULIN GLARGINE,"Injections (human analogue), cartridges, 300 units per mL, 1.5 mL, 5",A10AE04,Toujeo Solostar,human analogue,reference
+11308E,insulin glargine,INSULIN GLARGINE,"Injections (human analogue), cartridge, 300 units per mL, 1.5 mL, 3",A10AE04,Toujeo Solostar,human analogue,reference
+11389K,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,Inflectra,NA,biosimilar
+11396T,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,Inflectra,NA,biosimilar
+11399Y,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,Inflectra,NA,biosimilar
+11400B,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,Inflectra,NA,biosimilar
+11412P,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,Inflectra,NA,biosimilar
+11423F,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,Inflectra,NA,biosimilar
+11424G,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,Inflectra,NA,biosimilar
+11432Q,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,Inflectra,NA,biosimilar
+11445J,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,Inflectra,NA,biosimilar
+11448M,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,Inflectra,NA,biosimilar
+11449N,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,Inflectra,NA,biosimilar
+11450P,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,Inflectra,NA,biosimilar
+11459D,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,Inflectra,NA,biosimilar
+11461F,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,Inflectra,NA,biosimilar
+11481G,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,NA,NA,biosimilar
+11482H,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,Inflectra,NA,biosimilar
+11483J,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,Inflectra,NA,biosimilar
+11486M,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,Inflectra,NA,biosimilar
+11487N,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,NA,NA,biosimilar
+11488P,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,Inflectra,NA,biosimilar
+11489Q,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,Inflectra,NA,biosimilar
+11490R,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,Inflectra,NA,biosimilar
+11497D,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,Inflectra,NA,biosimilar
+11498E,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,Inflectra,NA,biosimilar
+11514B,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,Inflectra,NA,biosimilar
+11515C,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,Inflectra,NA,biosimilar
+11590B,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,Inflectra,NA,biosimilar
+11595G,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,Inflectra,NA,biosimilar
+11605T,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,Inflectra,NA,biosimilar
+11606W,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,Inflectra,NA,biosimilar
+11727F,bevacizumab,BEVACIZUMAB,Solution for I.V. infusion 100 mg in 4 mL,L01XC07,NA,NA,reference
+11731K,bevacizumab,BEVACIZUMAB,Solution for I.V. infusion 100 mg in 4 mL,L01XC07,NA,NA,reference
+11745E,bevacizumab,BEVACIZUMAB,Solution for I.V. infusion 100 mg in 4 mL,L01XC07,NA,NA,reference
+11749J,bevacizumab,BEVACIZUMAB,Solution for I.V. infusion 100 mg in 4 mL,L01XC07,NA,NA,reference
+11790M,rituximab,RITUXIMAB,Solution for I.V. infusion 500 mg in 50 mL,L01FA01,NA,NA,biosimilar
+11791N,bevacizumab,BEVACIZUMAB,Solution for I.V. infusion 100 mg in 4 mL,L01XC07,NA,NA,reference
+11796W,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,Inflectra,NA,biosimilar
+11797X,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,Inflectra,NA,biosimilar
+11800C,rituximab,RITUXIMAB,Solution for I.V. infusion 500 mg in 50 mL,L01FA01,NA,NA,biosimilar
+11803F,bevacizumab,BEVACIZUMAB,Solution for I.V. infusion 100 mg in 4 mL,L01XC07,NA,NA,reference
+11804G,rituximab,RITUXIMAB,Solution for I.V. infusion 500 mg in 50 mL,L01FA01,NA,NA,biosimilar
+11805H,rituximab,RITUXIMAB,Solution for I.V. infusion 500 mg in 50 mL,L01FA01,NA,NA,biosimilar
+11809M,bevacizumab,BEVACIZUMAB,Solution for I.V. infusion 100 mg in 4 mL,L01XC07,NA,NA,reference
+11810N,rituximab,RITUXIMAB,Solution for I.V. infusion 100 mg in 10 mL,L01FA01,NA,NA,biosimilar
+11811P,bevacizumab,BEVACIZUMAB,Solution for I.V. infusion 100 mg in 4 mL,L01XC07,NA,NA,reference
+11813R,rituximab,RITUXIMAB,Solution for I.V. infusion 100 mg in 10 mL,L01FA01,NA,NA,biosimilar
+11815W,insulin glargine,INSULIN GLARGINE,"Injections (human analogue), cartridges, 100 units per mL, 3 mL, 5",A10AE04,Optisulin SoloStar,human analogue,reference
+11935E,rituximab,RITUXIMAB,Solution for I.V. infusion 500 mg in 50 mL,L01FA01,NA,NA,biosimilar
+11936F,rituximab,RITUXIMAB,Solution for I.V. infusion 500 mg in 50 mL,L01FA01,NA,NA,biosimilar
+11942M,rituximab,RITUXIMAB,Solution for subcutaneous injection containing rituximab 1400 mg in 11.7 mL,L01XC02,NA,NA,biosimilar
+11988Y,rituximab,RITUXIMAB,Solution for subcutaneous injection containing rituximab 1400 mg in 11.7 mL,L01XC02,NA,NA,biosimilar
+11991D,aflibercept,AFLIBERCEPT,Solution for intravitreal injection 4 mg in 100 microlitres (40 mg per mL),S01LA05,Eylea,40 mg per mL,reference
+12131L,aflibercept,AFLIBERCEPT,Solution for intravitreal injection 4 mg in 100 microlitres (40 mg per mL),S01LA05,Eylea,40 mg per mL,reference
+12132M,aflibercept,AFLIBERCEPT,Solution for intravitreal injection 3.6 mg in 90 microlitres (40 mg per mL) pre-filled syringe,S01LA05,Eylea,40 mg per mL,reference
+12141B,aflibercept,AFLIBERCEPT,Solution for intravitreal injection 3.6 mg in 90 microlitres (40 mg per mL) pre-filled syringe,S01LA05,Eylea,40 mg per mL,reference
+12152N,aflibercept,AFLIBERCEPT,Solution for intravitreal injection 3.6 mg in 90 microlitres (40 mg per mL) pre-filled syringe,S01LA05,Eylea,40 mg per mL,reference
+12153P,aflibercept,AFLIBERCEPT,Solution for intravitreal injection 3.6 mg in 90 microlitres (40 mg per mL) pre-filled syringe,S01LA05,Eylea,40 mg per mL,reference
+12165G,bevacizumab,BEVACIZUMAB,Solution for I.V. infusion 100 mg in 4 mL,L01XC07,NA,NA,reference
+12166H,bevacizumab,BEVACIZUMAB,Solution for I.V. infusion 100 mg in 4 mL,L01XC07,NA,NA,reference
+12325Q,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,Hadlima,NA,biosimilar
+12326R,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,Hadlima,NA,biosimilar
+12327T,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,Hadlima,NA,biosimilar
+12328W,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,Hyrimoz,NA,biosimilar
+12329X,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,Hyrimoz,NA,biosimilar
+12330Y,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,Hyrimoz,NA,biosimilar
+12331B,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,Hadlima,NA,biosimilar
+12332C,adalimumab,ADALIMUMAB,Injection 20 mg in 0.4 mL pre-filled syringe,L04AB04,Amgevita,NA,biosimilar
+12333D,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,Hadlima,NA,biosimilar
+12334E,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,Hyrimoz,NA,biosimilar
+12335F,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,Humira,NA,reference
+12336G,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,NA,NA,biosimilar
+12337H,adalimumab,ADALIMUMAB,Injection 20 mg in 0.2 mL pre-filled syringe,L04AB04,Humira,NA,reference
+12338J,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,Humira,NA,reference
+12339K,adalimumab,ADALIMUMAB,Injection 80 mg in 0.8 mL pre-filled syringe,L04AB04,Humira,NA,reference
+12340L,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,Humira,NA,reference
+12341M,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,Humira,NA,reference
+12342N,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,Humira,NA,reference
+12343P,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,NA,NA,biosimilar
+12344Q,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,NA,NA,biosimilar
+12345R,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,Humira,NA,reference
+12346T,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,NA,NA,biosimilar
+12347W,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,Humira,NA,reference
+12348X,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,Hadlima,NA,biosimilar
+12349Y,adalimumab,ADALIMUMAB,Injection 20 mg in 0.4 mL pre-filled syringe,L04AB04,Amgevita,NA,biosimilar
+12350B,adalimumab,ADALIMUMAB,Injection 20 mg in 0.4 mL pre-filled syringe,L04AB04,Amgevita,NA,biosimilar
+12351C,adalimumab,ADALIMUMAB,Injection 20 mg in 0.4 mL pre-filled syringe,L04AB04,Amgevita,NA,biosimilar
+12352D,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,Hyrimoz,NA,biosimilar
+12353E,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,Hyrimoz,NA,biosimilar
+12354F,adalimumab,ADALIMUMAB,Injection 20 mg in 0.4 mL pre-filled syringe,L04AB04,Amgevita,NA,biosimilar
+12355G,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,Hyrimoz,NA,biosimilar
+12356H,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,Hyrimoz,NA,biosimilar
+12357J,adalimumab,ADALIMUMAB,Injection 20 mg in 0.4 mL pre-filled syringe,L04AB04,Amgevita,NA,biosimilar
+12358K,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,Humira,NA,reference
+12359L,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,Humira,NA,reference
+12360M,adalimumab,ADALIMUMAB,Injection 80 mg in 0.8 mL pre-filled pen,L04AB04,Humira,NA,reference
+12361N,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,Humira,NA,reference
+12362P,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,Humira,NA,reference
+12363Q,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,Humira,NA,reference
+12364R,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,Humira,NA,reference
+12365T,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,Hadlima,NA,biosimilar
+12366W,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,Hadlima,NA,biosimilar
+12367X,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,Hadlima,NA,biosimilar
+12368Y,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,Hyrimoz,NA,biosimilar
+12369B,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,Hyrimoz,NA,biosimilar
+12370C,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,Hyrimoz,NA,biosimilar
+12371D,adalimumab,ADALIMUMAB,Injection 20 mg in 0.2 mL pre-filled syringe,L04AB04,Humira,NA,reference
+12372E,adalimumab,ADALIMUMAB,Injection 80 mg in 0.8 mL pre-filled syringe,L04AB04,Humira,NA,reference
+12373F,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,Humira,NA,reference
+12374G,adalimumab,ADALIMUMAB,Injection 80 mg in 0.8 mL pre-filled pen,L04AB04,Humira,NA,reference
+12375H,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,Humira,NA,reference
+12376J,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,Humira,NA,reference
+12377K,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,Humira,NA,reference
+12378L,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,Humira,NA,reference
+12379M,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,Humira,NA,reference
+12380N,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,Humira,NA,reference
+12381P,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,Humira,NA,reference
+12382Q,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,Humira,NA,reference
+12383R,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,Humira,NA,reference
+12384T,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,Hadlima,NA,biosimilar
+12385W,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,Hyrimoz,NA,biosimilar
+12386X,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,Hyrimoz,NA,biosimilar
+12387Y,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,Hadlima,NA,biosimilar
+12388B,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,Hyrimoz,NA,biosimilar
+12389C,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,Humira,NA,reference
+12390D,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,Humira,NA,reference
+12391E,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,Humira,NA,reference
+12392F,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,NA,NA,biosimilar
+12393G,adalimumab,ADALIMUMAB,Injection 80 mg in 0.8 mL pre-filled syringe,L04AB04,Humira,NA,reference
+12394H,adalimumab,ADALIMUMAB,Injection 80 mg in 0.8 mL pre-filled syringe,L04AB04,Humira,NA,reference
+12395J,adalimumab,ADALIMUMAB,Injection 80 mg in 0.8 mL pre-filled syringe,L04AB04,Humira,NA,reference
+12396K,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,Humira,NA,reference
+12397L,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,Humira,NA,reference
+12398M,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,Humira,NA,reference
+12399N,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,Humira,NA,reference
+12400P,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,Humira,NA,reference
+12401Q,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,Hyrimoz,NA,biosimilar
+12402R,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,Hyrimoz,NA,biosimilar
+12403T,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,Hyrimoz,NA,biosimilar
+12404W,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,NA,NA,biosimilar
+12405X,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,Humira,NA,reference
+12406Y,adalimumab,ADALIMUMAB,Injection 20 mg in 0.2 mL pre-filled syringe,L04AB04,Humira,NA,reference
+12407B,adalimumab,ADALIMUMAB,Injection 20 mg in 0.2 mL pre-filled syringe,L04AB04,Humira,NA,reference
+12408C,adalimumab,ADALIMUMAB,Injection 80 mg in 0.8 mL pre-filled syringe,L04AB04,Humira,NA,reference
+12409D,adalimumab,ADALIMUMAB,Injection 80 mg in 0.8 mL pre-filled syringe,L04AB04,Humira,NA,reference
+12410E,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,Humira,NA,reference
+12411F,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,Humira,NA,reference
+12412G,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,Humira,NA,reference
+12413H,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,Humira,NA,reference
+12414J,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,Humira,NA,reference
+12415K,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,Hyrimoz,NA,biosimilar
+12416L,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,Hadlima,NA,biosimilar
+12417M,adalimumab,ADALIMUMAB,Injection 20 mg in 0.4 mL pre-filled syringe,L04AB04,Amgevita,NA,biosimilar
+12418N,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,NA,NA,biosimilar
+12419P,adalimumab,ADALIMUMAB,Injection 80 mg in 0.8 mL pre-filled pen,L04AB04,Humira,NA,reference
+12420Q,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,Hyrimoz,NA,biosimilar
+12421R,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,Humira,NA,reference
+12422T,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,Humira,NA,reference
+12423W,adalimumab,ADALIMUMAB,Injection 20 mg in 0.2 mL pre-filled syringe,L04AB04,Humira,NA,reference
+12424X,adalimumab,ADALIMUMAB,Injection 20 mg in 0.2 mL pre-filled syringe,L04AB04,Humira,NA,reference
+12425Y,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,Humira,NA,reference
+12426B,adalimumab,ADALIMUMAB,Injection 80 mg in 0.8 mL pre-filled pen,L04AB04,Humira,NA,reference
+12427C,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,NA,NA,biosimilar
+12428D,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,Humira,NA,reference
+12429E,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,Humira,NA,reference
+12430F,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,Humira,NA,reference
+12431G,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,Humira,NA,reference
+12432H,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,Humira,NA,reference
+12433J,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,Humira,NA,reference
+12434K,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,Hadlima,NA,biosimilar
+12435L,adalimumab,ADALIMUMAB,Injection 20 mg in 0.4 mL pre-filled syringe,L04AB04,Amgevita,NA,biosimilar
+12436M,adalimumab,ADALIMUMAB,Injection 20 mg in 0.4 mL pre-filled syringe,L04AB04,Amgevita,NA,biosimilar
+12437N,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,Hadlima,NA,biosimilar
+12438P,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,Hadlima,NA,biosimilar
+12439Q,adalimumab,ADALIMUMAB,Injection 20 mg in 0.4 mL pre-filled syringe,L04AB04,Amgevita,NA,biosimilar
+12440R,adalimumab,ADALIMUMAB,Injection 20 mg in 0.4 mL pre-filled syringe,L04AB04,Amgevita,NA,biosimilar
+12441T,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,NA,NA,biosimilar
+12442W,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,Humira,NA,reference
+12443X,adalimumab,ADALIMUMAB,Injection 20 mg in 0.2 mL pre-filled syringe,L04AB04,Humira,NA,reference
+12444Y,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,Humira,NA,reference
+12445B,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,NA,NA,biosimilar
+12446C,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,Humira,NA,reference
+12447D,adalimumab,ADALIMUMAB,Injection 80 mg in 0.8 mL pre-filled pen,L04AB04,Humira,NA,reference
+12448E,adalimumab,ADALIMUMAB,Injection 80 mg in 0.8 mL pre-filled pen,L04AB04,Humira,NA,reference
+12449F,adalimumab,ADALIMUMAB,Injection 80 mg in 0.8 mL pre-filled pen,L04AB04,Humira,NA,reference
+12450G,adalimumab,ADALIMUMAB,Injection 80 mg in 0.8 mL pre-filled pen,L04AB04,Humira,NA,reference
+12451H,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,Humira,NA,reference
+12452J,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,NA,NA,biosimilar
+12453K,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,Humira,NA,reference
+12454L,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,Humira,NA,reference
+12455M,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,Humira,NA,reference
+12479T,bevacizumab,BEVACIZUMAB,Solution for I.V. infusion 100 mg in 4 mL,L01FG01,Mvasi,NA,biosimilar
+12508H,bevacizumab,BEVACIZUMAB,Solution for I.V. infusion 100 mg in 4 mL,L01FG01,Mvasi,NA,biosimilar
+12524E,adalimumab,ADALIMUMAB,Injection 80 mg in 0.8 mL pre-filled syringe,L04AB04,Humira,NA,reference
+12550M,infliximab,INFLIXIMAB,Solution for injection 120 mg in 1 mL pre-filled syringe,L04AB02,Remsima SC,NA,biosimilar
+12551N,infliximab,INFLIXIMAB,Solution for injection 120 mg in 1 mL pre-filled pen,L04AB02,Remsima SC,NA,biosimilar
+12552P,infliximab,INFLIXIMAB,Solution for injection 120 mg in 1 mL pre-filled syringe,L04AB02,Remsima SC,NA,biosimilar
+12553Q,infliximab,INFLIXIMAB,Solution for injection 120 mg in 1 mL pre-filled syringe,L04AB02,Remsima SC,NA,biosimilar
+12554R,infliximab,INFLIXIMAB,Solution for injection 120 mg in 1 mL pre-filled pen,L04AB02,Remsima SC,NA,biosimilar
+12555T,infliximab,INFLIXIMAB,Solution for injection 120 mg in 1 mL pre-filled syringe,L04AB02,Remsima SC,NA,biosimilar
+12560C,infliximab,INFLIXIMAB,Solution for injection 120 mg in 1 mL pre-filled pen,L04AB02,Remsima SC,NA,biosimilar
+12561D,infliximab,INFLIXIMAB,Solution for injection 120 mg in 1 mL pre-filled syringe,L04AB02,Remsima SC,NA,biosimilar
+12566J,infliximab,INFLIXIMAB,Solution for injection 120 mg in 1 mL pre-filled pen,L04AB02,Remsima SC,NA,biosimilar
+12567K,infliximab,INFLIXIMAB,Solution for injection 120 mg in 1 mL pre-filled pen,L04AB02,Remsima SC,NA,biosimilar
+12575W,infliximab,INFLIXIMAB,Solution for injection 120 mg in 1 mL pre-filled pen,L04AB02,Remsima SC,NA,biosimilar
+12576X,infliximab,INFLIXIMAB,Solution for injection 120 mg in 1 mL pre-filled syringe,L04AB02,Remsima SC,NA,biosimilar
+12577Y,infliximab,INFLIXIMAB,Solution for injection 120 mg in 1 mL pre-filled pen,L04AB02,Remsima SC,NA,biosimilar
+12584H,infliximab,INFLIXIMAB,Solution for injection 120 mg in 1 mL pre-filled pen,L04AB02,Remsima SC,NA,biosimilar
+12585J,infliximab,INFLIXIMAB,Solution for injection 120 mg in 1 mL pre-filled syringe,L04AB02,Remsima SC,NA,biosimilar
+12586K,infliximab,INFLIXIMAB,Solution for injection 120 mg in 1 mL pre-filled syringe,L04AB02,Remsima SC,NA,biosimilar
+12587L,infliximab,INFLIXIMAB,Solution for injection 120 mg in 1 mL pre-filled pen,L04AB02,Remsima SC,NA,biosimilar
+12597B,infliximab,INFLIXIMAB,Solution for injection 120 mg in 1 mL pre-filled syringe,L04AB02,Remsima SC,NA,biosimilar
+12674C,adalimumab,ADALIMUMAB,Injection 20 mg in 0.4 mL pre-filled syringe,L04AB04,NA,NA,no_data
+12675D,etanercept,ETANERCEPT,"Injections 50 mg in 1 mL single use pre-filled syringes, 4",L04AB01,NA,NA,biosimilar
+12676E,etanercept,ETANERCEPT,"Injections 50 mg in 1 mL single use pre-filled syringes, 4",L04AB01,NA,NA,biosimilar
+12677F,infliximab,INFLIXIMAB,Solution for injection 120 mg in 1 mL pre-filled syringe,L04AB02,NA,NA,biosimilar
+12678G,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,NA,NA,biosimilar
+12679H,etanercept,ETANERCEPT,"Injection 50 mg in 1 mL single use auto-injector, 4",L04AB01,NA,NA,biosimilar
+12686Q,adalimumab,ADALIMUMAB,Injection 20 mg in 0.2 mL pre-filled syringe,L04AB04,NA,NA,biosimilar
+12687R,infliximab,INFLIXIMAB,Solution for injection 120 mg in 1 mL pre-filled pen,L04AB02,NA,NA,biosimilar
+12688T,infliximab,INFLIXIMAB,Solution for injection 120 mg in 1 mL pre-filled syringe,L04AB02,NA,NA,no_data
+12689W,infliximab,INFLIXIMAB,Solution for injection 120 mg in 1 mL pre-filled pen,L04AB02,NA,NA,biosimilar
+12690X,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,NA,NA,biosimilar
+12695E,adalimumab,ADALIMUMAB,Injection 20 mg in 0.4 mL pre-filled syringe,L04AB04,NA,NA,no_data
+12696F,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,NA,NA,biosimilar
+12697G,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,NA,NA,biosimilar
+12698H,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,NA,NA,biosimilar
+12699J,adalimumab,ADALIMUMAB,Injection 20 mg in 0.2 mL pre-filled syringe,L04AB04,NA,NA,no_data
+12700K,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,NA,NA,biosimilar
+12701L,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,NA,NA,biosimilar
+12715F,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,NA,NA,biosimilar
+12716G,etanercept,ETANERCEPT,"Injection 50 mg in 1 mL single use auto-injector, 4",L04AB01,NA,NA,biosimilar
+12717H,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,NA,NA,biosimilar
+12718J,etanercept,ETANERCEPT,Injection set containing 4 vials powder for injection 25 mg and 4 pre-filled syringes solvent 1 mL,L04AB01,NA,NA,biosimilar
+12719K,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,NA,NA,biosimilar
+12721M,rituximab,RITUXIMAB,Solution for I.V. infusion 500 mg in 50 mL,L01FA01,NA,NA,biosimilar
+12729Y,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,NA,NA,biosimilar
+12731C,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,NA,NA,biosimilar
+12732D,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,NA,NA,biosimilar
+12733E,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,NA,NA,biosimilar
+12734F,etanercept,ETANERCEPT,Injection set containing 4 vials powder for injection 25 mg and 4 pre-filled syringes solvent 1 mL,L04AB01,NA,NA,no_data
+12735G,etanercept,ETANERCEPT,"Injection 50 mg in 1 mL single use auto-injector, 4",L04AB01,NA,NA,biosimilar
+12736H,etanercept,ETANERCEPT,"Injection 50 mg in 1 mL single use auto-injector, 4",L04AB01,NA,NA,biosimilar
+12737J,etanercept,ETANERCEPT,"Injections 50 mg in 1 mL single use pre-filled syringes, 4",L04AB01,NA,NA,biosimilar
+12739L,rituximab,RITUXIMAB,Solution for I.V. infusion 500 mg in 50 mL,L01FA01,NA,NA,biosimilar
+12740M,etanercept,ETANERCEPT,Injection set containing 4 vials powder for injection 25 mg and 4 pre-filled syringes solvent 1 mL,L04AB01,NA,NA,biosimilar
+12741N,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,NA,NA,biosimilar
+12748Y,infliximab,INFLIXIMAB,Solution for injection 120 mg in 1 mL pre-filled pen,L04AB02,NA,NA,biosimilar
+12749B,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,NA,NA,biosimilar
+12750C,etanercept,ETANERCEPT,Injection set containing 4 vials powder for injection 25 mg and 4 pre-filled syringes solvent 1 mL,L04AB01,NA,NA,biosimilar
+12751D,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,NA,NA,biosimilar
+12752E,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,NA,NA,biosimilar
+12753F,infliximab,INFLIXIMAB,Solution for injection 120 mg in 1 mL pre-filled syringe,L04AB02,NA,NA,biosimilar
+12757K,etanercept,ETANERCEPT,"Injections 50 mg in 1 mL single use pre-filled syringes, 4",L04AB01,NA,NA,biosimilar
+12838Q,etanercept,ETANERCEPT,"Injection 50 mg in 1 mL single use dose-dispenser cartridges, 4",L04AB01,NA,NA,biosimilar
+12845C,etanercept,ETANERCEPT,"Injection 50 mg in 1 mL single use dose-dispenser cartridges, 4",L04AB01,NA,NA,biosimilar
+12848F,etanercept,ETANERCEPT,"Injection 50 mg in 1 mL single use dose-dispenser cartridges, 4",L04AB01,NA,NA,biosimilar
+12852K,etanercept,ETANERCEPT,"Injection 50 mg in 1 mL single use dose-dispenser cartridges, 4",L04AB01,NA,NA,biosimilar
+12853L,etanercept,ETANERCEPT,"Injection 50 mg in 1 mL single use dose-dispenser cartridges, 4",L04AB01,NA,NA,biosimilar
+12862Y,etanercept,ETANERCEPT,"Injection 50 mg in 1 mL single use dose-dispenser cartridges, 4",L04AB01,NA,NA,biosimilar
+12863B,etanercept,ETANERCEPT,"Injection 50 mg in 1 mL single use dose-dispenser cartridges, 4",L04AB01,NA,NA,biosimilar
+12870J,etanercept,ETANERCEPT,"Injection 50 mg in 1 mL single use dose-dispenser cartridges, 4",L04AB01,NA,NA,biosimilar
+12871K,etanercept,ETANERCEPT,"Injection 50 mg in 1 mL single use dose-dispenser cartridges, 4",L04AB01,NA,NA,biosimilar
+12873M,etanercept,ETANERCEPT,"Injection 50 mg in 1 mL single use dose-dispenser cartridges, 4",L04AB01,NA,NA,no_data
+12874N,etanercept,ETANERCEPT,"Injection 50 mg in 1 mL single use dose-dispenser cartridges, 4",L04AB01,NA,NA,biosimilar
+12875P,etanercept,ETANERCEPT,"Injection 50 mg in 1 mL single use dose-dispenser cartridges, 4",L04AB01,NA,NA,biosimilar
+12880X,etanercept,ETANERCEPT,"Injection 50 mg in 1 mL single use dose-dispenser cartridges, 4",L04AB01,NA,NA,biosimilar
+12881Y,etanercept,ETANERCEPT,"Injection 50 mg in 1 mL single use dose-dispenser cartridges, 4",L04AB01,NA,NA,biosimilar
+12882B,etanercept,ETANERCEPT,"Injection 50 mg in 1 mL single use dose-dispenser cartridges, 4",L04AB01,NA,NA,biosimilar
+12893N,etanercept,ETANERCEPT,"Injection 50 mg in 1 mL single use dose-dispenser cartridges, 4",L04AB01,NA,NA,no_data
+12894P,etanercept,ETANERCEPT,"Injection 50 mg in 1 mL single use dose-dispenser cartridges, 4",L04AB01,NA,NA,biosimilar
+12906G,etanercept,ETANERCEPT,"Injection 50 mg in 1 mL single use dose-dispenser cartridges, 4",L04AB01,NA,NA,no_data
+12907H,etanercept,ETANERCEPT,"Injection 50 mg in 1 mL single use dose-dispenser cartridges, 4",L04AB01,NA,NA,biosimilar
+12908J,etanercept,ETANERCEPT,"Injection 50 mg in 1 mL single use dose-dispenser cartridges, 4",L04AB01,NA,NA,no_data
+12909K,etanercept,ETANERCEPT,"Injection 50 mg in 1 mL single use dose-dispenser cartridges, 4",L04AB01,NA,NA,biosimilar
+12997C,rituximab,RITUXIMAB,Solution for I.V. infusion 100 mg in 10 mL,L01XC02,NA,NA,biosimilar
+12998D,rituximab,RITUXIMAB,Solution for I.V. infusion 100 mg in 10 mL,L01XC02,NA,NA,no_data
+13000F,rituximab,RITUXIMAB,Solution for I.V. infusion 100 mg in 10 mL,L01XC02,NA,NA,no_data
+13001G,rituximab,RITUXIMAB,Solution for I.V. infusion 100 mg in 10 mL,L01XC02,NA,NA,biosimilar
+13047Q,infliximab,INFLIXIMAB,Solution for injection 120 mg in 1 mL pre-filled syringe,L04AB02,Remsima SC,NA,biosimilar
+13048R,infliximab,INFLIXIMAB,Solution for injection 120 mg in 1 mL pre-filled pen,L04AB02,Remsima SC,NA,biosimilar
+13049T,infliximab,INFLIXIMAB,Solution for injection 120 mg in 1 mL pre-filled pen,L04AB02,Remsima SC,NA,biosimilar
+13050W,infliximab,INFLIXIMAB,Solution for injection 120 mg in 1 mL pre-filled syringe,L04AB02,Remsima SC,NA,biosimilar
+13054C,infliximab,INFLIXIMAB,Solution for injection 120 mg in 1 mL pre-filled pen,L04AB02,Remsima SC,NA,biosimilar
+13055D,infliximab,INFLIXIMAB,Solution for injection 120 mg in 1 mL pre-filled pen,L04AB02,Remsima SC,NA,biosimilar
+13056E,infliximab,INFLIXIMAB,Solution for injection 120 mg in 1 mL pre-filled pen,L04AB02,Remsima SC,NA,biosimilar
+13057F,infliximab,INFLIXIMAB,Solution for injection 120 mg in 1 mL pre-filled syringe,L04AB02,Remsima SC,NA,biosimilar
+13058G,infliximab,INFLIXIMAB,Solution for injection 120 mg in 1 mL pre-filled syringe,L04AB02,Remsima SC,NA,biosimilar
+13060J,infliximab,INFLIXIMAB,Solution for injection 120 mg in 1 mL pre-filled pen,L04AB02,Remsima SC,NA,biosimilar
+13061K,infliximab,INFLIXIMAB,Solution for injection 120 mg in 1 mL pre-filled pen,L04AB02,Remsima SC,NA,biosimilar
+13062L,infliximab,INFLIXIMAB,Solution for injection 120 mg in 1 mL pre-filled pen,L04AB02,Remsima SC,NA,biosimilar
+13065P,infliximab,INFLIXIMAB,Solution for injection 120 mg in 1 mL pre-filled syringe,L04AB02,Remsima SC,NA,biosimilar
+13066Q,infliximab,INFLIXIMAB,Solution for injection 120 mg in 1 mL pre-filled syringe,L04AB02,Remsima SC,NA,biosimilar
+13067R,infliximab,INFLIXIMAB,Solution for injection 120 mg in 1 mL pre-filled syringe,L04AB02,Remsima SC,NA,biosimilar
+13069W,infliximab,INFLIXIMAB,Solution for injection 120 mg in 1 mL pre-filled syringe,L04AB02,Remsima SC,NA,biosimilar
+13070X,infliximab,INFLIXIMAB,Solution for injection 120 mg in 1 mL pre-filled pen,L04AB02,Remsima SC,NA,biosimilar
+13072B,infliximab,INFLIXIMAB,Solution for injection 120 mg in 1 mL pre-filled syringe,L04AB02,Remsima SC,NA,biosimilar
+13073C,infliximab,INFLIXIMAB,Solution for injection 120 mg in 1 mL pre-filled syringe,L04AB02,Remsima SC,NA,biosimilar
+13074D,infliximab,INFLIXIMAB,Solution for injection 120 mg in 1 mL pre-filled syringe,L04AB02,Remsima SC,NA,biosimilar
+13075E,infliximab,INFLIXIMAB,Solution for injection 120 mg in 1 mL pre-filled pen,L04AB02,Remsima SC,NA,biosimilar
+13076F,infliximab,INFLIXIMAB,Solution for injection 120 mg in 1 mL pre-filled pen,L04AB02,Remsima SC,NA,biosimilar
+13077G,infliximab,INFLIXIMAB,Solution for injection 120 mg in 1 mL pre-filled pen,L04AB02,Remsima SC,NA,biosimilar
+13078H,infliximab,INFLIXIMAB,Solution for injection 120 mg in 1 mL pre-filled syringe,L04AB02,Remsima SC,NA,biosimilar
+13082M,rituximab,RITUXIMAB,Solution for I.V. infusion 100 mg in 10 mL,L01FA01,Riximyo,NA,biosimilar
+13088W,rituximab,RITUXIMAB,Solution for I.V. infusion 100 mg in 10 mL,L01FA01,Ruxience,NA,biosimilar
+13090Y,rituximab,RITUXIMAB,Solution for I.V. infusion 500 mg in 50 mL,L01FA01,Truxima,NA,biosimilar
+13095F,rituximab,RITUXIMAB,Solution for I.V. infusion 500 mg in 50 mL,L01FA01,Truxima,NA,biosimilar
+13096G,rituximab,RITUXIMAB,Solution for I.V. infusion 100 mg in 10 mL,L01FA01,Riximyo,NA,biosimilar
+13101M,rituximab,RITUXIMAB,Solution for I.V. infusion 500 mg in 50 mL,L01FA01,Truxima,NA,biosimilar
+13102N,rituximab,RITUXIMAB,Solution for I.V. infusion 500 mg in 50 mL,L01FA01,Truxima,NA,biosimilar
+13109Y,rituximab,RITUXIMAB,Solution for I.V. infusion 100 mg in 10 mL,L01FA01,Ruxience,NA,biosimilar
+13138L,aflibercept,AFLIBERCEPT,Solution for intravitreal injection 4 mg in 100 microlitres (40 mg per mL),S01LA05,Eylea,40 mg per mL,reference
+13139M,aflibercept,AFLIBERCEPT,Solution for intravitreal injection 3.6 mg in 90 microlitres (40 mg per mL) pre-filled syringe,S01LA05,Eylea,40 mg per mL,reference
+13141P,aflibercept,AFLIBERCEPT,Solution for intravitreal injection 3.6 mg in 90 microlitres (40 mg per mL) pre-filled syringe,S01LA05,Eylea,40 mg per mL,reference
+13146X,aflibercept,AFLIBERCEPT,Solution for intravitreal injection 4 mg in 100 microlitres (40 mg per mL),S01LA05,Eylea,40 mg per mL,reference
+13150D,aflibercept,AFLIBERCEPT,Solution for intravitreal injection 3.6 mg in 90 microlitres (40 mg per mL) pre-filled syringe,S01LA05,Eylea,40 mg per mL,reference
+13151E,aflibercept,AFLIBERCEPT,Solution for intravitreal injection 4 mg in 100 microlitres (40 mg per mL),S01LA05,Eylea,40 mg per mL,reference
+13164W,aflibercept,AFLIBERCEPT,Solution for intravitreal injection 4 mg in 100 microlitres (40 mg per mL),S01LA05,Eylea,40 mg per mL,reference
+13167B,aflibercept,AFLIBERCEPT,Solution for intravitreal injection 3.6 mg in 90 microlitres (40 mg per mL) pre-filled syringe,S01LA05,Eylea,40 mg per mL,reference
+13208E,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,Yuflyma,NA,biosimilar
+13209F,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,Yuflyma,NA,biosimilar
+13210G,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,Humira,NA,reference
+13211H,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,Humira,NA,reference
+13212J,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,Humira,NA,reference
+13213K,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,Humira,NA,reference
+13214L,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,Yuflyma,NA,biosimilar
+13215M,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,Yuflyma,NA,biosimilar
+13216N,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,Yuflyma,NA,biosimilar
+13217P,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,Yuflyma,NA,biosimilar
+13218Q,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,Humira,NA,reference
+13219R,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,Yuflyma,NA,biosimilar
+13220T,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,Yuflyma,NA,biosimilar
+13221W,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,Yuflyma,NA,biosimilar
+13222X,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,Humira,NA,reference
+13223Y,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,Yuflyma,NA,biosimilar
+13224B,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,Humira,NA,reference
+13225C,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,Yuflyma,NA,biosimilar
+13226D,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,Yuflyma,NA,biosimilar
+13227E,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,Humira,NA,reference
+13228F,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,Humira,NA,reference
+13229G,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,Humira,NA,reference
+13230H,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,Yuflyma,NA,biosimilar
+13292N,adalimumab,ADALIMUMAB,Injection 20 mg in 0.2 mL pre-filled syringe,L04AB04,Humira,NA,reference
+13293P,adalimumab,ADALIMUMAB,Injection 20 mg in 0.2 mL pre-filled syringe,L04AB04,Humira,NA,reference
+13294Q,etanercept,ETANERCEPT,Injection set containing 4 vials powder for injection 25 mg and 4 pre-filled syringes solvent 1 mL,L04AB01,Enbrel,NA,reference
+13295R,etanercept,ETANERCEPT,Injection set containing 4 vials powder for injection 25 mg and 4 pre-filled syringes solvent 1 mL,L04AB01,Enbrel,NA,reference
+13308K,etanercept,ETANERCEPT,"Injections 50 mg in 1 mL single use pre-filled syringes, 4",L04AB01,Erelzi,NA,biosimilar
+13319B,etanercept,ETANERCEPT,"Injection 50 mg in 1 mL single use auto-injector, 4",L04AB01,Erelzi,NA,biosimilar
+13326J,etanercept,ETANERCEPT,"Injection 50 mg in 1 mL single use auto-injector, 4",L04AB01,Erelzi,NA,biosimilar
+13332Q,etanercept,ETANERCEPT,"Injections 50 mg in 1 mL single use pre-filled syringes, 4",L04AB01,Erelzi,NA,biosimilar
+13686H,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,Hyrimoz,NA,biosimilar
+13687J,etanercept,ETANERCEPT,"Injection 50 mg in 1 mL single use auto-injector, 4",L04AB01,Brenzys,NA,biosimilar
+13691N,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,Yuflyma,NA,biosimilar
+13692P,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,Hyrimoz,NA,biosimilar
+13693Q,etanercept,ETANERCEPT,Injection set containing 4 vials powder for injection 25 mg and 4 pre-filled syringes solvent 1 mL,L04AB01,Enbrel,NA,reference
+13697X,etanercept,ETANERCEPT,"Injection 50 mg in 1 mL single use auto-injector, 4",L04AB01,Erelzi,NA,biosimilar
+13698Y,etanercept,ETANERCEPT,"Injections 50 mg in 1 mL single use pre-filled syringes, 4",L04AB01,Brenzys,NA,biosimilar
+13700C,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,Inflectra,NA,biosimilar
+13703F,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,Yuflyma,NA,biosimilar
+13704G,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,Yuflyma,NA,biosimilar
+13707K,etanercept,ETANERCEPT,"Injections 50 mg in 1 mL single use pre-filled syringes, 4",L04AB01,Brenzys,NA,biosimilar
+13708L,etanercept,ETANERCEPT,"Injection 50 mg in 1 mL single use auto-injector, 4",L04AB01,Brenzys,NA,biosimilar
+13721E,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,Hadlima,NA,biosimilar
+13722F,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,Hadlima,NA,biosimilar
+13723G,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,Inflectra,NA,biosimilar
+13724H,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,Inflectra,NA,biosimilar
+13732R,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,Yuflyma,NA,biosimilar
+13733T,etanercept,ETANERCEPT,"Injections 50 mg in 1 mL single use pre-filled syringes, 4",L04AB01,Erelzi,NA,biosimilar
+13734W,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,Inflectra,NA,biosimilar
+13744J,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,Hadlima,NA,biosimilar
+13751R,etanercept,ETANERCEPT,"Injections 50 mg in 1 mL single use pre-filled syringes, 4",L04AB01,Brenzys,NA,biosimilar
+13754X,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,Hyrimoz,NA,biosimilar
+13763J,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,Yuflyma,NA,biosimilar
+13764K,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,Yuflyma,NA,biosimilar
+13765L,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,Inflectra,NA,biosimilar
+13774Y,etanercept,ETANERCEPT,"Injection 50 mg in 1 mL single use auto-injector, 4",L04AB01,Brenzys,NA,biosimilar
+13778E,infliximab,INFLIXIMAB,Powder for I.V. infusion 100 mg,L04AB02,Inflectra,NA,biosimilar
+14221L,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,Humira,NA,reference
+14222M,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,Hadlima,NA,biosimilar
+14223N,adalimumab,ADALIMUMAB,Injection 20 mg in 0.4 mL pre-filled syringe,L04AB04,NA,NA,no_data
+14234E,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,Yuflyma,NA,biosimilar
+14235F,adalimumab,ADALIMUMAB,Injection 20 mg in 0.4 mL pre-filled syringe,L04AB04,NA,NA,no_data
+14242N,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,Humira,NA,reference
+14243P,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,Hadlima,NA,biosimilar
+14244Q,adalimumab,ADALIMUMAB,Injection 20 mg in 0.2 mL pre-filled syringe,L04AB04,Humira,NA,reference
+14245R,adalimumab,ADALIMUMAB,Injection 20 mg in 0.2 mL pre-filled syringe,L04AB04,Humira,NA,reference
+14251C,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,Hadlima,NA,biosimilar
+14252D,adalimumab,ADALIMUMAB,Injection 20 mg in 0.4 mL pre-filled syringe,L04AB04,NA,NA,no_data
+14253E,adalimumab,ADALIMUMAB,Injection 20 mg in 0.4 mL pre-filled syringe,L04AB04,NA,NA,biosimilar
+14261N,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,Hyrimoz,NA,biosimilar
+14262P,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,Hyrimoz,NA,biosimilar
+14263Q,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,Hyrimoz,NA,biosimilar
+14272E,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,Humira,NA,reference
+14273F,adalimumab,ADALIMUMAB,Injection 20 mg in 0.4 mL pre-filled syringe,L04AB04,NA,NA,no_data
+14274G,adalimumab,ADALIMUMAB,Injection 20 mg in 0.4 mL pre-filled syringe,L04AB04,NA,NA,no_data
+14275H,adalimumab,ADALIMUMAB,Injection 20 mg in 0.2 mL pre-filled syringe,L04AB04,Humira,NA,reference
+14276J,adalimumab,ADALIMUMAB,Injection 20 mg in 0.4 mL pre-filled syringe,L04AB04,NA,NA,no_data
+14283R,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,Hadlima,NA,biosimilar
+14284T,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,Hyrimoz,NA,biosimilar
+14285W,adalimumab,ADALIMUMAB,Injection 20 mg in 0.4 mL pre-filled syringe,L04AB04,NA,NA,no_data
+14286X,adalimumab,ADALIMUMAB,Injection 20 mg in 0.4 mL pre-filled syringe,L04AB04,NA,NA,biosimilar
+14294H,adalimumab,ADALIMUMAB,Injection 20 mg in 0.4 mL pre-filled syringe,L04AB04,NA,NA,no_data
+14295J,adalimumab,ADALIMUMAB,Injection 20 mg in 0.4 mL pre-filled syringe,L04AB04,NA,NA,no_data
+14586Q,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,Humira,NA,reference
+14587R,adalimumab,ADALIMUMAB,Injection 80 mg in 0.8 mL pre-filled pen,L04AB04,Yuflyma,NA,biosimilar
+14591Y,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,Humira,NA,reference
+14594D,aflibercept,AFLIBERCEPT,Solution for intravitreal injection 11.43 mg in 100 microlitres (114.3 mg per mL),S01LA05,Eylea,114.3 mg per mL,reference
+14622N,adalimumab,ADALIMUMAB,Injection 80 mg in 0.8 mL pre-filled syringe,L04AB04,Yuflyma,NA,biosimilar
+14626T,aflibercept,AFLIBERCEPT,Solution for intravitreal injection 11.43 mg in 100 microlitres (114.3 mg per mL),S01LA05,Eylea,114.3 mg per mL,reference
+14627W,aflibercept,AFLIBERCEPT,Solution for intravitreal injection 11.43 mg in 100 microlitres (114.3 mg per mL),S01LA05,Eylea,114.3 mg per mL,reference
+14628X,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,Humira,NA,reference
+14629Y,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,Yuflyma,NA,biosimilar
+14635G,aflibercept,AFLIBERCEPT,Solution for intravitreal injection 11.43 mg in 100 microlitres (114.3 mg per mL),S01LA05,Eylea,114.3 mg per mL,reference
+14747E,adalimumab,ADALIMUMAB,Injection 20 mg in 0.4 mL pre-filled syringe,L04AB04,Amgevita,NA,biosimilar
+14748F,adalimumab,ADALIMUMAB,Injection 20 mg in 0.4 mL pre-filled syringe,L04AB04,Amgevita,NA,biosimilar
+14749G,adalimumab,ADALIMUMAB,Injection 20 mg in 0.4 mL pre-filled syringe,L04AB04,Amgevita,NA,biosimilar
+14750H,adalimumab,ADALIMUMAB,Injection 20 mg in 0.4 mL pre-filled syringe,L04AB04,NA,NA,no_data
+14751J,adalimumab,ADALIMUMAB,Injection 20 mg in 0.4 mL pre-filled syringe,L04AB04,NA,NA,biosimilar
+14764C,adalimumab,ADALIMUMAB,Injection 20 mg in 0.4 mL pre-filled syringe,L04AB04,NA,NA,no_data
+14772L,adalimumab,ADALIMUMAB,Injection 20 mg in 0.4 mL pre-filled syringe,L04AB04,Amgevita,NA,biosimilar
+14777R,adalimumab,ADALIMUMAB,Injection 20 mg in 0.4 mL pre-filled syringe,L04AB04,NA,NA,no_data
+14852Q,etanercept,ETANERCEPT,"Injection 50 mg in 1 mL single use auto-injector, 4",L04AB01,Erelzi,NA,biosimilar
+14958G,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,Hadlima,NA,biosimilar
+14973C,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,Humira,NA,reference
+14974D,adalimumab,ADALIMUMAB,Injection 20 mg in 0.4 mL pre-filled syringe,L04AB04,NA,NA,no_data
+14975E,adalimumab,ADALIMUMAB,Injection 20 mg in 0.4 mL pre-filled syringe,L04AB04,Amgevita,NA,biosimilar
+14976F,adalimumab,ADALIMUMAB,Injection 20 mg in 0.2 mL pre-filled syringe,L04AB04,Humira,NA,reference
+14984P,adalimumab,ADALIMUMAB,Injection 20 mg in 0.4 mL pre-filled syringe,L04AB04,NA,NA,no_data
+14985Q,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,Hyrimoz,NA,biosimilar
+14995F,adalimumab,ADALIMUMAB,Injection 20 mg in 0.2 mL pre-filled syringe,L04AB04,Humira,NA,reference
+14996G,adalimumab,ADALIMUMAB,Injection 20 mg in 0.2 mL pre-filled syringe,L04AB04,Humira,NA,reference
+14997H,adalimumab,ADALIMUMAB,Injection 20 mg in 0.2 mL pre-filled syringe,L04AB04,Humira,NA,reference
+14998J,adalimumab,ADALIMUMAB,Injection 20 mg in 0.4 mL pre-filled syringe,L04AB04,Amgevita,NA,biosimilar
+15005R,adalimumab,ADALIMUMAB,Injection 20 mg in 0.4 mL pre-filled syringe,L04AB04,Amgevita,NA,biosimilar
+15006T,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,Hyrimoz,NA,biosimilar
+15007W,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,Humira,NA,reference
+15008X,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,Hadlima,NA,biosimilar
+15009Y,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,Humira,NA,reference
+15010B,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,Humira,NA,reference
+15019L,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,Hyrimoz,NA,biosimilar
+15020M,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,Hadlima,NA,biosimilar
+15031D,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,Humira,NA,reference
+15038L,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,Humira,NA,reference
+15039M,adalimumab,ADALIMUMAB,Injection 20 mg in 0.2 mL pre-filled syringe,L04AB04,Humira,NA,reference
+15040N,adalimumab,ADALIMUMAB,Injection 20 mg in 0.4 mL pre-filled syringe,L04AB04,NA,NA,no_data
+15050D,etanercept,ETANERCEPT,"Injections 50 mg in 1 mL single use pre-filled syringes, 4",L04AB01,Erelzi,NA,biosimilar
+15137Q,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,Hadlima,NA,biosimilar
+15138R,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,Humira,NA,reference
+15139T,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,Hyrimoz,NA,biosimilar
+15140W,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,Hyrimoz,NA,biosimilar
+15141X,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,Hadlima,NA,biosimilar
+15142Y,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,Humira,NA,reference
+15143B,adalimumab,ADALIMUMAB,Injection 20 mg in 0.4 mL pre-filled syringe,L04AB04,Amgevita,NA,biosimilar
+15146E,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,Humira,NA,reference
+15147F,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,Hyrimoz,NA,biosimilar
+15148G,adalimumab,ADALIMUMAB,Injection 20 mg in 0.2 mL pre-filled syringe,L04AB04,Humira,NA,reference
+15149H,adalimumab,ADALIMUMAB,Injection 20 mg in 0.2 mL pre-filled syringe,L04AB04,Humira,NA,reference
+15153M,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,Humira,NA,reference
+15154N,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,Hadlima,NA,biosimilar
+15155P,adalimumab,ADALIMUMAB,Injection 20 mg in 0.4 mL pre-filled syringe,L04AB04,Amgevita,NA,biosimilar
+15156Q,adalimumab,ADALIMUMAB,Injection 20 mg in 0.2 mL pre-filled syringe,L04AB04,Humira,NA,reference
+15159W,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled pen,L04AB04,Humira,NA,reference
+15160X,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,Hyrimoz,NA,biosimilar
+15161Y,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,Hadlima,NA,biosimilar
+15162B,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled syringe,L04AB04,Hadlima,NA,biosimilar
+15170K,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,Humira,NA,reference
+15172M,adalimumab,ADALIMUMAB,Injection 20 mg in 0.4 mL pre-filled syringe,L04AB04,Amgevita,NA,biosimilar
+15173N,adalimumab,ADALIMUMAB,Injection 20 mg in 0.2 mL pre-filled syringe,L04AB04,Humira,NA,reference
+15177T,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,Humira,NA,reference
+15178W,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,Humira,NA,reference
+15180Y,adalimumab,ADALIMUMAB,Injection 20 mg in 0.4 mL pre-filled syringe,L04AB04,Amgevita,NA,biosimilar
+15189K,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,Humira,NA,reference
+15190L,adalimumab,ADALIMUMAB,Injection 20 mg in 0.2 mL pre-filled syringe,L04AB04,Humira,NA,reference
+15200B,adalimumab,ADALIMUMAB,Injection 40 mg in 0.8 mL pre-filled pen,L04AB04,Hyrimoz,NA,biosimilar
+15201C,adalimumab,ADALIMUMAB,Injection 40 mg in 0.4 mL pre-filled syringe,L04AB04,Humira,NA,reference
+15202D,adalimumab,ADALIMUMAB,Injection 20 mg in 0.4 mL pre-filled syringe,L04AB04,Amgevita,NA,biosimilar
+15206H,aflibercept,AFLIBERCEPT,Solution for intravitreal injection 6.6 mg in 165 microlitres (40 mg per mL) pre-filled syringe,S01LA05,Afqlir,40 mg per mL,biosimilar
+15207J,aflibercept,AFLIBERCEPT,Solution for intravitreal injection 6.6 mg in 165 microlitres (40 mg per mL) pre-filled syringe,S01LA05,Afqlir,40 mg per mL,biosimilar
+15213Q,aflibercept,AFLIBERCEPT,Solution for intravitreal injection 6.6 mg in 165 microlitres (40 mg per mL) pre-filled syringe,S01LA05,Afqlir,40 mg per mL,biosimilar
+15214R,aflibercept,AFLIBERCEPT,Solution for intravitreal injection 6.6 mg in 165 microlitres (40 mg per mL) pre-filled syringe,S01LA05,Afqlir,40 mg per mL,biosimilar
+15215T,aflibercept,AFLIBERCEPT,Solution for intravitreal injection 6.6 mg in 165 microlitres (40 mg per mL) pre-filled syringe,S01LA05,Afqlir,40 mg per mL,biosimilar
+15217X,aflibercept,AFLIBERCEPT,Solution for intravitreal injection 6.6 mg in 165 microlitres (40 mg per mL) pre-filled syringe,S01LA05,Afqlir,40 mg per mL,biosimilar
+15218Y,aflibercept,AFLIBERCEPT,Solution for intravitreal injection 6.6 mg in 165 microlitres (40 mg per mL) pre-filled syringe,S01LA05,Afqlir,40 mg per mL,biosimilar
+15219B,aflibercept,AFLIBERCEPT,Solution for intravitreal injection 6.6 mg in 165 microlitres (40 mg per mL) pre-filled syringe,S01LA05,Afqlir,40 mg per mL,biosimilar

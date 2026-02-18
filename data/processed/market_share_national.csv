@@ -1,0 +1,1528 @@
+molecule,period,biosimilar_rx,reference_rx,total_rx,biosimilar_share,molecule_class,therapeutic_area
+adalimumab,2009-01-01,0,10212,10212,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2009-02-01,0,10204,10204,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2009-03-01,0,11604,11604,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2009-04-01,0,12092,12092,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2009-05-01,0,11504,11504,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2009-06-01,0,10612,10612,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2009-07-01,0,12078,12078,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2009-08-01,0,11830,11830,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2009-09-01,0,11586,11586,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2009-10-01,0,13190,13190,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2009-11-01,0,14012,14012,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2009-12-01,0,12918,12918,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2010-01-01,0,17204,17204,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2010-02-01,0,13714,13714,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2010-03-01,0,15342,15342,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2010-04-01,0,12198,12198,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2010-05-01,0,15272,15272,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2010-06-01,0,14502,14502,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2010-07-01,0,16110,16110,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2010-08-01,0,13422,13422,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2010-09-01,0,15616,15616,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2010-10-01,0,15556,15556,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2010-11-01,0,16274,16274,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2010-12-01,0,12624,12624,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2011-01-01,0,15478,15478,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2011-02-01,0,15476,15476,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2011-03-01,0,18078,18078,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2011-04-01,0,16712,16712,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2011-05-01,0,16628,16628,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2011-06-01,0,15780,15780,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2011-07-01,0,19052,19052,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2011-08-01,0,17762,17762,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2011-09-01,0,16850,16850,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2011-10-01,0,15978,15978,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2011-11-01,0,15828,15828,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2011-12-01,0,13506,13506,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2012-01-01,0,16694,16694,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2012-02-01,0,13166,13166,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2012-03-01,0,19186,19186,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2012-04-01,0,19442,19442,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2012-05-01,0,24074,24074,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2012-06-01,0,33636,33636,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2012-07-01,0,20278,20278,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2012-08-01,0,20200,20200,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2012-09-01,0,28968,28968,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2012-10-01,0,23272,23272,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2012-11-01,0,21654,21654,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2012-12-01,0,15052,15052,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2013-01-01,0,25686,25686,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2013-02-01,0,22014,22014,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2013-03-01,0,16448,16448,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2013-04-01,0,20544,20544,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2013-05-01,0,23348,23348,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2013-06-01,0,24202,24202,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2013-07-01,0,20720,20720,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2013-08-01,0,20440,20440,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2013-09-01,0,20626,20626,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2013-10-01,0,17764,17764,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2013-11-01,0,17826,17826,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2013-12-01,0,18124,18124,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2014-01-01,0,20124,20124,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2014-02-01,0,14640,14640,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2014-03-01,0,43808,43808,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2014-04-01,0,51194,51194,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2014-05-01,0,35580,35580,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2014-06-01,0,30496,30496,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2014-07-01,0,24570,24570,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2014-08-01,0,27496,27496,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2014-09-01,0,24564,24564,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2014-10-01,0,24070,24070,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2014-11-01,0,27390,27390,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2014-12-01,0,23912,23912,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2015-01-01,0,26770,26770,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2015-02-01,0,38212,38212,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2015-03-01,0,31200,31200,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2015-04-01,0,24606,24606,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2015-05-01,0,48390,48390,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2015-06-01,0,36404,36404,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2015-07-01,0,36514,36514,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2015-08-01,0,30594,30594,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2015-09-01,0,30862,30862,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2015-10-01,0,30922,30922,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2015-11-01,0,30024,30024,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2015-12-01,0,35270,35270,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2016-01-01,0,28948,28948,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2016-02-01,0,30586,30586,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2016-03-01,0,36680,36680,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2016-04-01,0,32944,32944,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2016-05-01,0,32772,32772,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2016-06-01,0,34260,34260,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2016-07-01,0,34234,34234,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2016-08-01,0,33214,33214,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2016-09-01,0,32914,32914,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2016-10-01,0,32042,32042,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2016-11-01,0,34542,34542,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2016-12-01,0,38676,38676,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2017-01-01,0,29828,29828,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2017-02-01,0,31248,31248,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2017-03-01,0,37004,37004,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2017-04-01,0,34468,34468,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2017-05-01,0,36284,36284,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2017-06-01,0,36638,36638,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2017-07-01,0,34412,34412,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2017-08-01,0,36988,36988,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2017-09-01,0,35478,35478,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2017-10-01,0,35762,35762,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2017-11-01,0,37388,37388,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2017-12-01,0,41126,41126,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2018-01-01,0,35306,35306,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2018-02-01,0,35974,35974,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2018-03-01,0,37456,37456,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2018-04-01,0,36944,36944,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2018-05-01,0,41176,41176,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2018-06-01,0,35882,35882,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2018-07-01,0,32792,32792,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2018-08-01,0,49064,49064,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2018-09-01,0,37220,37220,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2018-10-01,0,35794,35794,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2018-11-01,0,40058,40058,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2018-12-01,0,42594,42594,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2019-01-01,0,38710,38710,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2019-02-01,0,39010,39010,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2019-03-01,0,43480,43480,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2019-04-01,0,37024,37024,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2019-05-01,0,42306,42306,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2019-06-01,0,43022,43022,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2019-07-01,0,39516,39516,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2019-08-01,0,42024,42024,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2019-09-01,0,40220,40220,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2019-10-01,0,40652,40652,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2019-11-01,0,44356,44356,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2019-12-01,0,42838,42838,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2020-01-01,0,44892,44892,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2020-02-01,0,41052,41052,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2020-03-01,0,43224,43224,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2020-04-01,0,44858,44858,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2020-05-01,0,38926,38926,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2020-06-01,0,39588,39588,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2020-07-01,0,46458,46458,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2020-08-01,0,45384,45384,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2020-09-01,0,43282,43282,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2020-10-01,0,46434,46434,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2020-11-01,0,40608,40608,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2020-12-01,0,46804,46804,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2021-01-01,0,46286,46286,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2021-02-01,0,44142,44142,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2021-03-01,0,40646,40646,0,anti-TNF,rheumatology/gastro/derm
+adalimumab,2021-04-01,43230,3108,46338,0.9329276188009841,anti-TNF,rheumatology/gastro/derm
+adalimumab,2021-05-01,35616,8474,44090,0.8078022227262418,anti-TNF,rheumatology/gastro/derm
+adalimumab,2021-06-01,26932,18334,45266,0.5949719436221447,anti-TNF,rheumatology/gastro/derm
+adalimumab,2021-07-01,17960,32088,50048,0.35885549872122763,anti-TNF,rheumatology/gastro/derm
+adalimumab,2021-08-01,12853,35632,48485,0.2650922965865732,anti-TNF,rheumatology/gastro/derm
+adalimumab,2021-09-01,10954,37686,48640,0.22520559210526317,anti-TNF,rheumatology/gastro/derm
+adalimumab,2021-10-01,8605,40486,49091,0.17528671243201402,anti-TNF,rheumatology/gastro/derm
+adalimumab,2021-11-01,8415,40236,48651,0.17296663994573597,anti-TNF,rheumatology/gastro/derm
+adalimumab,2021-12-01,9405,44716,54121,0.1737772768426304,anti-TNF,rheumatology/gastro/derm
+adalimumab,2022-01-01,8659,41981,50640,0.1709913112164297,anti-TNF,rheumatology/gastro/derm
+adalimumab,2022-02-01,8105,38044,46149,0.17562677414461852,anti-TNF,rheumatology/gastro/derm
+adalimumab,2022-03-01,9280,44779,54059,0.17166429271721637,anti-TNF,rheumatology/gastro/derm
+adalimumab,2022-04-01,10535,41640,52175,0.20191662673694297,anti-TNF,rheumatology/gastro/derm
+adalimumab,2022-05-01,10136,42423,52559,0.19284994006735287,anti-TNF,rheumatology/gastro/derm
+adalimumab,2022-06-01,9947,43816,53763,0.18501571712888046,anti-TNF,rheumatology/gastro/derm
+adalimumab,2022-07-01,4984,21592,26576,0.18753762793497894,anti-TNF,rheumatology/gastro/derm
+adalimumab,2022-08-01,5353,22200,27553,0.19428011468805576,anti-TNF,rheumatology/gastro/derm
+adalimumab,2022-09-01,5207,21500,26707,0.19496761148762498,anti-TNF,rheumatology/gastro/derm
+adalimumab,2022-10-01,5473,22100,27573,0.1984912776991985,anti-TNF,rheumatology/gastro/derm
+adalimumab,2022-11-01,5620,22425,28045,0.20039222677839186,anti-TNF,rheumatology/gastro/derm
+adalimumab,2022-12-01,6142,23419,29561,0.20777375596224756,anti-TNF,rheumatology/gastro/derm
+adalimumab,2023-01-01,5408,21624,27032,0.2000591891092039,anti-TNF,rheumatology/gastro/derm
+adalimumab,2023-02-01,5377,21123,26500,0.2029056603773585,anti-TNF,rheumatology/gastro/derm
+adalimumab,2023-03-01,6419,26036,32455,0.19778154367585887,anti-TNF,rheumatology/gastro/derm
+adalimumab,2023-04-01,4802,19897,24699,0.1944208267541196,anti-TNF,rheumatology/gastro/derm
+adalimumab,2023-05-01,5779,22910,28689,0.20143609048764335,anti-TNF,rheumatology/gastro/derm
+adalimumab,2023-06-01,5434,22419,27853,0.19509568089613327,anti-TNF,rheumatology/gastro/derm
+adalimumab,2023-07-01,5528,22602,28130,0.1965161749022396,anti-TNF,rheumatology/gastro/derm
+adalimumab,2023-08-01,6250,23700,29950,0.20868113522537562,anti-TNF,rheumatology/gastro/derm
+adalimumab,2023-09-01,6165,21656,27821,0.221595197872111,anti-TNF,rheumatology/gastro/derm
+adalimumab,2023-10-01,6711,23152,29863,0.22472624987442655,anti-TNF,rheumatology/gastro/derm
+adalimumab,2023-11-01,6865,23045,29910,0.2295218990304246,anti-TNF,rheumatology/gastro/derm
+adalimumab,2023-12-01,7316,23799,31115,0.23512775188815685,anti-TNF,rheumatology/gastro/derm
+adalimumab,2024-01-01,6942,22394,29336,0.23663757840196345,anti-TNF,rheumatology/gastro/derm
+adalimumab,2024-02-01,6913,21874,28787,0.24014312015840483,anti-TNF,rheumatology/gastro/derm
+adalimumab,2024-03-01,7977,24843,32820,0.2430530164533821,anti-TNF,rheumatology/gastro/derm
+adalimumab,2024-04-01,7259,22479,29738,0.24409845988297801,anti-TNF,rheumatology/gastro/derm
+adalimumab,2024-05-01,7621,23947,31568,0.2414153573238723,anti-TNF,rheumatology/gastro/derm
+adalimumab,2024-06-01,7229,22411,29640,0.24389338731443994,anti-TNF,rheumatology/gastro/derm
+adalimumab,2024-07-01,8764,25007,33771,0.2595125995676764,anti-TNF,rheumatology/gastro/derm
+adalimumab,2024-08-01,7801,23800,31601,0.24685927660517074,anti-TNF,rheumatology/gastro/derm
+adalimumab,2024-09-01,8035,23661,31696,0.2535020191822312,anti-TNF,rheumatology/gastro/derm
+adalimumab,2024-10-01,8577,24523,33100,0.2591238670694864,anti-TNF,rheumatology/gastro/derm
+adalimumab,2024-11-01,8228,24090,32318,0.2545949625595643,anti-TNF,rheumatology/gastro/derm
+adalimumab,2024-12-01,8972,26050,35022,0.25618182856490207,anti-TNF,rheumatology/gastro/derm
+adalimumab,2025-01-01,8126,23802,31928,0.2545101478326234,anti-TNF,rheumatology/gastro/derm
+adalimumab,2025-02-01,7743,22716,30459,0.25421057815424014,anti-TNF,rheumatology/gastro/derm
+adalimumab,2025-03-01,8307,27360,35667,0.2329043653797628,anti-TNF,rheumatology/gastro/derm
+adalimumab,2025-04-01,7154,24741,31895,0.2242984793854836,anti-TNF,rheumatology/gastro/derm
+adalimumab,2025-05-01,7456,26437,33893,0.2199864278759626,anti-TNF,rheumatology/gastro/derm
+adalimumab,2025-06-01,7085,25536,32621,0.2171913797860274,anti-TNF,rheumatology/gastro/derm
+adalimumab,2025-07-01,7578,27056,34634,0.2188023329676041,anti-TNF,rheumatology/gastro/derm
+adalimumab,2025-08-01,7229,26260,33489,0.215861924811132,anti-TNF,rheumatology/gastro/derm
+adalimumab,2025-09-01,7701,27124,34825,0.22113424264178033,anti-TNF,rheumatology/gastro/derm
+adalimumab,2025-10-01,7170,27563,34733,0.206431923530936,anti-TNF,rheumatology/gastro/derm
+adalimumab,2025-11-01,6845,26719,33564,0.20393874389226552,anti-TNF,rheumatology/gastro/derm
+aflibercept,2012-12-01,0,12,12,0,anti-VEGF,ophthalmology
+aflibercept,2013-01-01,0,3386,3386,0,anti-VEGF,ophthalmology
+aflibercept,2013-02-01,0,8698,8698,0,anti-VEGF,ophthalmology
+aflibercept,2013-03-01,0,7914,7914,0,anti-VEGF,ophthalmology
+aflibercept,2013-04-01,0,15204,15204,0,anti-VEGF,ophthalmology
+aflibercept,2013-05-01,0,10044,10044,0,anti-VEGF,ophthalmology
+aflibercept,2013-06-01,0,16652,16652,0,anti-VEGF,ophthalmology
+aflibercept,2013-07-01,0,12134,12134,0,anti-VEGF,ophthalmology
+aflibercept,2013-08-01,0,11470,11470,0,anti-VEGF,ophthalmology
+aflibercept,2013-09-01,0,14034,14034,0,anti-VEGF,ophthalmology
+aflibercept,2013-10-01,0,11744,11744,0,anti-VEGF,ophthalmology
+aflibercept,2013-11-01,0,9276,9276,0,anti-VEGF,ophthalmology
+aflibercept,2013-12-01,0,13544,13544,0,anti-VEGF,ophthalmology
+aflibercept,2014-01-01,0,13300,13300,0,anti-VEGF,ophthalmology
+aflibercept,2014-02-01,0,9094,9094,0,anti-VEGF,ophthalmology
+aflibercept,2014-03-01,0,25874,25874,0,anti-VEGF,ophthalmology
+aflibercept,2014-04-01,0,30124,30124,0,anti-VEGF,ophthalmology
+aflibercept,2014-05-01,0,23988,23988,0,anti-VEGF,ophthalmology
+aflibercept,2014-06-01,0,21346,21346,0,anti-VEGF,ophthalmology
+aflibercept,2014-07-01,0,13260,13260,0,anti-VEGF,ophthalmology
+aflibercept,2014-08-01,0,20860,20860,0,anti-VEGF,ophthalmology
+aflibercept,2014-09-01,0,16238,16238,0,anti-VEGF,ophthalmology
+aflibercept,2014-10-01,0,15990,15990,0,anti-VEGF,ophthalmology
+aflibercept,2014-11-01,0,14830,14830,0,anti-VEGF,ophthalmology
+aflibercept,2014-12-01,0,16678,16678,0,anti-VEGF,ophthalmology
+aflibercept,2015-01-01,0,16118,16118,0,anti-VEGF,ophthalmology
+aflibercept,2015-02-01,0,21972,21972,0,anti-VEGF,ophthalmology
+aflibercept,2015-03-01,0,20668,20668,0,anti-VEGF,ophthalmology
+aflibercept,2015-04-01,0,15752,15752,0,anti-VEGF,ophthalmology
+aflibercept,2015-05-01,0,33340,33340,0,anti-VEGF,ophthalmology
+aflibercept,2015-06-01,0,18258,18258,0,anti-VEGF,ophthalmology
+aflibercept,2015-07-01,0,21650,21650,0,anti-VEGF,ophthalmology
+aflibercept,2015-08-01,0,19244,19244,0,anti-VEGF,ophthalmology
+aflibercept,2015-09-01,0,22398,22398,0,anti-VEGF,ophthalmology
+aflibercept,2015-10-01,0,18542,18542,0,anti-VEGF,ophthalmology
+aflibercept,2015-11-01,0,20680,20680,0,anti-VEGF,ophthalmology
+aflibercept,2015-12-01,0,24180,24180,0,anti-VEGF,ophthalmology
+aflibercept,2016-01-01,0,20908,20908,0,anti-VEGF,ophthalmology
+aflibercept,2016-02-01,0,27388,27388,0,anti-VEGF,ophthalmology
+aflibercept,2016-03-01,0,33480,33480,0,anti-VEGF,ophthalmology
+aflibercept,2016-04-01,0,23536,23536,0,anti-VEGF,ophthalmology
+aflibercept,2016-05-01,0,25398,25398,0,anti-VEGF,ophthalmology
+aflibercept,2016-06-01,0,28314,28314,0,anti-VEGF,ophthalmology
+aflibercept,2016-07-01,0,26792,26792,0,anti-VEGF,ophthalmology
+aflibercept,2016-08-01,0,27256,27256,0,anti-VEGF,ophthalmology
+aflibercept,2016-09-01,0,27752,27752,0,anti-VEGF,ophthalmology
+aflibercept,2016-10-01,0,29244,29244,0,anti-VEGF,ophthalmology
+aflibercept,2016-11-01,0,31484,31484,0,anti-VEGF,ophthalmology
+aflibercept,2016-12-01,0,37376,37376,0,anti-VEGF,ophthalmology
+aflibercept,2017-01-01,0,27454,27454,0,anti-VEGF,ophthalmology
+aflibercept,2017-02-01,0,26564,26564,0,anti-VEGF,ophthalmology
+aflibercept,2017-03-01,0,34638,34638,0,anti-VEGF,ophthalmology
+aflibercept,2017-04-01,0,30158,30158,0,anti-VEGF,ophthalmology
+aflibercept,2017-05-01,0,40120,40120,0,anti-VEGF,ophthalmology
+aflibercept,2017-06-01,0,37014,37014,0,anti-VEGF,ophthalmology
+aflibercept,2017-07-01,0,34314,34314,0,anti-VEGF,ophthalmology
+aflibercept,2017-08-01,0,36646,36646,0,anti-VEGF,ophthalmology
+aflibercept,2017-09-01,0,34340,34340,0,anti-VEGF,ophthalmology
+aflibercept,2017-10-01,0,47138,47138,0,anti-VEGF,ophthalmology
+aflibercept,2017-11-01,0,40806,40806,0,anti-VEGF,ophthalmology
+aflibercept,2017-12-01,0,42854,42854,0,anti-VEGF,ophthalmology
+aflibercept,2018-01-01,0,38454,38454,0,anti-VEGF,ophthalmology
+aflibercept,2018-02-01,0,39570,39570,0,anti-VEGF,ophthalmology
+aflibercept,2018-03-01,0,39904,39904,0,anti-VEGF,ophthalmology
+aflibercept,2018-04-01,0,37212,37212,0,anti-VEGF,ophthalmology
+aflibercept,2018-05-01,0,45472,45472,0,anti-VEGF,ophthalmology
+aflibercept,2018-06-01,0,43034,43034,0,anti-VEGF,ophthalmology
+aflibercept,2018-07-01,0,35318,35318,0,anti-VEGF,ophthalmology
+aflibercept,2018-08-01,0,43806,43806,0,anti-VEGF,ophthalmology
+aflibercept,2018-09-01,0,40196,40196,0,anti-VEGF,ophthalmology
+aflibercept,2018-10-01,0,42310,42310,0,anti-VEGF,ophthalmology
+aflibercept,2018-11-01,0,41370,41370,0,anti-VEGF,ophthalmology
+aflibercept,2018-12-01,0,48392,48392,0,anti-VEGF,ophthalmology
+aflibercept,2019-01-01,0,46852,46852,0,anti-VEGF,ophthalmology
+aflibercept,2019-02-01,0,38686,38686,0,anti-VEGF,ophthalmology
+aflibercept,2019-03-01,0,41102,41102,0,anti-VEGF,ophthalmology
+aflibercept,2019-04-01,0,40698,40698,0,anti-VEGF,ophthalmology
+aflibercept,2019-05-01,0,66100,66100,0,anti-VEGF,ophthalmology
+aflibercept,2019-06-01,0,51134,51134,0,anti-VEGF,ophthalmology
+aflibercept,2019-07-01,0,44254,44254,0,anti-VEGF,ophthalmology
+aflibercept,2019-08-01,0,40988,40988,0,anti-VEGF,ophthalmology
+aflibercept,2019-09-01,0,55860,55860,0,anti-VEGF,ophthalmology
+aflibercept,2019-10-01,0,46808,46808,0,anti-VEGF,ophthalmology
+aflibercept,2019-11-01,0,42636,42636,0,anti-VEGF,ophthalmology
+aflibercept,2019-12-01,0,54744,54744,0,anti-VEGF,ophthalmology
+aflibercept,2020-01-01,0,52040,52040,0,anti-VEGF,ophthalmology
+aflibercept,2020-02-01,0,52288,52288,0,anti-VEGF,ophthalmology
+aflibercept,2020-03-01,0,47912,47912,0,anti-VEGF,ophthalmology
+aflibercept,2020-04-01,0,44160,44160,0,anti-VEGF,ophthalmology
+aflibercept,2020-05-01,0,51034,51034,0,anti-VEGF,ophthalmology
+aflibercept,2020-06-01,0,43554,43554,0,anti-VEGF,ophthalmology
+aflibercept,2020-07-01,0,59754,59754,0,anti-VEGF,ophthalmology
+aflibercept,2020-08-01,0,51264,51264,0,anti-VEGF,ophthalmology
+aflibercept,2020-09-01,0,54284,54284,0,anti-VEGF,ophthalmology
+aflibercept,2020-10-01,0,49528,49528,0,anti-VEGF,ophthalmology
+aflibercept,2020-11-01,0,58164,58164,0,anti-VEGF,ophthalmology
+aflibercept,2020-12-01,0,75944,75944,0,anti-VEGF,ophthalmology
+aflibercept,2021-01-01,0,57022,57022,0,anti-VEGF,ophthalmology
+aflibercept,2021-02-01,0,65512,65512,0,anti-VEGF,ophthalmology
+aflibercept,2021-03-01,0,55968,55968,0,anti-VEGF,ophthalmology
+aflibercept,2021-04-01,0,59630,59630,0,anti-VEGF,ophthalmology
+aflibercept,2021-05-01,0,62484,62484,0,anti-VEGF,ophthalmology
+aflibercept,2021-06-01,0,63136,63136,0,anti-VEGF,ophthalmology
+aflibercept,2021-07-01,0,66295,66295,0,anti-VEGF,ophthalmology
+aflibercept,2021-08-01,0,66232,66232,0,anti-VEGF,ophthalmology
+aflibercept,2021-09-01,0,67734,67734,0,anti-VEGF,ophthalmology
+aflibercept,2021-10-01,0,66927,66927,0,anti-VEGF,ophthalmology
+aflibercept,2021-11-01,0,65191,65191,0,anti-VEGF,ophthalmology
+aflibercept,2021-12-01,0,72903,72903,0,anti-VEGF,ophthalmology
+aflibercept,2022-01-01,0,59620,59620,0,anti-VEGF,ophthalmology
+aflibercept,2022-02-01,0,65609,65609,0,anti-VEGF,ophthalmology
+aflibercept,2022-03-01,0,76813,76813,0,anti-VEGF,ophthalmology
+aflibercept,2022-04-01,0,65778,65778,0,anti-VEGF,ophthalmology
+aflibercept,2022-05-01,0,73167,73167,0,anti-VEGF,ophthalmology
+aflibercept,2022-06-01,0,76860,76860,0,anti-VEGF,ophthalmology
+aflibercept,2022-07-01,0,34979,34979,0,anti-VEGF,ophthalmology
+aflibercept,2022-08-01,0,41127,41127,0,anti-VEGF,ophthalmology
+aflibercept,2022-09-01,0,42940,42940,0,anti-VEGF,ophthalmology
+aflibercept,2022-10-01,0,33936,33936,0,anti-VEGF,ophthalmology
+aflibercept,2022-11-01,0,41068,41068,0,anti-VEGF,ophthalmology
+aflibercept,2022-12-01,0,37634,37634,0,anti-VEGF,ophthalmology
+aflibercept,2023-01-01,0,39855,39855,0,anti-VEGF,ophthalmology
+aflibercept,2023-02-01,0,36443,36443,0,anti-VEGF,ophthalmology
+aflibercept,2023-03-01,0,45426,45426,0,anti-VEGF,ophthalmology
+aflibercept,2023-04-01,0,27770,27770,0,anti-VEGF,ophthalmology
+aflibercept,2023-05-01,0,39365,39365,0,anti-VEGF,ophthalmology
+aflibercept,2023-06-01,0,35936,35936,0,anti-VEGF,ophthalmology
+aflibercept,2023-07-01,0,34632,34632,0,anti-VEGF,ophthalmology
+aflibercept,2023-08-01,0,38423,38423,0,anti-VEGF,ophthalmology
+aflibercept,2023-09-01,0,34298,34298,0,anti-VEGF,ophthalmology
+aflibercept,2023-10-01,0,36388,36388,0,anti-VEGF,ophthalmology
+aflibercept,2023-11-01,0,37292,37292,0,anti-VEGF,ophthalmology
+aflibercept,2023-12-01,0,34189,34189,0,anti-VEGF,ophthalmology
+aflibercept,2024-01-01,0,37762,37762,0,anti-VEGF,ophthalmology
+aflibercept,2024-02-01,0,36911,36911,0,anti-VEGF,ophthalmology
+aflibercept,2024-03-01,0,34816,34816,0,anti-VEGF,ophthalmology
+aflibercept,2024-04-01,0,36692,36692,0,anti-VEGF,ophthalmology
+aflibercept,2024-05-01,0,39521,39521,0,anti-VEGF,ophthalmology
+aflibercept,2024-06-01,0,35490,35490,0,anti-VEGF,ophthalmology
+aflibercept,2024-07-01,0,40455,40455,0,anti-VEGF,ophthalmology
+aflibercept,2024-08-01,0,38022,38022,0,anti-VEGF,ophthalmology
+aflibercept,2024-09-01,0,36354,36354,0,anti-VEGF,ophthalmology
+aflibercept,2024-10-01,0,42152,42152,0,anti-VEGF,ophthalmology
+aflibercept,2024-11-01,0,40139,40139,0,anti-VEGF,ophthalmology
+aflibercept,2024-12-01,0,40872,40872,0,anti-VEGF,ophthalmology
+aflibercept,2025-01-01,0,41971,41971,0,anti-VEGF,ophthalmology
+aflibercept,2025-02-01,0,40241,40241,0,anti-VEGF,ophthalmology
+aflibercept,2025-03-01,0,40878,40878,0,anti-VEGF,ophthalmology
+aflibercept,2025-04-01,0,40506,40506,0,anti-VEGF,ophthalmology
+aflibercept,2025-05-01,0,43517,43517,0,anti-VEGF,ophthalmology
+aflibercept,2025-06-01,0,39972,39972,0,anti-VEGF,ophthalmology
+aflibercept,2025-07-01,0,44002,44002,0,anti-VEGF,ophthalmology
+aflibercept,2025-08-01,0,38841,38841,0,anti-VEGF,ophthalmology
+aflibercept,2025-09-01,0,40622,40622,0,anti-VEGF,ophthalmology
+aflibercept,2025-10-01,0,43142,43142,0,anti-VEGF,ophthalmology
+aflibercept,2025-11-01,0,38393,38393,0,anti-VEGF,ophthalmology
+bevacizumab,2009-07-01,0,138,138,0,anti-VEGF,oncology
+bevacizumab,2009-08-01,0,978,978,0,anti-VEGF,oncology
+bevacizumab,2009-09-01,0,1826,1826,0,anti-VEGF,oncology
+bevacizumab,2009-10-01,0,2668,2668,0,anti-VEGF,oncology
+bevacizumab,2009-11-01,0,2662,2662,0,anti-VEGF,oncology
+bevacizumab,2009-12-01,0,2676,2676,0,anti-VEGF,oncology
+bevacizumab,2010-01-01,0,3798,3798,0,anti-VEGF,oncology
+bevacizumab,2010-02-01,0,3374,3374,0,anti-VEGF,oncology
+bevacizumab,2010-03-01,0,3862,3862,0,anti-VEGF,oncology
+bevacizumab,2010-04-01,0,3942,3942,0,anti-VEGF,oncology
+bevacizumab,2010-05-01,0,4148,4148,0,anti-VEGF,oncology
+bevacizumab,2010-06-01,0,4096,4096,0,anti-VEGF,oncology
+bevacizumab,2010-07-01,0,5034,5034,0,anti-VEGF,oncology
+bevacizumab,2010-08-01,0,4800,4800,0,anti-VEGF,oncology
+bevacizumab,2010-09-01,0,4620,4620,0,anti-VEGF,oncology
+bevacizumab,2010-10-01,0,5546,5546,0,anti-VEGF,oncology
+bevacizumab,2010-11-01,0,4904,4904,0,anti-VEGF,oncology
+bevacizumab,2010-12-01,0,4230,4230,0,anti-VEGF,oncology
+bevacizumab,2011-01-01,0,5530,5530,0,anti-VEGF,oncology
+bevacizumab,2011-02-01,0,4768,4768,0,anti-VEGF,oncology
+bevacizumab,2011-03-01,0,6436,6436,0,anti-VEGF,oncology
+bevacizumab,2011-04-01,0,5724,5724,0,anti-VEGF,oncology
+bevacizumab,2011-05-01,0,5278,5278,0,anti-VEGF,oncology
+bevacizumab,2011-06-01,0,5838,5838,0,anti-VEGF,oncology
+bevacizumab,2011-07-01,0,6414,6414,0,anti-VEGF,oncology
+bevacizumab,2011-08-01,0,6150,6150,0,anti-VEGF,oncology
+bevacizumab,2011-09-01,0,5528,5528,0,anti-VEGF,oncology
+bevacizumab,2011-10-01,0,5198,5198,0,anti-VEGF,oncology
+bevacizumab,2011-11-01,0,5096,5096,0,anti-VEGF,oncology
+bevacizumab,2011-12-01,0,4308,4308,0,anti-VEGF,oncology
+bevacizumab,2012-01-01,0,5314,5314,0,anti-VEGF,oncology
+bevacizumab,2012-02-01,0,3758,3758,0,anti-VEGF,oncology
+bevacizumab,2012-03-01,0,5722,5722,0,anti-VEGF,oncology
+bevacizumab,2012-04-01,0,5050,5050,0,anti-VEGF,oncology
+bevacizumab,2012-05-01,0,6850,6850,0,anti-VEGF,oncology
+bevacizumab,2012-06-01,0,5684,5684,0,anti-VEGF,oncology
+bevacizumab,2012-07-01,0,4482,4482,0,anti-VEGF,oncology
+bevacizumab,2012-08-01,0,4052,4052,0,anti-VEGF,oncology
+bevacizumab,2012-09-01,0,6298,6298,0,anti-VEGF,oncology
+bevacizumab,2012-10-01,0,5154,5154,0,anti-VEGF,oncology
+bevacizumab,2012-11-01,0,5504,5504,0,anti-VEGF,oncology
+bevacizumab,2012-12-01,0,3250,3250,0,anti-VEGF,oncology
+bevacizumab,2013-01-01,0,5782,5782,0,anti-VEGF,oncology
+bevacizumab,2013-02-01,0,4810,4810,0,anti-VEGF,oncology
+bevacizumab,2013-03-01,0,5098,5098,0,anti-VEGF,oncology
+bevacizumab,2013-04-01,0,4416,4416,0,anti-VEGF,oncology
+bevacizumab,2013-05-01,0,5956,5956,0,anti-VEGF,oncology
+bevacizumab,2013-06-01,0,5230,5230,0,anti-VEGF,oncology
+bevacizumab,2013-07-01,0,4706,4706,0,anti-VEGF,oncology
+bevacizumab,2013-08-01,0,5422,5422,0,anti-VEGF,oncology
+bevacizumab,2013-09-01,0,6040,6040,0,anti-VEGF,oncology
+bevacizumab,2013-10-01,0,4586,4586,0,anti-VEGF,oncology
+bevacizumab,2013-11-01,0,4894,4894,0,anti-VEGF,oncology
+bevacizumab,2013-12-01,0,5196,5196,0,anti-VEGF,oncology
+bevacizumab,2014-01-01,0,5334,5334,0,anti-VEGF,oncology
+bevacizumab,2014-02-01,0,4728,4728,0,anti-VEGF,oncology
+bevacizumab,2014-03-01,0,6018,6018,0,anti-VEGF,oncology
+bevacizumab,2014-04-01,0,5540,5540,0,anti-VEGF,oncology
+bevacizumab,2014-05-01,0,7746,7746,0,anti-VEGF,oncology
+bevacizumab,2014-06-01,0,5896,5896,0,anti-VEGF,oncology
+bevacizumab,2014-07-01,0,4486,4486,0,anti-VEGF,oncology
+bevacizumab,2014-08-01,0,5258,5258,0,anti-VEGF,oncology
+bevacizumab,2014-09-01,0,4946,4946,0,anti-VEGF,oncology
+bevacizumab,2014-10-01,0,5238,5238,0,anti-VEGF,oncology
+bevacizumab,2014-11-01,0,5212,5212,0,anti-VEGF,oncology
+bevacizumab,2014-12-01,0,4906,4906,0,anti-VEGF,oncology
+bevacizumab,2015-01-01,0,5604,5604,0,anti-VEGF,oncology
+bevacizumab,2015-02-01,0,6534,6534,0,anti-VEGF,oncology
+bevacizumab,2015-03-01,0,6596,6596,0,anti-VEGF,oncology
+bevacizumab,2015-04-01,0,5138,5138,0,anti-VEGF,oncology
+bevacizumab,2015-05-01,0,9956,9956,0,anti-VEGF,oncology
+bevacizumab,2015-06-01,0,6484,6484,0,anti-VEGF,oncology
+bevacizumab,2015-07-01,0,6922,6922,0,anti-VEGF,oncology
+bevacizumab,2015-08-01,0,6164,6164,0,anti-VEGF,oncology
+bevacizumab,2015-09-01,0,5792,5792,0,anti-VEGF,oncology
+bevacizumab,2015-10-01,0,6032,6032,0,anti-VEGF,oncology
+bevacizumab,2015-11-01,0,5834,5834,0,anti-VEGF,oncology
+bevacizumab,2015-12-01,0,6078,6078,0,anti-VEGF,oncology
+bevacizumab,2016-01-01,0,6088,6088,0,anti-VEGF,oncology
+bevacizumab,2016-02-01,0,6078,6078,0,anti-VEGF,oncology
+bevacizumab,2016-03-01,0,7352,7352,0,anti-VEGF,oncology
+bevacizumab,2016-04-01,0,5988,5988,0,anti-VEGF,oncology
+bevacizumab,2016-05-01,0,6594,6594,0,anti-VEGF,oncology
+bevacizumab,2016-06-01,0,5978,5978,0,anti-VEGF,oncology
+bevacizumab,2016-07-01,0,6998,6998,0,anti-VEGF,oncology
+bevacizumab,2016-08-01,0,6178,6178,0,anti-VEGF,oncology
+bevacizumab,2016-09-01,0,6178,6178,0,anti-VEGF,oncology
+bevacizumab,2016-10-01,0,5858,5858,0,anti-VEGF,oncology
+bevacizumab,2016-11-01,0,6024,6024,0,anti-VEGF,oncology
+bevacizumab,2016-12-01,0,6876,6876,0,anti-VEGF,oncology
+bevacizumab,2017-01-01,0,5594,5594,0,anti-VEGF,oncology
+bevacizumab,2017-02-01,0,6212,6212,0,anti-VEGF,oncology
+bevacizumab,2017-03-01,0,7462,7462,0,anti-VEGF,oncology
+bevacizumab,2017-04-01,0,5780,5780,0,anti-VEGF,oncology
+bevacizumab,2017-05-01,0,5878,5878,0,anti-VEGF,oncology
+bevacizumab,2017-06-01,0,7524,7524,0,anti-VEGF,oncology
+bevacizumab,2017-07-01,0,5536,5536,0,anti-VEGF,oncology
+bevacizumab,2017-08-01,0,6494,6494,0,anti-VEGF,oncology
+bevacizumab,2017-09-01,0,6584,6584,0,anti-VEGF,oncology
+bevacizumab,2017-10-01,0,5532,5532,0,anti-VEGF,oncology
+bevacizumab,2017-11-01,0,6856,6856,0,anti-VEGF,oncology
+bevacizumab,2017-12-01,0,5876,5876,0,anti-VEGF,oncology
+bevacizumab,2018-01-01,0,5544,5544,0,anti-VEGF,oncology
+bevacizumab,2018-02-01,0,6508,6508,0,anti-VEGF,oncology
+bevacizumab,2018-03-01,0,6474,6474,0,anti-VEGF,oncology
+bevacizumab,2018-04-01,0,5184,5184,0,anti-VEGF,oncology
+bevacizumab,2018-05-01,0,7710,7710,0,anti-VEGF,oncology
+bevacizumab,2018-06-01,0,6030,6030,0,anti-VEGF,oncology
+bevacizumab,2018-07-01,0,5586,5586,0,anti-VEGF,oncology
+bevacizumab,2018-08-01,0,6342,6342,0,anti-VEGF,oncology
+bevacizumab,2018-09-01,0,5964,5964,0,anti-VEGF,oncology
+bevacizumab,2018-10-01,0,5916,5916,0,anti-VEGF,oncology
+bevacizumab,2018-11-01,0,6070,6070,0,anti-VEGF,oncology
+bevacizumab,2018-12-01,0,5906,5906,0,anti-VEGF,oncology
+bevacizumab,2019-01-01,0,5656,5656,0,anti-VEGF,oncology
+bevacizumab,2019-02-01,0,5430,5430,0,anti-VEGF,oncology
+bevacizumab,2019-03-01,0,6122,6122,0,anti-VEGF,oncology
+bevacizumab,2019-04-01,0,4786,4786,0,anti-VEGF,oncology
+bevacizumab,2019-05-01,0,6850,6850,0,anti-VEGF,oncology
+bevacizumab,2019-06-01,0,6406,6406,0,anti-VEGF,oncology
+bevacizumab,2019-07-01,0,5694,5694,0,anti-VEGF,oncology
+bevacizumab,2019-08-01,0,6218,6218,0,anti-VEGF,oncology
+bevacizumab,2019-09-01,0,5580,5580,0,anti-VEGF,oncology
+bevacizumab,2019-10-01,0,6002,6002,0,anti-VEGF,oncology
+bevacizumab,2019-11-01,0,6952,6952,0,anti-VEGF,oncology
+bevacizumab,2019-12-01,0,6664,6664,0,anti-VEGF,oncology
+bevacizumab,2020-01-01,0,7458,7458,0,anti-VEGF,oncology
+bevacizumab,2020-02-01,0,6720,6720,0,anti-VEGF,oncology
+bevacizumab,2020-03-01,0,6288,6288,0,anti-VEGF,oncology
+bevacizumab,2020-04-01,0,7474,7474,0,anti-VEGF,oncology
+bevacizumab,2020-05-01,0,7562,7562,0,anti-VEGF,oncology
+bevacizumab,2020-06-01,0,6702,6702,0,anti-VEGF,oncology
+bevacizumab,2020-07-01,0,7624,7624,0,anti-VEGF,oncology
+bevacizumab,2020-08-01,0,7774,7774,0,anti-VEGF,oncology
+bevacizumab,2020-09-01,0,6892,6892,0,anti-VEGF,oncology
+bevacizumab,2020-10-01,0,7234,7234,0,anti-VEGF,oncology
+bevacizumab,2020-11-01,0,6552,6552,0,anti-VEGF,oncology
+bevacizumab,2020-12-01,0,8082,8082,0,anti-VEGF,oncology
+bevacizumab,2021-01-01,0,7142,7142,0,anti-VEGF,oncology
+bevacizumab,2021-02-01,0,7992,7992,0,anti-VEGF,oncology
+bevacizumab,2021-03-01,0,8014,8014,0,anti-VEGF,oncology
+bevacizumab,2021-04-01,0,8544,8544,0,anti-VEGF,oncology
+bevacizumab,2021-05-01,0,7942,7942,0,anti-VEGF,oncology
+bevacizumab,2021-06-01,3836,3900,7736,0.49586349534643226,anti-VEGF,oncology
+bevacizumab,2021-07-01,8517,1034,9551,0.8917390849125746,anti-VEGF,oncology
+bevacizumab,2021-08-01,8947,230,9177,0.974937343358396,anti-VEGF,oncology
+bevacizumab,2021-09-01,9633,182,9815,0.9814569536423841,anti-VEGF,oncology
+bevacizumab,2021-10-01,9148,54,9202,0.9941317104977179,anti-VEGF,oncology
+bevacizumab,2021-11-01,10159,28,10187,0.9972513988416609,anti-VEGF,oncology
+bevacizumab,2021-12-01,10209,150,10359,0.9855198378221836,anti-VEGF,oncology
+bevacizumab,2022-01-01,8785,18,8803,0.9979552425309554,anti-VEGF,oncology
+bevacizumab,2022-02-01,9041,4,9045,0.9995577667219459,anti-VEGF,oncology
+bevacizumab,2022-03-01,10438,72,10510,0.9931493815413891,anti-VEGF,oncology
+bevacizumab,2022-04-01,9291,404,9695,0.9583290355853533,anti-VEGF,oncology
+bevacizumab,2022-05-01,9750,364,10114,0.9640102827763496,anti-VEGF,oncology
+bevacizumab,2022-06-01,10471,218,10689,0.9796052016091309,anti-VEGF,oncology
+bevacizumab,2022-07-01,4755,0,4755,1,anti-VEGF,oncology
+bevacizumab,2022-08-01,5401,0,5401,1,anti-VEGF,oncology
+bevacizumab,2022-09-01,5026,0,5026,1,anti-VEGF,oncology
+bevacizumab,2022-10-01,4945,0,4945,1,anti-VEGF,oncology
+bevacizumab,2022-11-01,5149,0,5149,1,anti-VEGF,oncology
+bevacizumab,2022-12-01,4929,0,4929,1,anti-VEGF,oncology
+bevacizumab,2023-01-01,5216,0,5216,1,anti-VEGF,oncology
+bevacizumab,2023-02-01,5096,0,5096,1,anti-VEGF,oncology
+bevacizumab,2023-03-01,5675,0,5675,1,anti-VEGF,oncology
+bevacizumab,2023-04-01,4805,0,4805,1,anti-VEGF,oncology
+bevacizumab,2023-05-01,5984,0,5984,1,anti-VEGF,oncology
+bevacizumab,2023-06-01,5551,0,5551,1,anti-VEGF,oncology
+bevacizumab,2023-07-01,5499,0,5499,1,anti-VEGF,oncology
+bevacizumab,2023-08-01,6075,0,6075,1,anti-VEGF,oncology
+bevacizumab,2023-09-01,5690,0,5690,1,anti-VEGF,oncology
+bevacizumab,2023-10-01,5959,0,5959,1,anti-VEGF,oncology
+bevacizumab,2023-11-01,5926,0,5926,1,anti-VEGF,oncology
+bevacizumab,2023-12-01,5279,0,5279,1,anti-VEGF,oncology
+bevacizumab,2024-01-01,6171,0,6171,1,anti-VEGF,oncology
+bevacizumab,2024-02-01,5654,0,5654,1,anti-VEGF,oncology
+bevacizumab,2024-03-01,5742,0,5742,1,anti-VEGF,oncology
+bevacizumab,2024-04-01,5906,0,5906,1,anti-VEGF,oncology
+bevacizumab,2024-05-01,6280,0,6280,1,anti-VEGF,oncology
+bevacizumab,2024-06-01,5473,0,5473,1,anti-VEGF,oncology
+bevacizumab,2024-07-01,6454,0,6454,1,anti-VEGF,oncology
+bevacizumab,2024-08-01,5940,0,5940,1,anti-VEGF,oncology
+bevacizumab,2024-09-01,5886,0,5886,1,anti-VEGF,oncology
+bevacizumab,2024-10-01,6500,0,6500,1,anti-VEGF,oncology
+bevacizumab,2024-11-01,5883,0,5883,1,anti-VEGF,oncology
+bevacizumab,2024-12-01,5861,0,5861,1,anti-VEGF,oncology
+bevacizumab,2025-01-01,6308,0,6308,1,anti-VEGF,oncology
+bevacizumab,2025-02-01,5843,0,5843,1,anti-VEGF,oncology
+bevacizumab,2025-03-01,5983,0,5983,1,anti-VEGF,oncology
+bevacizumab,2025-04-01,6217,0,6217,1,anti-VEGF,oncology
+bevacizumab,2025-05-01,6351,0,6351,1,anti-VEGF,oncology
+bevacizumab,2025-06-01,6113,0,6113,1,anti-VEGF,oncology
+bevacizumab,2025-07-01,6634,0,6634,1,anti-VEGF,oncology
+bevacizumab,2025-08-01,6144,0,6144,1,anti-VEGF,oncology
+bevacizumab,2025-09-01,6451,0,6451,1,anti-VEGF,oncology
+bevacizumab,2025-10-01,6725,0,6725,1,anti-VEGF,oncology
+bevacizumab,2025-11-01,5765,0,5765,1,anti-VEGF,oncology
+etanercept,2009-01-01,0,9248,9248,0,anti-TNF,rheumatology
+etanercept,2009-02-01,0,9220,9220,0,anti-TNF,rheumatology
+etanercept,2009-03-01,0,10268,10268,0,anti-TNF,rheumatology
+etanercept,2009-04-01,0,10434,10434,0,anti-TNF,rheumatology
+etanercept,2009-05-01,0,10122,10122,0,anti-TNF,rheumatology
+etanercept,2009-06-01,0,9356,9356,0,anti-TNF,rheumatology
+etanercept,2009-07-01,0,10376,10376,0,anti-TNF,rheumatology
+etanercept,2009-08-01,0,9434,9434,0,anti-TNF,rheumatology
+etanercept,2009-09-01,0,9624,9624,0,anti-TNF,rheumatology
+etanercept,2009-10-01,0,10938,10938,0,anti-TNF,rheumatology
+etanercept,2009-11-01,0,10774,10774,0,anti-TNF,rheumatology
+etanercept,2009-12-01,0,10466,10466,0,anti-TNF,rheumatology
+etanercept,2010-01-01,0,13670,13670,0,anti-TNF,rheumatology
+etanercept,2010-02-01,0,10594,10594,0,anti-TNF,rheumatology
+etanercept,2010-03-01,0,11980,11980,0,anti-TNF,rheumatology
+etanercept,2010-04-01,0,9162,9162,0,anti-TNF,rheumatology
+etanercept,2010-05-01,0,11694,11694,0,anti-TNF,rheumatology
+etanercept,2010-06-01,0,11000,11000,0,anti-TNF,rheumatology
+etanercept,2010-07-01,0,11816,11816,0,anti-TNF,rheumatology
+etanercept,2010-08-01,0,10108,10108,0,anti-TNF,rheumatology
+etanercept,2010-09-01,0,11752,11752,0,anti-TNF,rheumatology
+etanercept,2010-10-01,0,11774,11774,0,anti-TNF,rheumatology
+etanercept,2010-11-01,0,12092,12092,0,anti-TNF,rheumatology
+etanercept,2010-12-01,0,9264,9264,0,anti-TNF,rheumatology
+etanercept,2011-01-01,0,11058,11058,0,anti-TNF,rheumatology
+etanercept,2011-02-01,0,11176,11176,0,anti-TNF,rheumatology
+etanercept,2011-03-01,0,12944,12944,0,anti-TNF,rheumatology
+etanercept,2011-04-01,0,11654,11654,0,anti-TNF,rheumatology
+etanercept,2011-05-01,0,11430,11430,0,anti-TNF,rheumatology
+etanercept,2011-06-01,0,11198,11198,0,anti-TNF,rheumatology
+etanercept,2011-07-01,0,13108,13108,0,anti-TNF,rheumatology
+etanercept,2011-08-01,0,12292,12292,0,anti-TNF,rheumatology
+etanercept,2011-09-01,0,11326,11326,0,anti-TNF,rheumatology
+etanercept,2011-10-01,0,10452,10452,0,anti-TNF,rheumatology
+etanercept,2011-11-01,0,10566,10566,0,anti-TNF,rheumatology
+etanercept,2011-12-01,0,9128,9128,0,anti-TNF,rheumatology
+etanercept,2012-01-01,0,10920,10920,0,anti-TNF,rheumatology
+etanercept,2012-02-01,0,8570,8570,0,anti-TNF,rheumatology
+etanercept,2012-03-01,0,12690,12690,0,anti-TNF,rheumatology
+etanercept,2012-04-01,0,12380,12380,0,anti-TNF,rheumatology
+etanercept,2012-05-01,0,15674,15674,0,anti-TNF,rheumatology
+etanercept,2012-06-01,0,21796,21796,0,anti-TNF,rheumatology
+etanercept,2012-07-01,0,12348,12348,0,anti-TNF,rheumatology
+etanercept,2012-08-01,0,13444,13444,0,anti-TNF,rheumatology
+etanercept,2012-09-01,0,17928,17928,0,anti-TNF,rheumatology
+etanercept,2012-10-01,0,14424,14424,0,anti-TNF,rheumatology
+etanercept,2012-11-01,0,13784,13784,0,anti-TNF,rheumatology
+etanercept,2012-12-01,0,9308,9308,0,anti-TNF,rheumatology
+etanercept,2013-01-01,0,15900,15900,0,anti-TNF,rheumatology
+etanercept,2013-02-01,0,12574,12574,0,anti-TNF,rheumatology
+etanercept,2013-03-01,0,10136,10136,0,anti-TNF,rheumatology
+etanercept,2013-04-01,0,12622,12622,0,anti-TNF,rheumatology
+etanercept,2013-05-01,0,14156,14156,0,anti-TNF,rheumatology
+etanercept,2013-06-01,0,14020,14020,0,anti-TNF,rheumatology
+etanercept,2013-07-01,0,12120,12120,0,anti-TNF,rheumatology
+etanercept,2013-08-01,0,12048,12048,0,anti-TNF,rheumatology
+etanercept,2013-09-01,0,11904,11904,0,anti-TNF,rheumatology
+etanercept,2013-10-01,0,10492,10492,0,anti-TNF,rheumatology
+etanercept,2013-11-01,0,10824,10824,0,anti-TNF,rheumatology
+etanercept,2013-12-01,0,10550,10550,0,anti-TNF,rheumatology
+etanercept,2014-01-01,0,11508,11508,0,anti-TNF,rheumatology
+etanercept,2014-02-01,0,8212,8212,0,anti-TNF,rheumatology
+etanercept,2014-03-01,0,24526,24526,0,anti-TNF,rheumatology
+etanercept,2014-04-01,0,30284,30284,0,anti-TNF,rheumatology
+etanercept,2014-05-01,0,19894,19894,0,anti-TNF,rheumatology
+etanercept,2014-06-01,0,16844,16844,0,anti-TNF,rheumatology
+etanercept,2014-07-01,0,13714,13714,0,anti-TNF,rheumatology
+etanercept,2014-08-01,0,15334,15334,0,anti-TNF,rheumatology
+etanercept,2014-09-01,0,13188,13188,0,anti-TNF,rheumatology
+etanercept,2014-10-01,0,12644,12644,0,anti-TNF,rheumatology
+etanercept,2014-11-01,0,14900,14900,0,anti-TNF,rheumatology
+etanercept,2014-12-01,0,12666,12666,0,anti-TNF,rheumatology
+etanercept,2015-01-01,0,14580,14580,0,anti-TNF,rheumatology
+etanercept,2015-02-01,0,19784,19784,0,anti-TNF,rheumatology
+etanercept,2015-03-01,0,16354,16354,0,anti-TNF,rheumatology
+etanercept,2015-04-01,0,13288,13288,0,anti-TNF,rheumatology
+etanercept,2015-05-01,0,25596,25596,0,anti-TNF,rheumatology
+etanercept,2015-06-01,0,18682,18682,0,anti-TNF,rheumatology
+etanercept,2015-07-01,0,18772,18772,0,anti-TNF,rheumatology
+etanercept,2015-08-01,0,15898,15898,0,anti-TNF,rheumatology
+etanercept,2015-09-01,0,15558,15558,0,anti-TNF,rheumatology
+etanercept,2015-10-01,0,15858,15858,0,anti-TNF,rheumatology
+etanercept,2015-11-01,0,15294,15294,0,anti-TNF,rheumatology
+etanercept,2015-12-01,0,17838,17838,0,anti-TNF,rheumatology
+etanercept,2016-01-01,0,13996,13996,0,anti-TNF,rheumatology
+etanercept,2016-02-01,0,15390,15390,0,anti-TNF,rheumatology
+etanercept,2016-03-01,0,17700,17700,0,anti-TNF,rheumatology
+etanercept,2016-04-01,0,16388,16388,0,anti-TNF,rheumatology
+etanercept,2016-05-01,0,15940,15940,0,anti-TNF,rheumatology
+etanercept,2016-06-01,0,16882,16882,0,anti-TNF,rheumatology
+etanercept,2016-07-01,0,16456,16456,0,anti-TNF,rheumatology
+etanercept,2016-08-01,0,15926,15926,0,anti-TNF,rheumatology
+etanercept,2016-09-01,0,15612,15612,0,anti-TNF,rheumatology
+etanercept,2016-10-01,0,15452,15452,0,anti-TNF,rheumatology
+etanercept,2016-11-01,0,15952,15952,0,anti-TNF,rheumatology
+etanercept,2016-12-01,0,18184,18184,0,anti-TNF,rheumatology
+etanercept,2017-01-01,0,14192,14192,0,anti-TNF,rheumatology
+etanercept,2017-02-01,0,14696,14696,0,anti-TNF,rheumatology
+etanercept,2017-03-01,0,17682,17682,0,anti-TNF,rheumatology
+etanercept,2017-04-01,15388,476,15864,0.9699949571356531,anti-TNF,rheumatology
+etanercept,2017-05-01,15576,536,16112,0.9667328699106256,anti-TNF,rheumatology
+etanercept,2017-06-01,16024,528,16552,0.9681005316578057,anti-TNF,rheumatology
+etanercept,2017-07-01,14854,536,15390,0.9651721897335932,anti-TNF,rheumatology
+etanercept,2017-08-01,15686,546,16232,0.966362740266141,anti-TNF,rheumatology
+etanercept,2017-09-01,15076,560,15636,0.9641852136096188,anti-TNF,rheumatology
+etanercept,2017-10-01,15296,538,15834,0.9660224832638625,anti-TNF,rheumatology
+etanercept,2017-11-01,15562,548,16110,0.965983860955928,anti-TNF,rheumatology
+etanercept,2017-12-01,17270,584,17854,0.9672902430827826,anti-TNF,rheumatology
+etanercept,2018-01-01,15094,486,15580,0.968806161745828,anti-TNF,rheumatology
+etanercept,2018-02-01,14580,490,15070,0.9674850696748507,anti-TNF,rheumatology
+etanercept,2018-03-01,15644,484,16128,0.9699900793650794,anti-TNF,rheumatology
+etanercept,2018-04-01,15616,492,16108,0.9694561708467843,anti-TNF,rheumatology
+etanercept,2018-05-01,16436,526,16962,0.9689895059544865,anti-TNF,rheumatology
+etanercept,2018-06-01,14634,448,15082,0.9702957167484418,anti-TNF,rheumatology
+etanercept,2018-07-01,14214,448,14662,0.969444823352885,anti-TNF,rheumatology
+etanercept,2018-08-01,20284,592,20876,0.9716420770262503,anti-TNF,rheumatology
+etanercept,2018-09-01,15738,458,16196,0.9717214126944924,anti-TNF,rheumatology
+etanercept,2018-10-01,15256,420,15676,0.9732074508803266,anti-TNF,rheumatology
+etanercept,2018-11-01,16550,532,17082,0.9688561058424072,anti-TNF,rheumatology
+etanercept,2018-12-01,18112,484,18596,0.9739728973972898,anti-TNF,rheumatology
+etanercept,2019-01-01,15706,424,16130,0.9737135771853689,anti-TNF,rheumatology
+etanercept,2019-02-01,15898,476,16374,0.9709295224135825,anti-TNF,rheumatology
+etanercept,2019-03-01,17374,486,17860,0.9727883538633818,anti-TNF,rheumatology
+etanercept,2019-04-01,15090,446,15536,0.971292481977343,anti-TNF,rheumatology
+etanercept,2019-05-01,17036,490,17526,0.9720415382859752,anti-TNF,rheumatology
+etanercept,2019-06-01,17162,486,17648,0.9724614687216682,anti-TNF,rheumatology
+etanercept,2019-07-01,15964,502,16466,0.9695129357463865,anti-TNF,rheumatology
+etanercept,2019-08-01,16654,414,17068,0.9757440824935552,anti-TNF,rheumatology
+etanercept,2019-09-01,16406,468,16874,0.9722650231124808,anti-TNF,rheumatology
+etanercept,2019-10-01,16070,458,16528,0.9722894482090997,anti-TNF,rheumatology
+etanercept,2019-11-01,17238,452,17690,0.9744488411531939,anti-TNF,rheumatology
+etanercept,2019-12-01,16964,442,17406,0.9746064575433758,anti-TNF,rheumatology
+etanercept,2020-01-01,17596,498,18094,0.9724770642201835,anti-TNF,rheumatology
+etanercept,2020-02-01,16290,386,16676,0.976852962341089,anti-TNF,rheumatology
+etanercept,2020-03-01,16656,496,17152,0.9710820895522388,anti-TNF,rheumatology
+etanercept,2020-04-01,17112,484,17596,0.97249374857922255,anti-TNF,rheumatology
+etanercept,2020-05-01,15184,378,15562,0.9757100629739108,anti-TNF,rheumatology
+etanercept,2020-06-01,15912,414,16326,0.9746416758544653,anti-TNF,rheumatology
+etanercept,2020-07-01,17954,410,18364,0.9776737094314965,anti-TNF,rheumatology
+etanercept,2020-08-01,17410,422,17832,0.9763346792283535,anti-TNF,rheumatology
+etanercept,2020-09-01,16142,392,16534,0.9762912785774767,anti-TNF,rheumatology
+etanercept,2020-10-01,17722,438,18160,0.9758810572687224,anti-TNF,rheumatology
+etanercept,2020-11-01,15912,392,16304,0.9759568204121688,anti-TNF,rheumatology
+etanercept,2020-12-01,17740,502,18242,0.9724810876000438,anti-TNF,rheumatology
+etanercept,2021-01-01,17502,406,17908,0.9773285682376591,anti-TNF,rheumatology
+etanercept,2021-02-01,16192,394,16586,0.9762450259254793,anti-TNF,rheumatology
+etanercept,2021-03-01,15110,410,15520,0.9735824742268041,anti-TNF,rheumatology
+etanercept,2021-04-01,16360,416,16776,0.9752026704816404,anti-TNF,rheumatology
+etanercept,2021-05-01,16150,386,16536,0.9766569908079342,anti-TNF,rheumatology
+etanercept,2021-06-01,16296,348,16644,0.9790915645277577,anti-TNF,rheumatology
+etanercept,2021-07-01,17418,410,17828,0.9770024680278214,anti-TNF,rheumatology
+etanercept,2021-08-01,16926,387,17313,0.9776468549644776,anti-TNF,rheumatology
+etanercept,2021-09-01,16691,354,17045,0.979231446171898,anti-TNF,rheumatology
+etanercept,2021-10-01,16825,323,17148,0.9811639841380919,anti-TNF,rheumatology
+etanercept,2021-11-01,16810,332,17142,0.9806323649515809,anti-TNF,rheumatology
+etanercept,2021-12-01,18639,409,19048,0.9785279294414112,anti-TNF,rheumatology
+etanercept,2022-01-01,16630,289,16919,0.9829186122111236,anti-TNF,rheumatology
+etanercept,2022-02-01,15306,269,15575,0.9827287319422151,anti-TNF,rheumatology
+etanercept,2022-03-01,18012,340,18352,0.9814734088927637,anti-TNF,rheumatology
+etanercept,2022-04-01,17681,280,17961,0.9844106675574856,anti-TNF,rheumatology
+etanercept,2022-05-01,17274,326,17600,0.9814772727272727,anti-TNF,rheumatology
+etanercept,2022-06-01,17552,318,17870,0.9822048125349748,anti-TNF,rheumatology
+etanercept,2022-07-01,8515,134,8649,0.9845068794080241,anti-TNF,rheumatology
+etanercept,2022-08-01,8996,156,9152,0.9829545454545454,anti-TNF,rheumatology
+etanercept,2022-09-01,8491,143,8634,0.9834375723882326,anti-TNF,rheumatology
+etanercept,2022-10-01,8763,148,8911,0.9833913141061609,anti-TNF,rheumatology
+etanercept,2022-11-01,8738,146,8884,0.9835659612787033,anti-TNF,rheumatology
+etanercept,2022-12-01,9299,143,9442,0.9848549036221139,anti-TNF,rheumatology
+etanercept,2023-01-01,8175,139,8314,0.9832812124127976,anti-TNF,rheumatology
+etanercept,2023-02-01,8020,123,8143,0.9848950018420729,anti-TNF,rheumatology
+etanercept,2023-03-01,10013,156,10169,0.984659258530829,anti-TNF,rheumatology
+etanercept,2023-04-01,7835,115,7950,0.9855345911949686,anti-TNF,rheumatology
+etanercept,2023-05-01,8837,145,8982,0.983856602093075,anti-TNF,rheumatology
+etanercept,2023-06-01,8540,143,8683,0.983531037659795,anti-TNF,rheumatology
+etanercept,2023-07-01,8600,145,8745,0.9834190966266438,anti-TNF,rheumatology
+etanercept,2023-08-01,9122,141,9263,0.9847781496275505,anti-TNF,rheumatology
+etanercept,2023-09-01,8576,125,8701,0.9856338351913573,anti-TNF,rheumatology
+etanercept,2023-10-01,8988,139,9127,0.984770461268763,anti-TNF,rheumatology
+etanercept,2023-11-01,9087,143,9230,0.9845070422535211,anti-TNF,rheumatology
+etanercept,2023-12-01,9362,134,9496,0.9858887952822241,anti-TNF,rheumatology
+etanercept,2024-01-01,8539,122,8661,0.9859138667590348,anti-TNF,rheumatology
+etanercept,2024-02-01,8562,134,8696,0.984590616375345,anti-TNF,rheumatology
+etanercept,2024-03-01,8855,130,8985,0.9855314412910406,anti-TNF,rheumatology
+etanercept,2024-04-01,9090,132,9222,0.9856864020819779,anti-TNF,rheumatology
+etanercept,2024-05-01,9424,132,9556,0.9861866889912098,anti-TNF,rheumatology
+etanercept,2024-06-01,8628,117,8745,0.9866209262435678,anti-TNF,rheumatology
+etanercept,2024-07-01,9525,134,9659,0.9861269282534424,anti-TNF,rheumatology
+etanercept,2024-08-01,9243,133,9376,0.9858148464163823,anti-TNF,rheumatology
+etanercept,2024-09-01,8838,114,8952,0.9872654155495979,anti-TNF,rheumatology
+etanercept,2024-10-01,9402,124,9526,0.9869829939114004,anti-TNF,rheumatology
+etanercept,2024-11-01,8923,109,9032,0.9879317980513729,anti-TNF,rheumatology
+etanercept,2024-12-01,9787,115,9902,0.9883861846091698,anti-TNF,rheumatology
+etanercept,2025-01-01,8489,114,8603,0.9867488085551552,anti-TNF,rheumatology
+etanercept,2025-02-01,8279,107,8386,0.9872406391605056,anti-TNF,rheumatology
+etanercept,2025-03-01,9066,102,9168,0.9888743455497382,anti-TNF,rheumatology
+etanercept,2025-04-01,8979,96,9075,0.9894214876033058,anti-TNF,rheumatology
+etanercept,2025-05-01,9187,110,9297,0.9881682263095622,anti-TNF,rheumatology
+etanercept,2025-06-01,8589,95,8684,0.989060340856748,anti-TNF,rheumatology
+etanercept,2025-07-01,9104,105,9209,0.988598110544033,anti-TNF,rheumatology
+etanercept,2025-08-01,8811,93,8904,0.9895552560646901,anti-TNF,rheumatology
+etanercept,2025-09-01,8880,102,8982,0.9886439545758183,anti-TNF,rheumatology
+etanercept,2025-10-01,9142,98,9240,0.9893939393939394,anti-TNF,rheumatology
+etanercept,2025-11-01,8662,97,8759,0.988925676447083,anti-TNF,rheumatology
+filgrastim,2021-07-01,1541,28,1569,0.9821542383683876,G-CSF,oncology supportive
+filgrastim,2021-08-01,1553,27,1580,0.9829113924050633,G-CSF,oncology supportive
+filgrastim,2021-09-01,1516,28,1544,0.9818652849740933,G-CSF,oncology supportive
+filgrastim,2021-10-01,1566,30,1596,0.981203007518797,G-CSF,oncology supportive
+filgrastim,2021-11-01,1606,29,1635,0.982262996941896,G-CSF,oncology supportive
+filgrastim,2021-12-01,1571,25,1596,0.9843358395989975,G-CSF,oncology supportive
+filgrastim,2022-01-01,1473,17,1490,0.9885906040268456,G-CSF,oncology supportive
+filgrastim,2022-02-01,1465,17,1482,0.9885290148448043,G-CSF,oncology supportive
+filgrastim,2022-03-01,1650,26,1676,0.9844868735083532,G-CSF,oncology supportive
+filgrastim,2022-04-01,1493,25,1518,0.9835309617918313,G-CSF,oncology supportive
+filgrastim,2022-05-01,1608,22,1630,0.9865030674846625,G-CSF,oncology supportive
+filgrastim,2022-06-01,1570,35,1605,0.9781931464174455,G-CSF,oncology supportive
+filgrastim,2022-07-01,1598,30,1628,0.9815724815724816,G-CSF,oncology supportive
+filgrastim,2022-08-01,1677,32,1709,0.981275599765945,G-CSF,oncology supportive
+filgrastim,2022-09-01,1639,27,1666,0.9837935174069627,G-CSF,oncology supportive
+filgrastim,2022-10-01,1657,24,1681,0.9857227840571089,G-CSF,oncology supportive
+filgrastim,2022-11-01,1790,32,1822,0.9824368825466521,G-CSF,oncology supportive
+filgrastim,2022-12-01,1782,44,1826,0.9759036144578314,G-CSF,oncology supportive
+filgrastim,2023-01-01,1671,24,1695,0.9858407079646018,G-CSF,oncology supportive
+filgrastim,2023-02-01,1621,20,1641,0.987812309567337,G-CSF,oncology supportive
+filgrastim,2023-03-01,1964,31,1995,0.9844611528822055,G-CSF,oncology supportive
+filgrastim,2023-04-01,1641,33,1674,0.9802867383512545,G-CSF,oncology supportive
+filgrastim,2023-05-01,1803,42,1845,0.9772357723577236,G-CSF,oncology supportive
+filgrastim,2023-06-01,1835,35,1870,0.9812834224598931,G-CSF,oncology supportive
+filgrastim,2023-07-01,1753,40,1793,0.9776910206358059,G-CSF,oncology supportive
+filgrastim,2023-08-01,1912,31,1943,0.9840452907874421,G-CSF,oncology supportive
+filgrastim,2023-09-01,1813,19,1832,0.9896288209606987,G-CSF,oncology supportive
+filgrastim,2023-10-01,1899,47,1946,0.9758478931140802,G-CSF,oncology supportive
+filgrastim,2023-11-01,1976,38,2014,0.9811320754716981,G-CSF,oncology supportive
+filgrastim,2023-12-01,1848,50,1898,0.9736564805057956,G-CSF,oncology supportive
+filgrastim,2024-01-01,1768,30,1798,0.9833147942157954,G-CSF,oncology supportive
+filgrastim,2024-02-01,1803,28,1831,0.9847078099399236,G-CSF,oncology supportive
+filgrastim,2024-03-01,1845,0,1845,1,G-CSF,oncology supportive
+filgrastim,2024-04-01,1919,0,1919,1,G-CSF,oncology supportive
+filgrastim,2024-05-01,2036,0,2036,1,G-CSF,oncology supportive
+filgrastim,2024-06-01,1722,0,1722,1,G-CSF,oncology supportive
+filgrastim,2024-07-01,1995,0,1995,1,G-CSF,oncology supportive
+filgrastim,2024-08-01,1909,0,1909,1,G-CSF,oncology supportive
+filgrastim,2024-09-01,1995,0,1995,1,G-CSF,oncology supportive
+filgrastim,2024-10-01,2192,0,2192,1,G-CSF,oncology supportive
+filgrastim,2024-11-01,2030,0,2030,1,G-CSF,oncology supportive
+filgrastim,2024-12-01,2102,0,2102,1,G-CSF,oncology supportive
+filgrastim,2025-01-01,1999,0,1999,1,G-CSF,oncology supportive
+filgrastim,2025-02-01,1870,0,1870,1,G-CSF,oncology supportive
+filgrastim,2025-03-01,1944,0,1944,1,G-CSF,oncology supportive
+filgrastim,2025-04-01,2000,0,2000,1,G-CSF,oncology supportive
+filgrastim,2025-05-01,2051,0,2051,1,G-CSF,oncology supportive
+filgrastim,2025-06-01,1951,0,1951,1,G-CSF,oncology supportive
+filgrastim,2025-07-01,2113,0,2113,1,G-CSF,oncology supportive
+filgrastim,2025-08-01,2148,0,2148,1,G-CSF,oncology supportive
+filgrastim,2025-09-01,2129,0,2129,1,G-CSF,oncology supportive
+filgrastim,2025-10-01,2167,0,2167,1,G-CSF,oncology supportive
+filgrastim,2025-11-01,2009,0,2009,1,G-CSF,oncology supportive
+infliximab,2009-01-01,0,2068,2068,0,anti-TNF,rheumatology/gastro
+infliximab,2009-02-01,0,2374,2374,0,anti-TNF,rheumatology/gastro
+infliximab,2009-03-01,0,2102,2102,0,anti-TNF,rheumatology/gastro
+infliximab,2009-04-01,0,2422,2422,0,anti-TNF,rheumatology/gastro
+infliximab,2009-05-01,0,2430,2430,0,anti-TNF,rheumatology/gastro
+infliximab,2009-06-01,0,2268,2268,0,anti-TNF,rheumatology/gastro
+infliximab,2009-07-01,0,2048,2048,0,anti-TNF,rheumatology/gastro
+infliximab,2009-08-01,0,2134,2134,0,anti-TNF,rheumatology/gastro
+infliximab,2009-09-01,0,2306,2306,0,anti-TNF,rheumatology/gastro
+infliximab,2009-10-01,0,2316,2316,0,anti-TNF,rheumatology/gastro
+infliximab,2009-11-01,0,1902,1902,0,anti-TNF,rheumatology/gastro
+infliximab,2009-12-01,0,2182,2182,0,anti-TNF,rheumatology/gastro
+infliximab,2010-01-01,0,2538,2538,0,anti-TNF,rheumatology/gastro
+infliximab,2010-02-01,0,2652,2652,0,anti-TNF,rheumatology/gastro
+infliximab,2010-03-01,0,2206,2206,0,anti-TNF,rheumatology/gastro
+infliximab,2010-04-01,0,2162,2162,0,anti-TNF,rheumatology/gastro
+infliximab,2010-05-01,0,2240,2240,0,anti-TNF,rheumatology/gastro
+infliximab,2010-06-01,0,2154,2154,0,anti-TNF,rheumatology/gastro
+infliximab,2010-07-01,0,2702,2702,0,anti-TNF,rheumatology/gastro
+infliximab,2010-08-01,0,2076,2076,0,anti-TNF,rheumatology/gastro
+infliximab,2010-09-01,0,2196,2196,0,anti-TNF,rheumatology/gastro
+infliximab,2010-10-01,0,2174,2174,0,anti-TNF,rheumatology/gastro
+infliximab,2010-11-01,0,2246,2246,0,anti-TNF,rheumatology/gastro
+infliximab,2010-12-01,0,1894,1894,0,anti-TNF,rheumatology/gastro
+infliximab,2011-01-01,0,2594,2594,0,anti-TNF,rheumatology/gastro
+infliximab,2011-02-01,0,2676,2676,0,anti-TNF,rheumatology/gastro
+infliximab,2011-03-01,0,2692,2692,0,anti-TNF,rheumatology/gastro
+infliximab,2011-04-01,0,2588,2588,0,anti-TNF,rheumatology/gastro
+infliximab,2011-05-01,0,2566,2566,0,anti-TNF,rheumatology/gastro
+infliximab,2011-06-01,0,2554,2554,0,anti-TNF,rheumatology/gastro
+infliximab,2011-07-01,0,2852,2852,0,anti-TNF,rheumatology/gastro
+infliximab,2011-08-01,0,3068,3068,0,anti-TNF,rheumatology/gastro
+infliximab,2011-09-01,0,2640,2640,0,anti-TNF,rheumatology/gastro
+infliximab,2011-10-01,0,2628,2628,0,anti-TNF,rheumatology/gastro
+infliximab,2011-11-01,0,2674,2674,0,anti-TNF,rheumatology/gastro
+infliximab,2011-12-01,0,2128,2128,0,anti-TNF,rheumatology/gastro
+infliximab,2012-01-01,0,2776,2776,0,anti-TNF,rheumatology/gastro
+infliximab,2012-02-01,0,2208,2208,0,anti-TNF,rheumatology/gastro
+infliximab,2012-03-01,0,3198,3198,0,anti-TNF,rheumatology/gastro
+infliximab,2012-04-01,0,2470,2470,0,anti-TNF,rheumatology/gastro
+infliximab,2012-05-01,0,3852,3852,0,anti-TNF,rheumatology/gastro
+infliximab,2012-06-01,0,3816,3816,0,anti-TNF,rheumatology/gastro
+infliximab,2012-07-01,0,2892,2892,0,anti-TNF,rheumatology/gastro
+infliximab,2012-08-01,0,3104,3104,0,anti-TNF,rheumatology/gastro
+infliximab,2012-09-01,0,3700,3700,0,anti-TNF,rheumatology/gastro
+infliximab,2012-10-01,0,3354,3354,0,anti-TNF,rheumatology/gastro
+infliximab,2012-11-01,0,3528,3528,0,anti-TNF,rheumatology/gastro
+infliximab,2012-12-01,0,2188,2188,0,anti-TNF,rheumatology/gastro
+infliximab,2013-01-01,0,4222,4222,0,anti-TNF,rheumatology/gastro
+infliximab,2013-02-01,0,3328,3328,0,anti-TNF,rheumatology/gastro
+infliximab,2013-03-01,0,3202,3202,0,anti-TNF,rheumatology/gastro
+infliximab,2013-04-01,0,3248,3248,0,anti-TNF,rheumatology/gastro
+infliximab,2013-05-01,0,4552,4552,0,anti-TNF,rheumatology/gastro
+infliximab,2013-06-01,0,3660,3660,0,anti-TNF,rheumatology/gastro
+infliximab,2013-07-01,0,4308,4308,0,anti-TNF,rheumatology/gastro
+infliximab,2013-08-01,0,4108,4108,0,anti-TNF,rheumatology/gastro
+infliximab,2013-09-01,0,4184,4184,0,anti-TNF,rheumatology/gastro
+infliximab,2013-10-01,0,4102,4102,0,anti-TNF,rheumatology/gastro
+infliximab,2013-11-01,0,4094,4094,0,anti-TNF,rheumatology/gastro
+infliximab,2013-12-01,0,3988,3988,0,anti-TNF,rheumatology/gastro
+infliximab,2014-01-01,0,4466,4466,0,anti-TNF,rheumatology/gastro
+infliximab,2014-02-01,0,3976,3976,0,anti-TNF,rheumatology/gastro
+infliximab,2014-03-01,0,5112,5112,0,anti-TNF,rheumatology/gastro
+infliximab,2014-04-01,0,4932,4932,0,anti-TNF,rheumatology/gastro
+infliximab,2014-05-01,0,6688,6688,0,anti-TNF,rheumatology/gastro
+infliximab,2014-06-01,0,5334,5334,0,anti-TNF,rheumatology/gastro
+infliximab,2014-07-01,0,4086,4086,0,anti-TNF,rheumatology/gastro
+infliximab,2014-08-01,0,5370,5370,0,anti-TNF,rheumatology/gastro
+infliximab,2014-09-01,0,4258,4258,0,anti-TNF,rheumatology/gastro
+infliximab,2014-10-01,0,4910,4910,0,anti-TNF,rheumatology/gastro
+infliximab,2014-11-01,0,4524,4524,0,anti-TNF,rheumatology/gastro
+infliximab,2014-12-01,0,4544,4544,0,anti-TNF,rheumatology/gastro
+infliximab,2015-01-01,0,5044,5044,0,anti-TNF,rheumatology/gastro
+infliximab,2015-02-01,0,7366,7366,0,anti-TNF,rheumatology/gastro
+infliximab,2015-03-01,0,6000,6000,0,anti-TNF,rheumatology/gastro
+infliximab,2015-04-01,0,4538,4538,0,anti-TNF,rheumatology/gastro
+infliximab,2015-05-01,0,9818,9818,0,anti-TNF,rheumatology/gastro
+infliximab,2015-06-01,0,6914,6914,0,anti-TNF,rheumatology/gastro
+infliximab,2015-07-01,0,7852,7852,0,anti-TNF,rheumatology/gastro
+infliximab,2015-08-01,0,6270,6270,0,anti-TNF,rheumatology/gastro
+infliximab,2015-09-01,0,6466,6466,0,anti-TNF,rheumatology/gastro
+infliximab,2015-10-01,0,6240,6240,0,anti-TNF,rheumatology/gastro
+infliximab,2015-11-01,0,5606,5606,0,anti-TNF,rheumatology/gastro
+infliximab,2015-12-01,7146,0,7146,1,anti-TNF,rheumatology/gastro
+infliximab,2016-01-01,6484,2,6486,0.9996916435399321,anti-TNF,rheumatology/gastro
+infliximab,2016-02-01,7786,2,7788,0.9997431946584489,anti-TNF,rheumatology/gastro
+infliximab,2016-03-01,8578,6,8584,0.9993010251630942,anti-TNF,rheumatology/gastro
+infliximab,2016-04-01,6478,0,6478,1,anti-TNF,rheumatology/gastro
+infliximab,2016-05-01,7226,4,7230,0.9994467496542185,anti-TNF,rheumatology/gastro
+infliximab,2016-06-01,7540,2,7542,0.9997348183505701,anti-TNF,rheumatology/gastro
+infliximab,2016-07-01,7628,4,7632,0.999475890985325,anti-TNF,rheumatology/gastro
+infliximab,2016-08-01,7646,4,7650,0.9994771241830065,anti-TNF,rheumatology/gastro
+infliximab,2016-09-01,7466,6,7472,0.9991970021413277,anti-TNF,rheumatology/gastro
+infliximab,2016-10-01,7160,8,7168,0.9988839285714286,anti-TNF,rheumatology/gastro
+infliximab,2016-11-01,7428,2,7430,0.9997308209959623,anti-TNF,rheumatology/gastro
+infliximab,2016-12-01,7752,6,7758,0.9992266047950503,anti-TNF,rheumatology/gastro
+infliximab,2017-01-01,7012,4,7016,0.999429874572406,anti-TNF,rheumatology/gastro
+infliximab,2017-02-01,8628,4,8632,0.9995366079703429,anti-TNF,rheumatology/gastro
+infliximab,2017-03-01,9656,2,9658,0.999792917788362,anti-TNF,rheumatology/gastro
+infliximab,2017-04-01,7290,8,7298,0.9989038092628117,anti-TNF,rheumatology/gastro
+infliximab,2017-05-01,7638,0,7638,1,anti-TNF,rheumatology/gastro
+infliximab,2017-06-01,9640,6,9646,0.999377980510056,anti-TNF,rheumatology/gastro
+infliximab,2017-07-01,7704,0,7704,1,anti-TNF,rheumatology/gastro
+infliximab,2017-08-01,8604,2,8606,0.9997676039972112,anti-TNF,rheumatology/gastro
+infliximab,2017-09-01,8012,2,8014,0.9997504367357125,anti-TNF,rheumatology/gastro
+infliximab,2017-10-01,8242,4,8246,0.9995149163230658,anti-TNF,rheumatology/gastro
+infliximab,2017-11-01,8650,2,8652,0.9997688395746648,anti-TNF,rheumatology/gastro
+infliximab,2017-12-01,8604,4,8608,0.9995353159851301,anti-TNF,rheumatology/gastro
+infliximab,2018-01-01,7966,0,7966,1,anti-TNF,rheumatology/gastro
+infliximab,2018-02-01,8290,0,8290,1,anti-TNF,rheumatology/gastro
+infliximab,2018-03-01,8106,0,8106,1,anti-TNF,rheumatology/gastro
+infliximab,2018-04-01,9370,8,9378,0.99914693964598,anti-TNF,rheumatology/gastro
+infliximab,2018-05-01,10280,0,10280,1,anti-TNF,rheumatology/gastro
+infliximab,2018-06-01,9154,2,9156,0.9997815640017474,anti-TNF,rheumatology/gastro
+infliximab,2018-07-01,8836,4,8840,0.9995475113122172,anti-TNF,rheumatology/gastro
+infliximab,2018-08-01,9164,2,9166,0.9997818023128955,anti-TNF,rheumatology/gastro
+infliximab,2018-09-01,8958,2,8960,0.9997767857142857,anti-TNF,rheumatology/gastro
+infliximab,2018-10-01,9204,4,9208,0.9995655951346655,anti-TNF,rheumatology/gastro
+infliximab,2018-11-01,8972,4,8976,0.999554367201426,anti-TNF,rheumatology/gastro
+infliximab,2018-12-01,9400,4,9404,0.9995746490854955,anti-TNF,rheumatology/gastro
+infliximab,2019-01-01,8536,6,8542,0.9992975883867946,anti-TNF,rheumatology/gastro
+infliximab,2019-02-01,8534,0,8534,1,anti-TNF,rheumatology/gastro
+infliximab,2019-03-01,9012,4,9016,0.9995563442768411,anti-TNF,rheumatology/gastro
+infliximab,2019-04-01,8858,4,8862,0.9995486346197247,anti-TNF,rheumatology/gastro
+infliximab,2019-05-01,12244,4,12248,0.9996734160679295,anti-TNF,rheumatology/gastro
+infliximab,2019-06-01,9824,6,9830,0.9993896236012207,anti-TNF,rheumatology/gastro
+infliximab,2019-07-01,10782,8,10790,0.9992585727525487,anti-TNF,rheumatology/gastro
+infliximab,2019-08-01,10838,4,10842,0.9996310643792659,anti-TNF,rheumatology/gastro
+infliximab,2019-09-01,9628,6,9634,0.9993772057297073,anti-TNF,rheumatology/gastro
+infliximab,2019-10-01,9598,4,9602,0.9995834201208081,anti-TNF,rheumatology/gastro
+infliximab,2019-11-01,9562,6,9568,0.9993729096989966,anti-TNF,rheumatology/gastro
+infliximab,2019-12-01,11108,2,11110,0.9998199819981998,anti-TNF,rheumatology/gastro
+infliximab,2020-01-01,10130,4,10134,0.9996052891257154,anti-TNF,rheumatology/gastro
+infliximab,2020-02-01,10118,0,10118,1,anti-TNF,rheumatology/gastro
+infliximab,2020-03-01,9896,2,9898,0.9997979389775712,anti-TNF,rheumatology/gastro
+infliximab,2020-04-01,10888,8,10896,0.9992657856093979,anti-TNF,rheumatology/gastro
+infliximab,2020-05-01,10078,4,10082,0.9996032533227535,anti-TNF,rheumatology/gastro
+infliximab,2020-06-01,11032,4,11036,0.9996375498368975,anti-TNF,rheumatology/gastro
+infliximab,2020-07-01,10542,4,10546,0.9996207092736583,anti-TNF,rheumatology/gastro
+infliximab,2020-08-01,10226,6,10232,0.9994136043784206,anti-TNF,rheumatology/gastro
+infliximab,2020-09-01,10120,6,10126,0.999407465929291,anti-TNF,rheumatology/gastro
+infliximab,2020-10-01,11450,0,11450,1,anti-TNF,rheumatology/gastro
+infliximab,2020-11-01,9668,6,9674,0.9993797808559024,anti-TNF,rheumatology/gastro
+infliximab,2020-12-01,12668,2,12670,0.9998421468034727,anti-TNF,rheumatology/gastro
+infliximab,2021-01-01,11330,8,11338,0.999294408184865,anti-TNF,rheumatology/gastro
+infliximab,2021-02-01,9946,4,9950,0.9995979899497487,anti-TNF,rheumatology/gastro
+infliximab,2021-03-01,10628,0,10628,1,anti-TNF,rheumatology/gastro
+infliximab,2021-04-01,11966,0,11966,1,anti-TNF,rheumatology/gastro
+infliximab,2021-05-01,11632,2,11634,0.9998280900807976,anti-TNF,rheumatology/gastro
+infliximab,2021-06-01,11378,2,11380,0.9998242530755712,anti-TNF,rheumatology/gastro
+infliximab,2021-07-01,12215,4,12219,0.9996726409689828,anti-TNF,rheumatology/gastro
+infliximab,2021-08-01,11722,6,11728,0.9994884038199181,anti-TNF,rheumatology/gastro
+infliximab,2021-09-01,12239,5,12244,0.9995916367200262,anti-TNF,rheumatology/gastro
+infliximab,2021-10-01,12038,7,12045,0.9994188459941885,anti-TNF,rheumatology/gastro
+infliximab,2021-11-01,11775,14,11789,0.9988124522860293,anti-TNF,rheumatology/gastro
+infliximab,2021-12-01,13670,6,13676,0.9995612752266745,anti-TNF,rheumatology/gastro
+infliximab,2022-01-01,12371,5,12376,0.9995959922430511,anti-TNF,rheumatology/gastro
+infliximab,2022-02-01,11396,4,11400,0.9996491228070176,anti-TNF,rheumatology/gastro
+infliximab,2022-03-01,14036,5,14041,0.999643900007122,anti-TNF,rheumatology/gastro
+infliximab,2022-04-01,12646,4,12650,0.9996837944664032,anti-TNF,rheumatology/gastro
+infliximab,2022-05-01,13571,3,13574,0.9997789892441432,anti-TNF,rheumatology/gastro
+infliximab,2022-06-01,14143,8,14151,0.9994346689279909,anti-TNF,rheumatology/gastro
+infliximab,2022-07-01,6599,2,6601,0.9996970156036964,anti-TNF,rheumatology/gastro
+infliximab,2022-08-01,7168,2,7170,0.999721059972106,anti-TNF,rheumatology/gastro
+infliximab,2022-09-01,6951,2,6953,0.9997123543794045,anti-TNF,rheumatology/gastro
+infliximab,2022-10-01,6999,2,7001,0.9997143265247822,anti-TNF,rheumatology/gastro
+infliximab,2022-11-01,7138,1,7139,0.9998599243591539,anti-TNF,rheumatology/gastro
+infliximab,2022-12-01,7355,3,7358,0.9995922805110085,anti-TNF,rheumatology/gastro
+infliximab,2023-01-01,7348,1,7349,0.9998639270649068,anti-TNF,rheumatology/gastro
+infliximab,2023-02-01,7034,5,7039,0.9992896718283847,anti-TNF,rheumatology/gastro
+infliximab,2023-03-01,8321,1,8322,0.9998798365777457,anti-TNF,rheumatology/gastro
+infliximab,2023-04-01,7008,2,7010,0.9997146932952924,anti-TNF,rheumatology/gastro
+infliximab,2023-05-01,8292,0,8292,1,anti-TNF,rheumatology/gastro
+infliximab,2023-06-01,7934,1,7935,0.9998739760554506,anti-TNF,rheumatology/gastro
+infliximab,2023-07-01,7746,1,7747,0.9998709177746224,anti-TNF,rheumatology/gastro
+infliximab,2023-08-01,8508,1,8509,0.9998824773768951,anti-TNF,rheumatology/gastro
+infliximab,2023-09-01,7979,2,7981,0.9997494048364867,anti-TNF,rheumatology/gastro
+infliximab,2023-10-01,8073,0,8073,1,anti-TNF,rheumatology/gastro
+infliximab,2023-11-01,8236,2,8238,0.9997572226268512,anti-TNF,rheumatology/gastro
+infliximab,2023-12-01,7951,1,7952,0.999874245472837,anti-TNF,rheumatology/gastro
+infliximab,2024-01-01,8512,2,8514,0.9997650927883486,anti-TNF,rheumatology/gastro
+infliximab,2024-02-01,7993,0,7993,1,anti-TNF,rheumatology/gastro
+infliximab,2024-03-01,8522,5,8527,0.9994136273015128,anti-TNF,rheumatology/gastro
+infliximab,2024-04-01,8406,1,8407,0.9998810515046984,anti-TNF,rheumatology/gastro
+infliximab,2024-05-01,9131,0,9131,1,anti-TNF,rheumatology/gastro
+infliximab,2024-06-01,7943,0,7943,1,anti-TNF,rheumatology/gastro
+infliximab,2024-07-01,9220,1,9221,0.9998915518924195,anti-TNF,rheumatology/gastro
+infliximab,2024-08-01,9069,1,9070,0.9998897464167585,anti-TNF,rheumatology/gastro
+infliximab,2024-09-01,8721,1,8722,0.9998853473973859,anti-TNF,rheumatology/gastro
+infliximab,2024-10-01,9497,1,9498,0.999894714676774,anti-TNF,rheumatology/gastro
+infliximab,2024-11-01,8978,1,8979,0.9998886290232766,anti-TNF,rheumatology/gastro
+infliximab,2024-12-01,9277,1,9278,0.9998922181504635,anti-TNF,rheumatology/gastro
+infliximab,2025-01-01,9439,2,9441,0.9997881580341066,anti-TNF,rheumatology/gastro
+infliximab,2025-02-01,8591,0,8591,1,anti-TNF,rheumatology/gastro
+infliximab,2025-03-01,9270,1,9271,0.9998921367705749,anti-TNF,rheumatology/gastro
+infliximab,2025-04-01,9326,2,9328,0.9997855917667239,anti-TNF,rheumatology/gastro
+infliximab,2025-05-01,9942,0,9942,1,anti-TNF,rheumatology/gastro
+infliximab,2025-06-01,9159,2,9161,0.9997816832223556,anti-TNF,rheumatology/gastro
+infliximab,2025-07-01,10258,1,10259,0.9999025246125354,anti-TNF,rheumatology/gastro
+infliximab,2025-08-01,9478,1,9479,0.9998945036396244,anti-TNF,rheumatology/gastro
+infliximab,2025-09-01,9918,0,9918,1,anti-TNF,rheumatology/gastro
+infliximab,2025-10-01,10210,0,10210,1,anti-TNF,rheumatology/gastro
+infliximab,2025-11-01,9301,2,9303,0.99978501558637,anti-TNF,rheumatology/gastro
+insulin glargine,2021-07-01,0,29527,29527,0,long-acting insulin,diabetes
+insulin glargine,2021-08-01,0,29742,29742,0,long-acting insulin,diabetes
+insulin glargine,2021-09-01,0,28696,28696,0,long-acting insulin,diabetes
+insulin glargine,2021-10-01,0,28696,28696,0,long-acting insulin,diabetes
+insulin glargine,2021-11-01,0,30357,30357,0,long-acting insulin,diabetes
+insulin glargine,2021-12-01,0,39612,39612,0,long-acting insulin,diabetes
+insulin glargine,2022-01-01,0,22623,22623,0,long-acting insulin,diabetes
+insulin glargine,2022-02-01,0,22841,22841,0,long-acting insulin,diabetes
+insulin glargine,2022-03-01,0,26579,26579,0,long-acting insulin,diabetes
+insulin glargine,2022-04-01,0,25089,25089,0,long-acting insulin,diabetes
+insulin glargine,2022-05-01,0,27181,27181,0,long-acting insulin,diabetes
+insulin glargine,2022-06-01,0,26718,26718,0,long-acting insulin,diabetes
+insulin glargine,2022-07-01,0,27939,27939,0,long-acting insulin,diabetes
+insulin glargine,2022-08-01,0,29233,29233,0,long-acting insulin,diabetes
+insulin glargine,2022-09-01,0,28529,28529,0,long-acting insulin,diabetes
+insulin glargine,2022-10-01,0,29035,29035,0,long-acting insulin,diabetes
+insulin glargine,2022-11-01,0,30817,30817,0,long-acting insulin,diabetes
+insulin glargine,2022-12-01,0,39516,39516,0,long-acting insulin,diabetes
+insulin glargine,2023-01-01,0,21991,21991,0,long-acting insulin,diabetes
+insulin glargine,2023-02-01,0,22776,22776,0,long-acting insulin,diabetes
+insulin glargine,2023-03-01,0,27210,27210,0,long-acting insulin,diabetes
+insulin glargine,2023-04-01,0,23620,23620,0,long-acting insulin,diabetes
+insulin glargine,2023-05-01,0,27280,27280,0,long-acting insulin,diabetes
+insulin glargine,2023-06-01,0,26270,26270,0,long-acting insulin,diabetes
+insulin glargine,2023-07-01,0,26664,26664,0,long-acting insulin,diabetes
+insulin glargine,2023-08-01,0,27957,27957,0,long-acting insulin,diabetes
+insulin glargine,2023-09-01,0,26950,26950,0,long-acting insulin,diabetes
+insulin glargine,2023-10-01,0,28449,28449,0,long-acting insulin,diabetes
+insulin glargine,2023-11-01,0,29209,29209,0,long-acting insulin,diabetes
+insulin glargine,2023-12-01,0,36784,36784,0,long-acting insulin,diabetes
+insulin glargine,2024-01-01,0,22462,22462,0,long-acting insulin,diabetes
+insulin glargine,2024-02-01,0,23396,23396,0,long-acting insulin,diabetes
+insulin glargine,2024-03-01,0,24174,24174,0,long-acting insulin,diabetes
+insulin glargine,2024-04-01,0,24999,24999,0,long-acting insulin,diabetes
+insulin glargine,2024-05-01,0,27396,27396,0,long-acting insulin,diabetes
+insulin glargine,2024-06-01,0,25231,25231,0,long-acting insulin,diabetes
+insulin glargine,2024-07-01,0,27888,27888,0,long-acting insulin,diabetes
+insulin glargine,2024-08-01,0,27890,27890,0,long-acting insulin,diabetes
+insulin glargine,2024-09-01,0,26499,26499,0,long-acting insulin,diabetes
+insulin glargine,2024-10-01,0,28671,28671,0,long-acting insulin,diabetes
+insulin glargine,2024-11-01,0,28775,28775,0,long-acting insulin,diabetes
+insulin glargine,2024-12-01,0,37112,37112,0,long-acting insulin,diabetes
+insulin glargine,2025-01-01,0,22395,22395,0,long-acting insulin,diabetes
+insulin glargine,2025-02-01,0,22792,22792,0,long-acting insulin,diabetes
+insulin glargine,2025-03-01,0,25141,25141,0,long-acting insulin,diabetes
+insulin glargine,2025-04-01,0,25270,25270,0,long-acting insulin,diabetes
+insulin glargine,2025-05-01,0,27514,27514,0,long-acting insulin,diabetes
+insulin glargine,2025-06-01,0,26453,26453,0,long-acting insulin,diabetes
+insulin glargine,2025-07-01,0,28299,28299,0,long-acting insulin,diabetes
+insulin glargine,2025-08-01,0,27409,27409,0,long-acting insulin,diabetes
+insulin glargine,2025-09-01,0,27827,27827,0,long-acting insulin,diabetes
+insulin glargine,2025-10-01,0,29060,29060,0,long-acting insulin,diabetes
+insulin glargine,2025-11-01,0,28426,28426,0,long-acting insulin,diabetes
+pegfilgrastim,2021-07-01,5897,0,5897,1,pegylated G-CSF,oncology supportive
+pegfilgrastim,2021-08-01,5370,0,5370,1,pegylated G-CSF,oncology supportive
+pegfilgrastim,2021-09-01,4836,0,4836,1,pegylated G-CSF,oncology supportive
+pegfilgrastim,2021-10-01,4104,0,4104,1,pegylated G-CSF,oncology supportive
+pegfilgrastim,2021-11-01,4377,0,4377,1,pegylated G-CSF,oncology supportive
+pegfilgrastim,2021-12-01,4253,0,4253,1,pegylated G-CSF,oncology supportive
+pegfilgrastim,2022-01-01,3874,0,3874,1,pegylated G-CSF,oncology supportive
+pegfilgrastim,2022-02-01,3771,0,3771,1,pegylated G-CSF,oncology supportive
+pegfilgrastim,2022-03-01,4151,0,4151,1,pegylated G-CSF,oncology supportive
+pegfilgrastim,2022-04-01,3449,0,3449,1,pegylated G-CSF,oncology supportive
+pegfilgrastim,2022-05-01,3701,0,3701,1,pegylated G-CSF,oncology supportive
+pegfilgrastim,2022-06-01,3665,0,3665,1,pegylated G-CSF,oncology supportive
+pegfilgrastim,2022-07-01,3278,0,3278,1,pegylated G-CSF,oncology supportive
+pegfilgrastim,2022-08-01,3659,0,3659,1,pegylated G-CSF,oncology supportive
+pegfilgrastim,2022-09-01,3566,0,3566,1,pegylated G-CSF,oncology supportive
+pegfilgrastim,2022-10-01,3301,0,3301,1,pegylated G-CSF,oncology supportive
+pegfilgrastim,2022-11-01,3518,0,3518,1,pegylated G-CSF,oncology supportive
+pegfilgrastim,2022-12-01,3544,0,3544,1,pegylated G-CSF,oncology supportive
+pegfilgrastim,2023-01-01,3437,0,3437,1,pegylated G-CSF,oncology supportive
+pegfilgrastim,2023-02-01,3163,0,3163,1,pegylated G-CSF,oncology supportive
+pegfilgrastim,2023-03-01,3708,0,3708,1,pegylated G-CSF,oncology supportive
+pegfilgrastim,2023-04-01,2925,0,2925,1,pegylated G-CSF,oncology supportive
+pegfilgrastim,2023-05-01,3370,0,3370,1,pegylated G-CSF,oncology supportive
+pegfilgrastim,2023-06-01,3069,0,3069,1,pegylated G-CSF,oncology supportive
+pegfilgrastim,2023-07-01,2846,0,2846,1,pegylated G-CSF,oncology supportive
+pegfilgrastim,2023-08-01,3097,0,3097,1,pegylated G-CSF,oncology supportive
+pegfilgrastim,2023-09-01,2794,0,2794,1,pegylated G-CSF,oncology supportive
+pegfilgrastim,2023-10-01,2852,0,2852,1,pegylated G-CSF,oncology supportive
+pegfilgrastim,2023-11-01,2795,0,2795,1,pegylated G-CSF,oncology supportive
+pegfilgrastim,2023-12-01,2588,0,2588,1,pegylated G-CSF,oncology supportive
+pegfilgrastim,2024-01-01,2756,0,2756,1,pegylated G-CSF,oncology supportive
+pegfilgrastim,2024-02-01,2645,0,2645,1,pegylated G-CSF,oncology supportive
+pegfilgrastim,2024-03-01,2550,0,2550,1,pegylated G-CSF,oncology supportive
+pegfilgrastim,2024-04-01,2607,0,2607,1,pegylated G-CSF,oncology supportive
+pegfilgrastim,2024-05-01,2770,0,2770,1,pegylated G-CSF,oncology supportive
+pegfilgrastim,2024-06-01,2245,0,2245,1,pegylated G-CSF,oncology supportive
+pegfilgrastim,2024-07-01,2695,0,2695,1,pegylated G-CSF,oncology supportive
+pegfilgrastim,2024-08-01,2542,0,2542,1,pegylated G-CSF,oncology supportive
+pegfilgrastim,2024-09-01,2563,0,2563,1,pegylated G-CSF,oncology supportive
+pegfilgrastim,2024-10-01,2716,0,2716,1,pegylated G-CSF,oncology supportive
+pegfilgrastim,2024-11-01,2487,0,2487,1,pegylated G-CSF,oncology supportive
+pegfilgrastim,2024-12-01,2641,0,2641,1,pegylated G-CSF,oncology supportive
+pegfilgrastim,2025-01-01,2516,0,2516,1,pegylated G-CSF,oncology supportive
+pegfilgrastim,2025-02-01,2212,0,2212,1,pegylated G-CSF,oncology supportive
+pegfilgrastim,2025-03-01,2370,0,2370,1,pegylated G-CSF,oncology supportive
+pegfilgrastim,2025-04-01,2514,0,2514,1,pegylated G-CSF,oncology supportive
+pegfilgrastim,2025-05-01,2696,0,2696,1,pegylated G-CSF,oncology supportive
+pegfilgrastim,2025-06-01,2470,0,2470,1,pegylated G-CSF,oncology supportive
+pegfilgrastim,2025-07-01,2593,0,2593,1,pegylated G-CSF,oncology supportive
+pegfilgrastim,2025-08-01,2255,0,2255,1,pegylated G-CSF,oncology supportive
+pegfilgrastim,2025-09-01,2404,0,2404,1,pegylated G-CSF,oncology supportive
+pegfilgrastim,2025-10-01,2463,0,2463,1,pegylated G-CSF,oncology supportive
+pegfilgrastim,2025-11-01,2165,0,2165,1,pegylated G-CSF,oncology supportive
+rituximab,2009-01-01,0,9584,9584,0,anti-CD20,oncology/rheumatology
+rituximab,2009-02-01,0,9968,9968,0,anti-CD20,oncology/rheumatology
+rituximab,2009-03-01,0,10764,10764,0,anti-CD20,oncology/rheumatology
+rituximab,2009-04-01,0,10268,10268,0,anti-CD20,oncology/rheumatology
+rituximab,2009-05-01,0,10008,10008,0,anti-CD20,oncology/rheumatology
+rituximab,2009-06-01,0,10550,10550,0,anti-CD20,oncology/rheumatology
+rituximab,2009-07-01,0,10350,10350,0,anti-CD20,oncology/rheumatology
+rituximab,2009-08-01,0,9662,9662,0,anti-CD20,oncology/rheumatology
+rituximab,2009-09-01,0,9638,9638,0,anti-CD20,oncology/rheumatology
+rituximab,2009-10-01,0,10154,10154,0,anti-CD20,oncology/rheumatology
+rituximab,2009-11-01,0,9524,9524,0,anti-CD20,oncology/rheumatology
+rituximab,2009-12-01,0,9486,9486,0,anti-CD20,oncology/rheumatology
+rituximab,2010-01-01,0,11574,11574,0,anti-CD20,oncology/rheumatology
+rituximab,2010-02-01,0,9884,9884,0,anti-CD20,oncology/rheumatology
+rituximab,2010-03-01,0,12060,12060,0,anti-CD20,oncology/rheumatology
+rituximab,2010-04-01,0,9260,9260,0,anti-CD20,oncology/rheumatology
+rituximab,2010-05-01,0,10070,10070,0,anti-CD20,oncology/rheumatology
+rituximab,2010-06-01,0,10888,10888,0,anti-CD20,oncology/rheumatology
+rituximab,2010-07-01,0,11086,11086,0,anti-CD20,oncology/rheumatology
+rituximab,2010-08-01,0,10268,10268,0,anti-CD20,oncology/rheumatology
+rituximab,2010-09-01,0,9916,9916,0,anti-CD20,oncology/rheumatology
+rituximab,2010-10-01,0,10958,10958,0,anti-CD20,oncology/rheumatology
+rituximab,2010-11-01,0,9712,9712,0,anti-CD20,oncology/rheumatology
+rituximab,2010-12-01,0,9038,9038,0,anti-CD20,oncology/rheumatology
+rituximab,2011-01-01,0,11132,11132,0,anti-CD20,oncology/rheumatology
+rituximab,2011-02-01,0,10016,10016,0,anti-CD20,oncology/rheumatology
+rituximab,2011-03-01,0,11698,11698,0,anti-CD20,oncology/rheumatology
+rituximab,2011-04-01,0,11096,11096,0,anti-CD20,oncology/rheumatology
+rituximab,2011-05-01,0,11040,11040,0,anti-CD20,oncology/rheumatology
+rituximab,2011-06-01,0,11550,11550,0,anti-CD20,oncology/rheumatology
+rituximab,2011-07-01,0,12550,12550,0,anti-CD20,oncology/rheumatology
+rituximab,2011-08-01,0,11976,11976,0,anti-CD20,oncology/rheumatology
+rituximab,2011-09-01,0,11576,11576,0,anti-CD20,oncology/rheumatology
+rituximab,2011-10-01,0,10702,10702,0,anti-CD20,oncology/rheumatology
+rituximab,2011-11-01,0,10576,10576,0,anti-CD20,oncology/rheumatology
+rituximab,2011-12-01,0,8728,8728,0,anti-CD20,oncology/rheumatology
+rituximab,2012-01-01,0,11042,11042,0,anti-CD20,oncology/rheumatology
+rituximab,2012-02-01,0,6816,6816,0,anti-CD20,oncology/rheumatology
+rituximab,2012-03-01,0,10152,10152,0,anti-CD20,oncology/rheumatology
+rituximab,2012-04-01,0,8218,8218,0,anti-CD20,oncology/rheumatology
+rituximab,2012-05-01,0,11400,11400,0,anti-CD20,oncology/rheumatology
+rituximab,2012-06-01,0,8788,8788,0,anti-CD20,oncology/rheumatology
+rituximab,2012-07-01,0,7634,7634,0,anti-CD20,oncology/rheumatology
+rituximab,2012-08-01,0,6112,6112,0,anti-CD20,oncology/rheumatology
+rituximab,2012-09-01,0,9328,9328,0,anti-CD20,oncology/rheumatology
+rituximab,2012-10-01,0,7206,7206,0,anti-CD20,oncology/rheumatology
+rituximab,2012-11-01,0,8224,8224,0,anti-CD20,oncology/rheumatology
+rituximab,2012-12-01,0,4786,4786,0,anti-CD20,oncology/rheumatology
+rituximab,2013-01-01,0,8180,8180,0,anti-CD20,oncology/rheumatology
+rituximab,2013-02-01,0,6320,6320,0,anti-CD20,oncology/rheumatology
+rituximab,2013-03-01,0,7476,7476,0,anti-CD20,oncology/rheumatology
+rituximab,2013-04-01,0,6008,6008,0,anti-CD20,oncology/rheumatology
+rituximab,2013-05-01,0,8076,8076,0,anti-CD20,oncology/rheumatology
+rituximab,2013-06-01,0,7792,7792,0,anti-CD20,oncology/rheumatology
+rituximab,2013-07-01,0,6400,6400,0,anti-CD20,oncology/rheumatology
+rituximab,2013-08-01,0,7358,7358,0,anti-CD20,oncology/rheumatology
+rituximab,2013-09-01,0,8000,8000,0,anti-CD20,oncology/rheumatology
+rituximab,2013-10-01,0,6526,6526,0,anti-CD20,oncology/rheumatology
+rituximab,2013-11-01,0,6558,6558,0,anti-CD20,oncology/rheumatology
+rituximab,2013-12-01,0,7226,7226,0,anti-CD20,oncology/rheumatology
+rituximab,2014-01-01,0,7270,7270,0,anti-CD20,oncology/rheumatology
+rituximab,2014-02-01,0,6328,6328,0,anti-CD20,oncology/rheumatology
+rituximab,2014-03-01,0,7608,7608,0,anti-CD20,oncology/rheumatology
+rituximab,2014-04-01,0,8290,8290,0,anti-CD20,oncology/rheumatology
+rituximab,2014-05-01,0,10530,10530,0,anti-CD20,oncology/rheumatology
+rituximab,2014-06-01,0,8374,8374,0,anti-CD20,oncology/rheumatology
+rituximab,2014-07-01,0,6242,6242,0,anti-CD20,oncology/rheumatology
+rituximab,2014-08-01,0,7390,7390,0,anti-CD20,oncology/rheumatology
+rituximab,2014-09-01,0,6916,6916,0,anti-CD20,oncology/rheumatology
+rituximab,2014-10-01,0,7132,7132,0,anti-CD20,oncology/rheumatology
+rituximab,2014-11-01,0,6532,6532,0,anti-CD20,oncology/rheumatology
+rituximab,2014-12-01,0,6716,6716,0,anti-CD20,oncology/rheumatology
+rituximab,2015-01-01,0,7498,7498,0,anti-CD20,oncology/rheumatology
+rituximab,2015-02-01,0,8568,8568,0,anti-CD20,oncology/rheumatology
+rituximab,2015-03-01,0,8694,8694,0,anti-CD20,oncology/rheumatology
+rituximab,2015-04-01,0,6308,6308,0,anti-CD20,oncology/rheumatology
+rituximab,2015-05-01,0,11990,11990,0,anti-CD20,oncology/rheumatology
+rituximab,2015-06-01,0,7794,7794,0,anti-CD20,oncology/rheumatology
+rituximab,2015-07-01,0,8404,8404,0,anti-CD20,oncology/rheumatology
+rituximab,2015-08-01,0,7230,7230,0,anti-CD20,oncology/rheumatology
+rituximab,2015-09-01,0,7000,7000,0,anti-CD20,oncology/rheumatology
+rituximab,2015-10-01,0,6982,6982,0,anti-CD20,oncology/rheumatology
+rituximab,2015-11-01,0,6536,6536,0,anti-CD20,oncology/rheumatology
+rituximab,2015-12-01,0,7442,7442,0,anti-CD20,oncology/rheumatology
+rituximab,2016-01-01,0,7324,7324,0,anti-CD20,oncology/rheumatology
+rituximab,2016-02-01,0,7162,7162,0,anti-CD20,oncology/rheumatology
+rituximab,2016-03-01,0,8826,8826,0,anti-CD20,oncology/rheumatology
+rituximab,2016-04-01,0,6954,6954,0,anti-CD20,oncology/rheumatology
+rituximab,2016-05-01,0,7648,7648,0,anti-CD20,oncology/rheumatology
+rituximab,2016-06-01,0,7328,7328,0,anti-CD20,oncology/rheumatology
+rituximab,2016-07-01,0,8854,8854,0,anti-CD20,oncology/rheumatology
+rituximab,2016-08-01,0,7176,7176,0,anti-CD20,oncology/rheumatology
+rituximab,2016-09-01,0,7354,7354,0,anti-CD20,oncology/rheumatology
+rituximab,2016-10-01,0,6844,6844,0,anti-CD20,oncology/rheumatology
+rituximab,2016-11-01,0,6656,6656,0,anti-CD20,oncology/rheumatology
+rituximab,2016-12-01,0,7372,7372,0,anti-CD20,oncology/rheumatology
+rituximab,2017-01-01,0,6360,6360,0,anti-CD20,oncology/rheumatology
+rituximab,2017-02-01,0,7088,7088,0,anti-CD20,oncology/rheumatology
+rituximab,2017-03-01,0,9304,9304,0,anti-CD20,oncology/rheumatology
+rituximab,2017-04-01,0,6606,6606,0,anti-CD20,oncology/rheumatology
+rituximab,2017-05-01,0,7058,7058,0,anti-CD20,oncology/rheumatology
+rituximab,2017-06-01,0,8468,8468,0,anti-CD20,oncology/rheumatology
+rituximab,2017-07-01,0,6572,6572,0,anti-CD20,oncology/rheumatology
+rituximab,2017-08-01,0,7918,7918,0,anti-CD20,oncology/rheumatology
+rituximab,2017-09-01,0,7226,7226,0,anti-CD20,oncology/rheumatology
+rituximab,2017-10-01,0,6390,6390,0,anti-CD20,oncology/rheumatology
+rituximab,2017-11-01,0,7392,7392,0,anti-CD20,oncology/rheumatology
+rituximab,2017-12-01,0,6846,6846,0,anti-CD20,oncology/rheumatology
+rituximab,2018-01-01,0,6196,6196,0,anti-CD20,oncology/rheumatology
+rituximab,2018-02-01,0,7680,7680,0,anti-CD20,oncology/rheumatology
+rituximab,2018-03-01,0,7098,7098,0,anti-CD20,oncology/rheumatology
+rituximab,2018-04-01,0,6248,6248,0,anti-CD20,oncology/rheumatology
+rituximab,2018-05-01,0,9310,9310,0,anti-CD20,oncology/rheumatology
+rituximab,2018-06-01,0,6898,6898,0,anti-CD20,oncology/rheumatology
+rituximab,2018-07-01,0,5926,5926,0,anti-CD20,oncology/rheumatology
+rituximab,2018-08-01,0,7002,7002,0,anti-CD20,oncology/rheumatology
+rituximab,2018-09-01,0,6694,6694,0,anti-CD20,oncology/rheumatology
+rituximab,2018-10-01,0,6510,6510,0,anti-CD20,oncology/rheumatology
+rituximab,2018-11-01,0,7082,7082,0,anti-CD20,oncology/rheumatology
+rituximab,2018-12-01,0,6606,6606,0,anti-CD20,oncology/rheumatology
+rituximab,2019-01-01,0,6264,6264,0,anti-CD20,oncology/rheumatology
+rituximab,2019-02-01,0,6232,6232,0,anti-CD20,oncology/rheumatology
+rituximab,2019-03-01,0,7004,7004,0,anti-CD20,oncology/rheumatology
+rituximab,2019-04-01,0,5528,5528,0,anti-CD20,oncology/rheumatology
+rituximab,2019-05-01,0,7864,7864,0,anti-CD20,oncology/rheumatology
+rituximab,2019-06-01,0,7408,7408,0,anti-CD20,oncology/rheumatology
+rituximab,2019-07-01,0,6560,6560,0,anti-CD20,oncology/rheumatology
+rituximab,2019-08-01,0,7164,7164,0,anti-CD20,oncology/rheumatology
+rituximab,2019-09-01,0,6178,6178,0,anti-CD20,oncology/rheumatology
+rituximab,2019-10-01,0,6302,6302,0,anti-CD20,oncology/rheumatology
+rituximab,2019-11-01,10,6572,6582,0.0015192950470981465,anti-CD20,oncology/rheumatology
+rituximab,2019-12-01,36,6880,6916,0.005205320994794679,anti-CD20,oncology/rheumatology
+rituximab,2020-01-01,12,7912,7924,0.001514386673397274,anti-CD20,oncology/rheumatology
+rituximab,2020-02-01,12,6688,6700,0.001791044776119403,anti-CD20,oncology/rheumatology
+rituximab,2020-03-01,16,5966,5982,0.0026746907388833165,anti-CD20,oncology/rheumatology
+rituximab,2020-04-01,30,6684,6714,0.004468275245755138,anti-CD20,oncology/rheumatology
+rituximab,2020-05-01,64,6382,6446,0.009928637914986037,anti-CD20,oncology/rheumatology
+rituximab,2020-06-01,92,5970,6062,0.015176509402837348,anti-CD20,oncology/rheumatology
+rituximab,2020-07-01,178,6588,6766,0.026308010641442506,anti-CD20,oncology/rheumatology
+rituximab,2020-08-01,162,6708,6870,0.023580786026200874,anti-CD20,oncology/rheumatology
+rituximab,2020-09-01,216,5986,6202,0.034827475008061916,anti-CD20,oncology/rheumatology
+rituximab,2020-10-01,204,6422,6626,0.030787805614246905,anti-CD20,oncology/rheumatology
+rituximab,2020-11-01,162,5644,5806,0.027902170168790905,anti-CD20,oncology/rheumatology
+rituximab,2020-12-01,254,7406,7660,0.03315926892950392,anti-CD20,oncology/rheumatology
+rituximab,2021-01-01,146,5776,5922,0.02465383316447146,anti-CD20,oncology/rheumatology
+rituximab,2021-02-01,276,6812,7088,0.03893905191873589,anti-CD20,oncology/rheumatology
+rituximab,2021-03-01,258,7906,8164,0.031602155805977465,anti-CD20,oncology/rheumatology
+rituximab,2021-04-01,278,7044,7322,0.03796776836929801,anti-CD20,oncology/rheumatology
+rituximab,2021-05-01,274,6428,6702,0.0408833184124142,anti-CD20,oncology/rheumatology
+rituximab,2021-06-01,242,6082,6324,0.038266919671094246,anti-CD20,oncology/rheumatology
+rituximab,2021-07-01,332,6418,6750,0.049185185185185186,anti-CD20,oncology/rheumatology
+rituximab,2021-08-01,347,6185,6532,0.05312308634415187,anti-CD20,oncology/rheumatology
+rituximab,2021-09-01,320,6851,7171,0.04462418072793195,anti-CD20,oncology/rheumatology
+rituximab,2021-10-01,353,5727,6080,0.05805921052631579,anti-CD20,oncology/rheumatology
+rituximab,2021-11-01,471,6084,6555,0.07185354691075514,anti-CD20,oncology/rheumatology
+rituximab,2021-12-01,459,6089,6548,0.07009773976786805,anti-CD20,oncology/rheumatology
+rituximab,2022-01-01,365,4850,5215,0.06999041227229147,anti-CD20,oncology/rheumatology
+rituximab,2022-02-01,336,4815,5151,0.06523005241700641,anti-CD20,oncology/rheumatology
+rituximab,2022-03-01,399,5671,6070,0.0657331136738056,anti-CD20,oncology/rheumatology
+rituximab,2022-04-01,356,5121,5477,0.06499908709147344,anti-CD20,oncology/rheumatology
+rituximab,2022-05-01,513,5670,6183,0.08296943231441048,anti-CD20,oncology/rheumatology
+rituximab,2022-06-01,522,5916,6438,0.08108108108108109,anti-CD20,oncology/rheumatology
+rituximab,2022-07-01,236,2618,2854,0.08269096005606166,anti-CD20,oncology/rheumatology
+rituximab,2022-08-01,224,2786,3010,0.07441860465116279,anti-CD20,oncology/rheumatology
+rituximab,2022-09-01,1528,1686,3214,0.47542003733665217,anti-CD20,oncology/rheumatology
+rituximab,2022-10-01,2425,1172,3597,0.6741729218793439,anti-CD20,oncology/rheumatology
+rituximab,2022-11-01,3288,743,4031,0.8156784916894071,anti-CD20,oncology/rheumatology
+rituximab,2022-12-01,3465,422,3887,0.8914329817339851,anti-CD20,oncology/rheumatology
+rituximab,2023-01-01,3480,263,3743,0.9297355062783863,anti-CD20,oncology/rheumatology
+rituximab,2023-02-01,3451,151,3602,0.9580788450860633,anti-CD20,oncology/rheumatology
+rituximab,2023-03-01,4238,0,4238,1,anti-CD20,oncology/rheumatology
+rituximab,2023-04-01,3502,0,3502,1,anti-CD20,oncology/rheumatology
+rituximab,2023-05-01,4250,0,4250,1,anti-CD20,oncology/rheumatology
+rituximab,2023-06-01,4163,0,4163,1,anti-CD20,oncology/rheumatology
+rituximab,2023-07-01,3747,0,3747,1,anti-CD20,oncology/rheumatology
+rituximab,2023-08-01,4290,0,4290,1,anti-CD20,oncology/rheumatology
+rituximab,2023-09-01,4023,0,4023,1,anti-CD20,oncology/rheumatology
+rituximab,2023-10-01,4386,0,4386,1,anti-CD20,oncology/rheumatology
+rituximab,2023-11-01,4606,0,4606,1,anti-CD20,oncology/rheumatology
+rituximab,2023-12-01,4061,0,4061,1,anti-CD20,oncology/rheumatology
+rituximab,2024-01-01,4248,0,4248,1,anti-CD20,oncology/rheumatology
+rituximab,2024-02-01,4158,0,4158,1,anti-CD20,oncology/rheumatology
+rituximab,2024-03-01,4130,0,4130,1,anti-CD20,oncology/rheumatology
+rituximab,2024-04-01,4283,0,4283,1,anti-CD20,oncology/rheumatology
+rituximab,2024-05-01,4948,0,4948,1,anti-CD20,oncology/rheumatology
+rituximab,2024-06-01,4152,0,4152,1,anti-CD20,oncology/rheumatology
+rituximab,2024-07-01,4708,0,4708,1,anti-CD20,oncology/rheumatology
+rituximab,2024-08-01,4479,0,4479,1,anti-CD20,oncology/rheumatology
+rituximab,2024-09-01,4223,0,4223,1,anti-CD20,oncology/rheumatology
+rituximab,2024-10-01,4940,0,4940,1,anti-CD20,oncology/rheumatology
+rituximab,2024-11-01,4543,0,4543,1,anti-CD20,oncology/rheumatology
+rituximab,2024-12-01,4491,0,4491,1,anti-CD20,oncology/rheumatology
+rituximab,2025-01-01,4647,0,4647,1,anti-CD20,oncology/rheumatology
+rituximab,2025-02-01,4435,0,4435,1,anti-CD20,oncology/rheumatology
+rituximab,2025-03-01,4637,0,4637,1,anti-CD20,oncology/rheumatology
+rituximab,2025-04-01,4466,0,4466,1,anti-CD20,oncology/rheumatology
+rituximab,2025-05-01,5083,0,5083,1,anti-CD20,oncology/rheumatology
+rituximab,2025-06-01,4692,0,4692,1,anti-CD20,oncology/rheumatology
+rituximab,2025-07-01,5147,0,5147,1,anti-CD20,oncology/rheumatology
+rituximab,2025-08-01,4670,0,4670,1,anti-CD20,oncology/rheumatology
+rituximab,2025-09-01,4901,0,4901,1,anti-CD20,oncology/rheumatology
+rituximab,2025-10-01,5120,0,5120,1,anti-CD20,oncology/rheumatology
+rituximab,2025-11-01,4792,0,4792,1,anti-CD20,oncology/rheumatology
+trastuzumab,2009-01-01,0,3348,3348,0,anti-HER2,oncology
+trastuzumab,2009-02-01,0,3272,3272,0,anti-HER2,oncology
+trastuzumab,2009-03-01,0,3572,3572,0,anti-HER2,oncology
+trastuzumab,2009-04-01,0,3702,3702,0,anti-HER2,oncology
+trastuzumab,2009-05-01,0,3412,3412,0,anti-HER2,oncology
+trastuzumab,2009-06-01,0,3220,3220,0,anti-HER2,oncology
+trastuzumab,2009-07-01,0,3478,3478,0,anti-HER2,oncology
+trastuzumab,2009-08-01,0,3564,3564,0,anti-HER2,oncology
+trastuzumab,2009-09-01,0,3346,3346,0,anti-HER2,oncology
+trastuzumab,2009-10-01,0,3824,3824,0,anti-HER2,oncology
+trastuzumab,2009-11-01,0,3412,3412,0,anti-HER2,oncology
+trastuzumab,2009-12-01,0,3426,3426,0,anti-HER2,oncology
+trastuzumab,2010-01-01,0,4146,4146,0,anti-HER2,oncology
+trastuzumab,2010-02-01,0,3494,3494,0,anti-HER2,oncology
+trastuzumab,2010-03-01,0,4068,4068,0,anti-HER2,oncology
+trastuzumab,2010-04-01,0,3136,3136,0,anti-HER2,oncology
+trastuzumab,2010-05-01,0,3630,3630,0,anti-HER2,oncology
+trastuzumab,2010-06-01,0,3670,3670,0,anti-HER2,oncology
+trastuzumab,2010-07-01,0,3966,3966,0,anti-HER2,oncology
+trastuzumab,2010-08-01,0,3492,3492,0,anti-HER2,oncology
+trastuzumab,2010-09-01,0,3442,3442,0,anti-HER2,oncology
+trastuzumab,2010-10-01,0,3938,3938,0,anti-HER2,oncology
+trastuzumab,2010-11-01,0,3582,3582,0,anti-HER2,oncology
+trastuzumab,2010-12-01,0,2926,2926,0,anti-HER2,oncology
+trastuzumab,2011-01-01,0,3822,3822,0,anti-HER2,oncology
+trastuzumab,2011-02-01,0,3686,3686,0,anti-HER2,oncology
+trastuzumab,2011-03-01,0,4182,4182,0,anti-HER2,oncology
+trastuzumab,2011-04-01,0,4106,4106,0,anti-HER2,oncology
+trastuzumab,2011-05-01,0,4002,4002,0,anti-HER2,oncology
+trastuzumab,2011-06-01,0,4306,4306,0,anti-HER2,oncology
+trastuzumab,2011-07-01,0,5324,5324,0,anti-HER2,oncology
+trastuzumab,2011-08-01,0,4532,4532,0,anti-HER2,oncology
+trastuzumab,2011-09-01,0,4752,4752,0,anti-HER2,oncology
+trastuzumab,2011-10-01,0,4218,4218,0,anti-HER2,oncology
+trastuzumab,2011-11-01,0,4588,4588,0,anti-HER2,oncology
+trastuzumab,2011-12-01,0,3758,3758,0,anti-HER2,oncology
+trastuzumab,2012-01-01,0,4818,4818,0,anti-HER2,oncology
+trastuzumab,2012-02-01,0,3194,3194,0,anti-HER2,oncology
+trastuzumab,2012-03-01,0,4682,4682,0,anti-HER2,oncology
+trastuzumab,2012-04-01,0,4420,4420,0,anti-HER2,oncology
+trastuzumab,2012-05-01,0,6046,6046,0,anti-HER2,oncology
+trastuzumab,2012-06-01,0,5438,5438,0,anti-HER2,oncology
+trastuzumab,2012-07-01,0,4640,4640,0,anti-HER2,oncology
+trastuzumab,2012-08-01,0,3692,3692,0,anti-HER2,oncology
+trastuzumab,2012-09-01,0,6016,6016,0,anti-HER2,oncology
+trastuzumab,2012-10-01,0,4132,4132,0,anti-HER2,oncology
+trastuzumab,2012-11-01,0,4956,4956,0,anti-HER2,oncology
+trastuzumab,2012-12-01,0,2802,2802,0,anti-HER2,oncology
+trastuzumab,2013-01-01,0,5282,5282,0,anti-HER2,oncology
+trastuzumab,2013-02-01,0,3906,3906,0,anti-HER2,oncology
+trastuzumab,2013-03-01,0,5162,5162,0,anti-HER2,oncology
+trastuzumab,2013-04-01,0,4378,4378,0,anti-HER2,oncology
+trastuzumab,2013-05-01,0,4712,4712,0,anti-HER2,oncology
+trastuzumab,2013-06-01,0,4982,4982,0,anti-HER2,oncology
+trastuzumab,2013-07-01,0,4274,4274,0,anti-HER2,oncology
+trastuzumab,2013-08-01,0,4986,4986,0,anti-HER2,oncology
+trastuzumab,2013-09-01,0,5582,5582,0,anti-HER2,oncology
+trastuzumab,2013-10-01,0,4276,4276,0,anti-HER2,oncology
+trastuzumab,2013-11-01,0,4418,4418,0,anti-HER2,oncology
+trastuzumab,2013-12-01,0,4976,4976,0,anti-HER2,oncology
+trastuzumab,2014-01-01,0,5132,5132,0,anti-HER2,oncology
+trastuzumab,2014-02-01,0,4318,4318,0,anti-HER2,oncology
+trastuzumab,2014-03-01,0,5940,5940,0,anti-HER2,oncology
+trastuzumab,2014-04-01,0,5134,5134,0,anti-HER2,oncology
+trastuzumab,2014-05-01,0,7626,7626,0,anti-HER2,oncology
+trastuzumab,2014-06-01,0,5816,5816,0,anti-HER2,oncology
+trastuzumab,2014-07-01,0,4516,4516,0,anti-HER2,oncology
+trastuzumab,2014-08-01,0,5114,5114,0,anti-HER2,oncology
+trastuzumab,2014-09-01,0,4772,4772,0,anti-HER2,oncology
+trastuzumab,2014-10-01,0,4914,4914,0,anti-HER2,oncology
+trastuzumab,2014-11-01,0,4930,4930,0,anti-HER2,oncology
+trastuzumab,2014-12-01,0,4424,4424,0,anti-HER2,oncology
+trastuzumab,2015-01-01,0,5304,5304,0,anti-HER2,oncology
+trastuzumab,2015-02-01,0,6188,6188,0,anti-HER2,oncology
+trastuzumab,2015-03-01,0,6134,6134,0,anti-HER2,oncology
+trastuzumab,2015-04-01,0,4482,4482,0,anti-HER2,oncology
+trastuzumab,2015-05-01,0,8478,8478,0,anti-HER2,oncology
+trastuzumab,2015-06-01,0,5588,5588,0,anti-HER2,oncology
+trastuzumab,2015-07-01,0,6212,6212,0,anti-HER2,oncology
+trastuzumab,2015-08-01,0,6772,6772,0,anti-HER2,oncology
+trastuzumab,2015-09-01,0,7634,7634,0,anti-HER2,oncology
+trastuzumab,2015-10-01,0,8088,8088,0,anti-HER2,oncology
+trastuzumab,2015-11-01,0,7608,7608,0,anti-HER2,oncology
+trastuzumab,2015-12-01,0,8834,8834,0,anti-HER2,oncology
+trastuzumab,2016-01-01,0,7876,7876,0,anti-HER2,oncology
+trastuzumab,2016-02-01,0,8694,8694,0,anti-HER2,oncology
+trastuzumab,2016-03-01,0,9866,9866,0,anti-HER2,oncology
+trastuzumab,2016-04-01,0,8008,8008,0,anti-HER2,oncology
+trastuzumab,2016-05-01,0,8974,8974,0,anti-HER2,oncology
+trastuzumab,2016-06-01,0,7754,7754,0,anti-HER2,oncology
+trastuzumab,2016-07-01,0,10358,10358,0,anti-HER2,oncology
+trastuzumab,2016-08-01,0,8536,8536,0,anti-HER2,oncology
+trastuzumab,2016-09-01,0,8194,8194,0,anti-HER2,oncology
+trastuzumab,2016-10-01,0,7742,7742,0,anti-HER2,oncology
+trastuzumab,2016-11-01,0,7796,7796,0,anti-HER2,oncology
+trastuzumab,2016-12-01,0,9550,9550,0,anti-HER2,oncology
+trastuzumab,2017-01-01,0,8044,8044,0,anti-HER2,oncology
+trastuzumab,2017-02-01,0,9420,9420,0,anti-HER2,oncology
+trastuzumab,2017-03-01,0,10058,10058,0,anti-HER2,oncology
+trastuzumab,2017-04-01,0,7570,7570,0,anti-HER2,oncology
+trastuzumab,2017-05-01,0,8654,8654,0,anti-HER2,oncology
+trastuzumab,2017-06-01,0,10408,10408,0,anti-HER2,oncology
+trastuzumab,2017-07-01,0,8288,8288,0,anti-HER2,oncology
+trastuzumab,2017-08-01,0,10060,10060,0,anti-HER2,oncology
+trastuzumab,2017-09-01,0,9468,9468,0,anti-HER2,oncology
+trastuzumab,2017-10-01,0,7934,7934,0,anti-HER2,oncology
+trastuzumab,2017-11-01,0,9560,9560,0,anti-HER2,oncology
+trastuzumab,2017-12-01,0,8830,8830,0,anti-HER2,oncology
+trastuzumab,2018-01-01,0,7936,7936,0,anti-HER2,oncology
+trastuzumab,2018-02-01,0,10420,10420,0,anti-HER2,oncology
+trastuzumab,2018-03-01,0,9296,9296,0,anti-HER2,oncology
+trastuzumab,2018-04-01,0,8550,8550,0,anti-HER2,oncology
+trastuzumab,2018-05-01,0,13034,13034,0,anti-HER2,oncology
+trastuzumab,2018-06-01,0,9256,9256,0,anti-HER2,oncology
+trastuzumab,2018-07-01,0,7918,7918,0,anti-HER2,oncology
+trastuzumab,2018-08-01,0,9126,9126,0,anti-HER2,oncology
+trastuzumab,2018-09-01,0,9272,9272,0,anti-HER2,oncology
+trastuzumab,2018-10-01,0,8706,8706,0,anti-HER2,oncology
+trastuzumab,2018-11-01,0,9022,9022,0,anti-HER2,oncology
+trastuzumab,2018-12-01,0,10350,10350,0,anti-HER2,oncology
+trastuzumab,2019-01-01,0,9224,9224,0,anti-HER2,oncology
+trastuzumab,2019-02-01,0,8614,8614,0,anti-HER2,oncology
+trastuzumab,2019-03-01,0,10434,10434,0,anti-HER2,oncology
+trastuzumab,2019-04-01,0,7952,7952,0,anti-HER2,oncology
+trastuzumab,2019-05-01,0,12034,12034,0,anti-HER2,oncology
+trastuzumab,2019-06-01,0,10430,10430,0,anti-HER2,oncology
+trastuzumab,2019-07-01,0,10254,10254,0,anti-HER2,oncology
+trastuzumab,2019-08-01,8518,1400,9918,0.8588425085702762,anti-HER2,oncology
+trastuzumab,2019-09-01,7520,1498,9018,0.8338877799955644,anti-HER2,oncology
+trastuzumab,2019-10-01,7860,1356,9216,0.8528645833333334,anti-HER2,oncology
+trastuzumab,2019-11-01,8980,1450,10430,0.8609779482262704,anti-HER2,oncology
+trastuzumab,2019-12-01,8482,1534,10016,0.8468450479233227,anti-HER2,oncology
+trastuzumab,2020-01-01,10918,1638,12556,0.8695444409047467,anti-HER2,oncology
+trastuzumab,2020-02-01,8590,1374,9964,0.8621035728623043,anti-HER2,oncology
+trastuzumab,2020-03-01,7712,1322,9034,0.8536639362408678,anti-HER2,oncology
+trastuzumab,2020-04-01,9710,1428,11138,0.8717902675525229,anti-HER2,oncology
+trastuzumab,2020-05-01,8778,1552,10330,0.8497579864472411,anti-HER2,oncology
+trastuzumab,2020-06-01,8066,1480,9546,0.8449612403100775,anti-HER2,oncology
+trastuzumab,2020-07-01,9156,1606,10762,0.8507712321129901,anti-HER2,oncology
+trastuzumab,2020-08-01,10104,1556,11660,0.8665523156089194,anti-HER2,oncology
+trastuzumab,2020-09-01,7988,1718,9706,0.8229960848959407,anti-HER2,oncology
+trastuzumab,2020-10-01,8836,1450,10286,0.8590316935640676,anti-HER2,oncology
+trastuzumab,2020-11-01,7774,1210,8984,0.8653161175422974,anti-HER2,oncology
+trastuzumab,2020-12-01,9112,1646,10758,0.8469975831939022,anti-HER2,oncology
+trastuzumab,2021-01-01,7842,1280,9122,0.859679894759921,anti-HER2,oncology
+trastuzumab,2021-02-01,9254,1624,10878,0.8507078507078507,anti-HER2,oncology
+trastuzumab,2021-03-01,10918,1634,12552,0.8698215423836839,anti-HER2,oncology
+trastuzumab,2021-04-01,8920,2022,10942,0.8152074575031987,anti-HER2,oncology
+trastuzumab,2021-05-01,9088,1438,10526,0.8633859015770473,anti-HER2,oncology
+trastuzumab,2021-06-01,8004,1662,9666,0.8280571073867163,anti-HER2,oncology
+trastuzumab,2021-07-01,8767,1543,10310,0.8503394762366634,anti-HER2,oncology
+trastuzumab,2021-08-01,8728,1591,10319,0.8458183932551604,anti-HER2,oncology
+trastuzumab,2021-09-01,9245,1680,10925,0.8462242562929062,anti-HER2,oncology
+trastuzumab,2021-10-01,7961,1538,9499,0.8380882198126118,anti-HER2,oncology
+trastuzumab,2021-11-01,9293,1600,10893,0.8531166804369779,anti-HER2,oncology
+trastuzumab,2021-12-01,9160,1801,10961,0.8356901742541739,anti-HER2,oncology
+trastuzumab,2022-01-01,8178,1402,9580,0.8536534446764091,anti-HER2,oncology
+trastuzumab,2022-02-01,7980,1499,9479,0.841860955797025,anti-HER2,oncology
+trastuzumab,2022-03-01,8773,1631,10404,0.8432333717800846,anti-HER2,oncology
+trastuzumab,2022-04-01,8427,1543,9970,0.8452357071213641,anti-HER2,oncology
+trastuzumab,2022-05-01,9031,1608,10639,0.8488579753736254,anti-HER2,oncology
+trastuzumab,2022-06-01,8997,1656,10653,0.8445508307519008,anti-HER2,oncology
+trastuzumab,2022-07-01,4051,735,4786,0.8464270789803594,anti-HER2,oncology
+trastuzumab,2022-08-01,4528,812,5340,0.847940074906367,anti-HER2,oncology
+trastuzumab,2022-09-01,4257,743,5000,0.8514,anti-HER2,oncology
+trastuzumab,2022-10-01,4065,729,4794,0.8479349186483104,anti-HER2,oncology
+trastuzumab,2022-11-01,4310,764,5074,0.8494284588096177,anti-HER2,oncology
+trastuzumab,2022-12-01,4300,788,5088,0.845125786163522,anti-HER2,oncology
+trastuzumab,2023-01-01,4167,782,4949,0.8419882804606992,anti-HER2,oncology
+trastuzumab,2023-02-01,3959,735,4694,0.8434171282488283,anti-HER2,oncology
+trastuzumab,2023-03-01,4534,912,5446,0.8325376423062798,anti-HER2,oncology
+trastuzumab,2023-04-01,3783,791,4574,0.8270660253607346,anti-HER2,oncology
+trastuzumab,2023-05-01,4778,985,5763,0.8290820753079993,anti-HER2,oncology
+trastuzumab,2023-06-01,4511,924,5435,0.8299908003679852,anti-HER2,oncology
+trastuzumab,2023-07-01,4221,874,5095,0.828459273797841,anti-HER2,oncology
+trastuzumab,2023-08-01,4845,971,5816,0.8330467675378267,anti-HER2,oncology
+trastuzumab,2023-09-01,4462,898,5360,0.8324626865671642,anti-HER2,oncology
+trastuzumab,2023-10-01,4609,908,5517,0.8354177995287294,anti-HER2,oncology
+trastuzumab,2023-11-01,4666,978,5644,0.8267186392629341,anti-HER2,oncology
+trastuzumab,2023-12-01,4315,876,5191,0.8312463879791948,anti-HER2,oncology
+trastuzumab,2024-01-01,4808,1003,5811,0.8273963173292033,anti-HER2,oncology
+trastuzumab,2024-02-01,4503,908,5411,0.8321936795416743,anti-HER2,oncology
+trastuzumab,2024-03-01,4547,928,5475,0.8305022831050228,anti-HER2,oncology
+trastuzumab,2024-04-01,4641,948,5589,0.8303811057434246,anti-HER2,oncology
+trastuzumab,2024-05-01,4900,1020,5920,0.8277027027027027,anti-HER2,oncology
+trastuzumab,2024-06-01,4314,904,5218,0.826753545419701,anti-HER2,oncology
+trastuzumab,2024-07-01,4829,1034,5863,0.8236397748592871,anti-HER2,oncology
+trastuzumab,2024-08-01,4648,1015,5663,0.8207663782447466,anti-HER2,oncology
+trastuzumab,2024-09-01,4447,956,5403,0.8230612622617065,anti-HER2,oncology
+trastuzumab,2024-10-01,5013,1045,6058,0.8275008253549027,anti-HER2,oncology
+trastuzumab,2024-11-01,4450,940,5390,0.8256029684601113,anti-HER2,oncology
+trastuzumab,2024-12-01,4719,988,5707,0.826879271070615,anti-HER2,oncology
+trastuzumab,2025-01-01,4845,1023,5868,0.8256646216768916,anti-HER2,oncology
+trastuzumab,2025-02-01,4338,949,5287,0.8205031208624929,anti-HER2,oncology
+trastuzumab,2025-03-01,4555,960,5515,0.8259292837715322,anti-HER2,oncology
+trastuzumab,2025-04-01,4774,1000,5774,0.826809837201247,anti-HER2,oncology
+trastuzumab,2025-05-01,4858,1079,5937,0.8182583796530234,anti-HER2,oncology
+trastuzumab,2025-06-01,4635,998,5633,0.8228297532398366,anti-HER2,oncology
+trastuzumab,2025-07-01,5013,1122,6135,0.8171149144254278,anti-HER2,oncology
+trastuzumab,2025-08-01,4547,981,5528,0.8225397973950795,anti-HER2,oncology
+trastuzumab,2025-09-01,4947,1031,5978,0.8275342924054868,anti-HER2,oncology
+trastuzumab,2025-10-01,5135,1079,6214,0.8263598326359832,anti-HER2,oncology
+trastuzumab,2025-11-01,4272,950,5222,0.8180773649942551,anti-HER2,oncology

@@ -1,0 +1,17 @@
+# R
+.Rhistory
+.Rdata
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data files too large for git
+data/raw/
+*.xlsx
+*.xls
+*.rds

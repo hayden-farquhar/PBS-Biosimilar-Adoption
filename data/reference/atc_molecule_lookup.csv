@@ -1,0 +1,15 @@
+atc_code,molecule,molecule_class,therapeutic_area,dispensing_setting
+L04AB04,adalimumab,anti-TNF,rheumatology/gastro/derm,community
+L04AB02,infliximab,anti-TNF,rheumatology/gastro,hospital
+L04AA12,infliximab,anti-TNF,rheumatology/gastro,hospital
+L04AB01,etanercept,anti-TNF,rheumatology,community
+L01FA01,rituximab,anti-CD20,oncology/rheumatology,hospital
+L01XC02,rituximab,anti-CD20,oncology/rheumatology,hospital
+L01FD01,trastuzumab,anti-HER2,oncology,hospital
+L01XC03,trastuzumab,anti-HER2,oncology,hospital
+L03AA02,filgrastim,G-CSF,oncology supportive,community
+L03AA13,pegfilgrastim,pegylated G-CSF,oncology supportive,community
+L01FG01,bevacizumab,anti-VEGF,oncology,hospital
+L01XC07,bevacizumab,anti-VEGF,oncology,hospital
+A10AE04,insulin glargine,long-acting insulin,diabetes,community
+S01LA05,aflibercept,anti-VEGF,ophthalmology,hospital

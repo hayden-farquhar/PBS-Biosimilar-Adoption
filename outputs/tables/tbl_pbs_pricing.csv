@@ -1,0 +1,9 @@
+molecule,period_label,ref_dpmq,bio_dpmq,period_start,period_end,price_gap
+adalimumab,Pre-price cut,817,762,2021-07-01,2023-03-01,55
+adalimumab,Post-price cut,619,577,2023-04-01,2025-11-01,42
+rituximab,Pre-delisting,1450,1350,2019-10-01,2021-03-01,100
+rituximab,Post-delisting,NA,1250,2021-04-01,2025-11-01,NA
+etanercept,Current,580,540,2021-07-01,2025-11-01,40
+trastuzumab,Current,1800,1650,2021-07-01,2025-11-01,150
+infliximab,Current,630,580,2021-07-01,2025-11-01,50
+bevacizumab,Current,NA,850,2021-07-01,2025-11-01,NA
