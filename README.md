@@ -1,5 +1,9 @@
 # Reference Product Delisting Drives Biosimilar Adoption in Australia
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22732780.svg)](https://doi.org/10.5281/zenodo.22732780)
+
+Archived at Zenodo. Cite the concept DOI [10.5281/zenodo.22732780](https://doi.org/10.5281/zenodo.22732780), which always resolves to the latest version.
+
 Replication code and data for:
 
 > Farquhar H. Reference Product Delisting Drives Biosimilar Adoption in Australia: Interrupted Time Series Evidence and a Documented Reversal in Adalimumab Uptake. Manuscript under consideration at a peer-reviewed journal.
