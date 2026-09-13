@@ -242,7 +242,6 @@ cli_h1("5. Cumulative historical savings")
 benchmark_logistic <- function(months_since_listing, K = 0.774, r = 0.25, t_mid = 8) {
   K / (1 + exp(-r * (months_since_listing - t_mid)))
 }
-oecd_logistic <- benchmark_logistic   # retained so downstream calls keep working
 
 # Adalimumab DoS data starts Jul 2021 (listing was Apr 2021)
 adal_ts <- ms_national %>%
@@ -258,11 +257,11 @@ adal_ts <- ms_national %>%
     # Actual expenditure
     actual_exp = biosimilar_rx * bio_p + reference_rx * ref_p,
     # OECD counterfactual share
-    cf_oecd_share = oecd_logistic(months_since_listing),
+    cf_benchmark_share = benchmark_logistic(months_since_listing),
     # But cap at observed share if Australia is actually higher (shouldn't happen, but defensive)
-    cf_oecd_share = pmax(cf_oecd_share, biosimilar_share),
-    cf_bio_rx     = total_rx * cf_oecd_share,
-    cf_ref_rx     = total_rx * (1 - cf_oecd_share),
+    cf_benchmark_share = pmax(cf_benchmark_share, biosimilar_share),
+    cf_bio_rx     = total_rx * cf_benchmark_share,
+    cf_ref_rx     = total_rx * (1 - cf_benchmark_share),
     cf_exp        = cf_bio_rx * bio_p + cf_ref_rx * ref_p,
     # Monthly savings
     monthly_savings = actual_exp - cf_exp,
@@ -270,13 +269,13 @@ adal_ts <- ms_national %>%
   )
 
 total_cumulative <- last(adal_ts$cumulative_savings)
-cli_alert_success("Cumulative adalimumab savings foregone (Jul 2021 – Nov 2025): ${format(round(total_cumulative), big.mark = ',')}")
+cli_alert_success("Cumulative adalimumab savings forgone (Jul 2021 – Nov 2025): ${format(round(total_cumulative), big.mark = ',')}")
 cli_alert_info("  = ${format(round(total_cumulative / 1e6, 1), big.mark = ',')} million")
 
 # Save detail
 write_csv(adal_ts %>%
             select(period, months_since_listing, total_rx, biosimilar_share,
-                   cf_oecd_share, actual_exp, cf_exp, monthly_savings, cumulative_savings),
+                   cf_benchmark_share, actual_exp, cf_exp, monthly_savings, cumulative_savings),
           here("outputs", "tables", "tbl_counterfactual_detail.csv"))
 cli_alert_success("Saved tbl_counterfactual_detail.csv")
 
@@ -287,34 +286,38 @@ cli_alert_success("Saved tbl_counterfactual_detail.csv")
 
 cli_h1("6. Multi-molecule aggregate")
 
-# For molecules with an adoption gap vs OECD average, calculate aggregate savings
-# Only adalimumab has a meaningful gap (others are at/above OECD)
+# Aggregate savings across molecules with an adoption gap.
+# Only the adalimumab comparator (0.774, Germany, Tam et al. 2025 Table 2) is a
+# verified adalimumab-specific figure. The trastuzumab and etanercept comparators
+# are indicative class-level values; both are BELOW the observed Australian share,
+# so both contribute exactly zero to the aggregate and no headline number depends
+# on them. They are retained only so the comparison is visible rather than dropped.
 
 molecule_gaps <- tribble(
-  ~molecule,        ~aus_share, ~oecd_share, ~annual_rx,    ~ref_price, ~bio_price,
+  ~molecule,        ~aus_share, ~comparator_share, ~annual_rx,    ~ref_price, ~bio_price,
   "adalimumab",     0.204,      0.774,       annual_total_rx, 619,       577,
   "trastuzumab",    0.818,      0.80,        5222 * 12,       1800,      1650,
   "etanercept",     0.989,      0.70,        8759 * 12,       580,       540
 ) %>%
   mutate(
-    gap = pmax(oecd_share - aus_share, 0),
+    gap = pmax(comparator_share - aus_share, 0),
     switchable_rx = annual_rx * gap,
     annual_savings = switchable_rx * (ref_price - bio_price),
-    # Flag: negative gap means Australia EXCEEDS OECD average
-    exceeds_oecd = aus_share > oecd_share
+    # Flag: negative gap means Australia EXCEEDS the comparator share
+    exceeds_comparator = aus_share > comparator_share
   )
 
-cli_alert_info("Adoption gap vs OECD average:")
+cli_alert_info("Adoption gap vs comparator share:")
 for (i in seq_len(nrow(molecule_gaps))) {
   g <- molecule_gaps[i, ]
-  if (g$exceeds_oecd) {
-    cli_alert_success("  {g$molecule}: {percent(g$aus_share)} vs OECD {percent(g$oecd_share)} — Australia EXCEEDS OECD")
+  if (g$exceeds_comparator) {
+    cli_alert_success("  {g$molecule}: {percent(g$aus_share)} vs comparator {percent(g$comparator_share)} — Australia EXCEEDS comparator")
   } else {
-    cli_alert_warning("  {g$molecule}: {percent(g$aus_share)} vs OECD {percent(g$oecd_share)} — gap {percent(g$gap)}, savings ${format(round(g$annual_savings), big.mark = ',')}")
+    cli_alert_warning("  {g$molecule}: {percent(g$aus_share)} vs comparator {percent(g$comparator_share)} — gap {percent(g$gap)}, savings ${format(round(g$annual_savings), big.mark = ',')}")
   }
 }
 
-aggregate_savings <- sum(molecule_gaps$annual_savings[!molecule_gaps$exceeds_oecd])
+aggregate_savings <- sum(molecule_gaps$annual_savings[!molecule_gaps$exceeds_comparator])
 cli_alert_success("Aggregate annual savings (all molecules with gap): ${format(round(aggregate_savings), big.mark = ',')} = ${round(aggregate_savings / 1e6, 1)}M")
 cli_alert_info("  Note: Almost entirely driven by adalimumab (only molecule with meaningful gap)")
 
@@ -331,13 +334,13 @@ cli_h2("7a. Counterfactual adoption curve")
 
 p_cf <- ggplot(adal_ts, aes(x = period)) +
   # Shaded area = savings zone
-  geom_ribbon(aes(ymin = biosimilar_share, ymax = cf_oecd_share),
+  geom_ribbon(aes(ymin = biosimilar_share, ymax = cf_benchmark_share),
               fill = "#B2182B", alpha = 0.15) +
   # Actual trajectory
   geom_line(aes(y = biosimilar_share, colour = "Australia (actual)"),
             linewidth = 1.2) +
   # OECD counterfactual
-  geom_line(aes(y = cf_oecd_share, colour = "German-uptake trajectory"),
+  geom_line(aes(y = cf_benchmark_share, colour = "German-uptake trajectory"),
             linewidth = 1.1, linetype = "dashed") +
   # No OECD reference line: the OECD Health at a Glance biosimilar indicator is
   # a TNF-class figure in treatment days and is not commensurable with an
@@ -358,7 +361,7 @@ p_cf <- ggplot(adal_ts, aes(x = period)) +
   labs(
     title = "Adalimumab: actual uptake versus a German-uptake counterfactual",
     subtitle = glue("Shaded area represents the adoption gap. ",
-                    "Cumulative foregone savings: ${round(total_cumulative / 1e6, 1)}M (Jul 2021 \u2013 Nov 2025)."),
+                    "Cumulative forgone savings: ${round(total_cumulative / 1e6, 1)}M (Jul 2021 \u2013 Nov 2025)."),
     x = NULL, y = "Biosimilar market share",
     colour = NULL,
     caption = "Counterfactual modelled as a logistic curve with long-run share K=0.774, the German adalimumab retail uptake for 2023 (Tam et al. 2025);\nmidpoint 8 months. Shape parameters are stylised, not fitted. Australia: PBS Date of Supply. Prices: PBS DPMQ, pre/post April 2023 regime."
@@ -425,7 +428,7 @@ p_cumulative <- ggplot(adal_ts, aes(x = period)) +
   scale_y_continuous(labels = label_dollar(suffix = "M"),
                      expand = expansion(mult = c(0, 0.15))) +
   labs(
-    title = "Cumulative foregone savings: adalimumab adoption gap vs OECD average",
+    title = "Cumulative forgone savings: adalimumab adoption gap vs German uptake",
     subtitle = "Monthly savings (bars) and cumulative total (red line) if Australia had matched OECD-average trajectory.",
     x = NULL, y = "Savings (AUD millions)",
     caption = "OECD trajectory: logistic curve calibrated to EU published adoption curves.\nPre-Apr 2023: Humira $817, biosimilar $762. Post-Apr 2023: Humira $619, biosimilar $577."
@@ -439,28 +442,19 @@ save_fig(p_cumulative, "fig_cumulative_savings", 10, 6)
 
 cli_h2("7d. International adoption trajectories")
 
-# Stylised adoption curves for key countries (calibrated to published data)
-# Months since adalimumab biosimilar first available in each country
+# Comparator trajectories for the two countries with verified adalimumab-specific
+# retail benchmarks (Tam et al. BioDrugs 2025, Table 2). The earlier version of
+# this figure also plotted UK 0.92, Denmark 0.98, France 0.55 and Germany 0.82,
+# attributed to "OECD/IQVIA 2023-2024". The benchmark audit could not confirm any
+# of those four against the cited sources, so they are not plotted. Only the
+# long-run share K is empirical; r and t_mid are stylised shape parameters and
+# the curves are illustrative of pace, not fitted country time series.
 trajectory_data <- tibble(
   months = 0:60
 ) %>%
   mutate(
-    # Australia: actual data interpolated
-    Australia = case_when(
-      months <= 3  ~ 0,       # Item sharing artifact
-      months <= 56 ~ oecd_logistic(months, K = 0.22, r = 0.15, t_mid = 6),
-      TRUE         ~ 0.204
-    ),
-    # UK: rapid adoption (mandatory switching NHS)
-    UK = oecd_logistic(months, K = 0.92, r = 0.35, t_mid = 6),
-    # Denmark: fastest (gainsharing contracts)
-    Denmark = oecd_logistic(months, K = 0.98, r = 0.45, t_mid = 5),
-    # Germany: quota-driven
-    Germany = oecd_logistic(months, K = 0.82, r = 0.30, t_mid = 8),
-    # Canada: moderate
-    Canada = oecd_logistic(months, K = 0.72, r = 0.20, t_mid = 10),
-    # France: gradual
-    France = oecd_logistic(months, K = 0.55, r = 0.18, t_mid = 12)
+    Germany = benchmark_logistic(months, K = 0.774, r = 0.30, t_mid = 8),
+    Canada  = benchmark_logistic(months, K = 0.651, r = 0.20, t_mid = 10)
   ) %>%
   pivot_longer(-months, names_to = "country", values_to = "share")
 
@@ -470,7 +464,7 @@ adal_actual_traj <- ms_national %>%
          period >= ymd("2022-01-01")) %>%  # Reliable from Jan 2022
   mutate(months = interval(ymd("2021-04-01"), period) %/% months(1))
 
-p_traj <- ggplot(trajectory_data %>% filter(country != "Australia"),
+p_traj <- ggplot(trajectory_data,
                  aes(x = months, y = share, colour = country)) +
   geom_line(linewidth = 0.9, alpha = 0.7) +
   # Actual Australia data as thick line
@@ -485,12 +479,17 @@ p_traj <- ggplot(trajectory_data %>% filter(country != "Australia"),
                      labels = paste0(seq(0, 60, 12), " mo")) +
   scale_colour_brewer(palette = "Set2") +
   labs(
-    title = "Adalimumab biosimilar adoption: Australia vs international trajectories",
-    subtitle = "Months since first biosimilar available. Australia (red) lags all OECD comparators except the USA.",
+    title = "Adalimumab biosimilar adoption: Australia against verified benchmarks",
+    subtitle = "Months since first biosimilar available. Australia (red) sits well below both comparators.",
     x = "Months since biosimilar listing",
     y = "Biosimilar market share (volume)",
     colour = "Country",
-    caption = "Country curves: logistic models calibrated to published OECD/IQVIA data (2023\u20132024).\nAustralia: PBS Date of Supply, reliable from Jan 2022. Listing dates differ by country."
+    caption = paste0(
+      "Comparator curves: logistic paths to the verified 2023 adalimumab retail share ",
+      "(Germany 77.4%, Canada 65.1%; Tam et al. 2025, Table 2).\n",
+      "Only the long-run share is empirical; curve shape is stylised. ",
+      "Australia: PBS Date of Supply, reliable from Jan 2022. Listing dates differ by country."
+    )
   ) +
   theme_pbs
 
@@ -521,11 +520,17 @@ adal_pre_cut <- ms_national %>%
 pre_cut_annual_rx <- sum(adal_pre_cut$total_rx)
 price_cut_saving_per_rx <- 817 - 619  # $198 per reference Rx
 # Price cut applied to ALL adalimumab (both reference and biosimilar brands reduced)
-price_cut_annual_savings <- pre_cut_annual_rx * price_cut_saving_per_rx
+# Two defensible bases. The manuscript reports the ongoing annual saving at
+# CURRENT dispensing volume, and states that basis explicitly, so that is the
+# headline here too. The pre-cut-volume figure is kept for context.
+price_cut_annual_savings          <- annual_total_rx * price_cut_saving_per_rx
+price_cut_annual_savings_at_cut   <- pre_cut_annual_rx * price_cut_saving_per_rx
 
 cli_h2("April 2023 price cut impact")
 cli_alert_info("  Statutory price reduction: 24.39% ({dollar(price_cut_saving_per_rx)}/Rx)")
-cli_alert_info("  Annual Rx volume at that time: {format(pre_cut_annual_rx, big.mark = ',')}")
+cli_alert_info("  Rx volume at the time of the cut: {format(pre_cut_annual_rx, big.mark = ',')}/yr")
+cli_alert_info("  Current annual Rx volume (headline basis): {format(annual_total_rx, big.mark = ',')}/yr")
+cli_alert_info("  Saving at volume when cut applied: ${round(price_cut_annual_savings_at_cut / 1e6, 1)}M")
 cli_alert_info("  Estimated annual saving from price cut: ${format(round(price_cut_annual_savings), big.mark = ',')} (${round(price_cut_annual_savings / 1e6, 1)}M)")
 cli_alert_info("  This dwarfs the direct substitution savings — statutory price reductions")
 cli_alert_info("  triggered by biosimilar competition are the primary savings mechanism in Australia")
@@ -543,15 +548,15 @@ savings_channels <- tribble(
   "Statutory price reduction (24.39%)", price_cut_annual_savings,
     "Applied to ALL brands; triggered by biosimilar competition + price disclosure",
   "Direct substitution (at current prices)",
-    savings_table$annual_savings_total[savings_table$scenario == "OECD average"],
-    "Additional savings if 67% biosimilar share at current prices",
+    savings_table$annual_savings_total[savings_table$scenario == "Germany"],
+    "Additional savings at the verified German adalimumab share (77.4%), current prices",
   "Further price disclosure rounds",    NA_real_,
     "Ongoing statutory reductions as biosimilar market matures; amount unpredictable"
 )
 
 cli_alert_info("Savings channels for adalimumab:")
 cli_alert_info("  1. Statutory price reduction: ~${round(price_cut_annual_savings / 1e6)}M/year (ALREADY REALISED)")
-cli_alert_info("  2. Direct substitution to OECD avg: ~${round(savings_table$annual_savings_total[savings_table$scenario == 'OECD average'] / 1e6, 1)}M/year (UNREALISED)")
+cli_alert_info("  2. Direct substitution to German share: ~${round(savings_table$annual_savings_total[savings_table$scenario == 'Germany'] / 1e6, 1)}M/year (UNREALISED)")
 cli_alert_info("")
 cli_alert_info("  KEY INSIGHT: In Australia's PBS system, statutory price reductions triggered by")
 cli_alert_info("  biosimilar competition save 10-20x more than direct substitution savings.")
@@ -614,11 +619,12 @@ cli_h1("Phase 6 complete")
 cli_alert_success("Key findings:")
 cli_alert_info("")
 cli_alert_info("HEADLINE NUMBERS:")
-cli_alert_info("  Adalimumab biosimilar share: {percent(actual_share, accuracy = 0.1)} (Australia) vs 67% (OECD average)")
-cli_alert_info("  Annual direct substitution savings if OECD-average share:")
-oecd_savings <- savings_table$annual_savings_total[savings_table$scenario == "OECD average"]
-cli_alert_info("    ${format(round(oecd_savings), big.mark = ',')} (${round(oecd_savings / 1e6, 1)}M)")
-cli_alert_info("  Cumulative foregone savings (Jul 2021 - Nov 2025): ${round(total_cumulative / 1e6, 1)}M")
+cli_alert_info("  Adalimumab biosimilar share: {percent(actual_share, accuracy = 0.1)} (Australia, mean of recent window)")
+cli_alert_info("    vs verified 2023 benchmarks: Germany 77.4%, Canada 65.1%")
+cli_alert_info("  Annual direct substitution savings at the German benchmark:")
+benchmark_savings <- savings_table$annual_savings_total[savings_table$scenario == "Germany"]
+cli_alert_info("    ${format(round(benchmark_savings), big.mark = ',')} (${round(benchmark_savings / 1e6, 1)}M)")
+cli_alert_info("  Cumulative forgone savings (Jul 2021 - Nov 2025): ${round(total_cumulative / 1e6, 1)}M")
 cli_alert_info("")
 cli_alert_info("CONTEXT:")
 cli_alert_info("  April 2023 statutory price cut saved ~${round(price_cut_annual_savings / 1e6)}M/year")
