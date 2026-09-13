@@ -1,12 +1,22 @@
-# Causal Effects of PBS Policy Interventions on Biosimilar Adoption in Australia
+# Reference Product Delisting Drives Biosimilar Adoption in Australia
 
 Replication code and data for:
 
-> Farquhar H. Causal Effects of Pharmaceutical Benefits Scheme Policy Interventions on Biosimilar Adoption in Australia: An Interrupted Time Series and Regression Discontinuity Analysis. *PharmacoEconomics* (submitted).
+> Farquhar H. Reference Product Delisting Drives Biosimilar Adoption in Australia: Interrupted Time Series Evidence and a Documented Reversal in Adalimumab Uptake. Manuscript under consideration at a peer-reviewed journal.
 
 ## Overview
 
-This repository contains all analysis code and processed data to replicate the findings of the study. The study applies interrupted time series (ITS) segmented regression, regression discontinuity in time (RDiT), and Bayesian structural time series (CausalImpact) to PBS prescribing data for 10 biologic molecules to estimate the causal effects of specific policy interventions on biosimilar market share.
+This repository contains all analysis code and processed data to replicate the findings of the study. The study applies interrupted time series (ITS) segmented regression, regression discontinuity in time (RDiT), Bayesian structural time series (CausalImpact), and Bai-Perron structural break detection to PBS prescribing data for 10 biologic molecules.
+
+## Note on this version
+
+This release supersedes the initial commit and corrects two defects found while revising the manuscript. Anyone who cloned the earlier state should re-run from this version.
+
+**A double-counting error in the national series.** `03_market_share.R` aggregated national prescription counts without restricting to national-level records. The two sources are shaped differently: the PBS Date of Supply extract carries only a national row, whereas Medicare Statistics carries a national row *and* eight jurisdiction rows that sum to the same total. Every Medicare-era month (January 2009 to June 2022) was therefore counted twice, while Date of Supply months were counted once, producing an artefactual halving of volumes at July 2022. The fix adds `filter(state == "National")` before the national aggregation; the state-level block was already correct. 1,081 of 1,527 molecule-months changed.
+
+**Unverifiable international benchmarks.** The international comparison in `04_descriptive_analysis.R` carried adalimumab uptake figures attributed to sources that do not contain them, including an "OECD average" that is in fact a tumour-necrosis-factor-inhibitor class figure measured in treatment days. Benchmarks are now restricted to the two exact, adalimumab-specific, retail-setting values published in Tam et al. (BioDrugs 2025;39(3):461-476). Rows that could not be verified are commented out with the reason recorded, not deleted.
+
+Downstream of these fixes, structural break detection showed that neither adalimumab policy date falls within the confidence interval of any detected break, so the adalimumab intervention effects are not identified and are reported descriptively in the manuscript. `09_figure2_observed.R` is new and produces the main-text Figures 1 and 2 as observed series without fitted regressions.
 
 ## Directory Structure
 

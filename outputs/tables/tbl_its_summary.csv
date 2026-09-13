@@ -1,15 +1,15 @@
 molecule,preferred_model,term,interpretation,estimate,std_error,p_value,sig
-Rituximab,R5: Newey-West HAC SEs,(Intercept),Baseline level,-0,NA,NA,
-Rituximab,R5: Newey-West HAC SEs,time,Pre-intervention monthly trend,0,0,1,
+Rituximab,R5: Newey-West HAC SEs,(Intercept),Baseline level,0,NA,NA,
+Rituximab,R5: Newey-West HAC SEs,time,Pre-intervention monthly trend,-0,NA,NA,
 Rituximab,R5: Newey-West HAC SEs,post_listing,Step change (immediate level shift),-0.00304,0.00214,0.1575,
 Rituximab,R5: Newey-West HAC SEs,time_after_listing,Slope change (change in monthly trend),0.00241,2.1e-4,0,***
-Rituximab,R5: Newey-West HAC SEs,post_delist_iv,Step change (immediate level shift),-0.00211,0.00244,0.3873,
-Rituximab,R5: Newey-West HAC SEs,time_after_delist_iv,Slope change (change in monthly trend),-1e-4,5.1e-4,0.8471,
-Rituximab,R5: Newey-West HAC SEs,post_delist_sc,Step change (immediate level shift),0.21318,0.17941,0.2362,
-Rituximab,R5: Newey-West HAC SEs,time_after_delist_sc,Slope change (change in monthly trend),0.01831,0.00541,9e-4,***
-Adalimumab,A5: Newey-West HAC SEs,(Intercept),Baseline level,0.17576,0.00362,0,***
-Adalimumab,A5: Newey-West HAC SEs,time,Pre-intervention monthly trend,0.00205,3.9e-4,0,***
-Adalimumab,A5: Newey-West HAC SEs,post_price_cut,Step change (immediate level shift),-0.01799,0.00542,0.0019,**
-Adalimumab,A5: Newey-West HAC SEs,time_after_price_cut,Slope change (change in monthly trend),0.00312,8.6e-4,8e-4,***
+Rituximab,R5: Newey-West HAC SEs,post_delist_iv,Step change (immediate level shift),-0.00321,0.00261,0.2211,
+Rituximab,R5: Newey-West HAC SEs,time_after_delist_iv,Slope change (change in monthly trend),8.1e-4,2.5e-4,0.0012,**
+Rituximab,R5: Newey-West HAC SEs,post_delist_sc,Step change (immediate level shift),0.2097,0.17941,0.2439,
+Rituximab,R5: Newey-West HAC SEs,time_after_delist_sc,Slope change (change in monthly trend),0.01738,0.00531,0.0013,**
+Adalimumab,A5: Newey-West HAC SEs,(Intercept),Baseline level,0.16678,0.00225,0,***
+Adalimumab,A5: Newey-West HAC SEs,time,Pre-intervention monthly trend,0.00275,3.3e-4,0,***
+Adalimumab,A5: Newey-West HAC SEs,post_price_cut,Step change (immediate level shift),-0.02022,0.00592,0.0014,**
+Adalimumab,A5: Newey-West HAC SEs,time_after_price_cut,Slope change (change in monthly trend),0.00242,8.1e-4,0.0045,**
 Adalimumab,A5: Newey-West HAC SEs,post_streamlined,Step change (immediate level shift),0.02537,0.01116,0.0284,*
 Adalimumab,A5: Newey-West HAC SEs,time_after_streamlined,Slope change (change in monthly trend),-0.00647,0.00093000000000000005,0,***

@@ -789,20 +789,56 @@ if (nrow(ms_state) > 0) {
 
 cli_h1("10. International benchmarking")
 
-# Published OECD/IQVIA biosimilar market shares (volume-based)
+# Published biosimilar market shares (volume-based).
+#
+# ── 2026-09-13 PROVENANCE AUDIT ──────────────────────────────────────────────
+# The adalimumab rows were re-sourced after tracing every citation. Findings:
+#
+#   * "OECD average 0.67 / OECD Health Statistics 2023" was NOT an adalimumab
+#     figure. It is OECD Health at a Glance 2023 Figure 9.8, "Biosimilar market
+#     share in treatment days for erythropoietins and tumour necrosis factor
+#     inhibitors" — the TNF-INHIBITOR CLASS (adalimumab + etanercept +
+#     infliximab + golimumab + certolizumab), in TREATMENT DAYS, on an
+#     accessible-market basis, for 2021-22, averaged over 21 European OECD
+#     members. Australia is not in the panel. StatLink https://stat.link/bamdtz
+#     gives OECD21 = 66.64%. Not comparable to an Australian adalimumab
+#     prescription share, so it is removed as a benchmark.
+#   * "Germany 0.82 / IQVIA BioDrugs 2024" and "Canada 0.72 / PMPRB 2023" are
+#     superseded by exact adalimumab-retail-2023 values from Tam et al.
+#     (BioDrugs 2025;39(3):461-476, doi 10.1007/s40259-025-00709-1, Table 2):
+#     Germany 77.4% (25,488,822/32,932,765 DDD, 7 biosimilars), Canada 65.1%
+#     (13,387,766/20,576,539 DDD, 8 biosimilars). Tam defines uptake as
+#     biosimilar sales volume / (biosimilar + originator) volume, measured in
+#     defined daily doses, split retail vs hospital — the closest published
+#     basis to this study's prescription share.
+#   * Denmark 0.98, Norway 0.95, UK 0.92, France 0.55, New Zealand 0.85 and
+#     USA 0.15 could NOT be verified against the sources cited for them. The
+#     Denmark and Norway values do not match OECD Fig 9.8 (Denmark 97.35%,
+#     Norway 87.40%, both TNF-class not adalimumab), and "IQVIA BioDrugs 2024"
+#     does not correspond to Tam (BioDrugs 2025). They are commented out rather
+#     than deleted, pending re-sourcing. Do NOT restore them without a verified
+#     citation — writing an unverifiable number into a figure is the same
+#     defect as writing one into the text.
+#
+# Tam reports the adalimumab-retail ranking at Q4 2023 as: highest Norway,
+# Sweden, Germany; lowest Switzerland, Australia, Japan. Every country other
+# than Germany and Canada appears only as a plotted line in Tam Figure 1f, so
+# their values cannot be read off without fabricating precision.
+# ─────────────────────────────────────────────────────────────────────────────
 international_benchmarks <- tribble(
   ~country,       ~molecule,      ~share,  ~year,  ~source,
-  # Adalimumab
-  "Denmark",      "adalimumab",   0.98,    2023,   "OECD Health at a Glance 2023",
-  "Norway",       "adalimumab",   0.95,    2023,   "OECD Health at a Glance 2023",
-  "UK",           "adalimumab",   0.92,    2023,   "IQVIA BioDrugs 2024",
-  "Germany",      "adalimumab",   0.82,    2023,   "IQVIA BioDrugs 2024",
-  "France",       "adalimumab",   0.55,    2023,   "IQVIA BioDrugs 2024",
-  "Canada",       "adalimumab",   0.72,    2023,   "PMPRB Annual Report 2023",
-  "New Zealand",  "adalimumab",   0.85,    2023,   "Pharmac Annual Report 2023",
-  "USA",          "adalimumab",   0.15,    2024,   "IQVIA estimate (Humira patent cliff Jan 2023)",
-  "OECD average", "adalimumab",   0.67,    2023,   "OECD Health Statistics 2023",
+  # Adalimumab — exact, verified, adalimumab-specific, retail setting
+  "Germany",      "adalimumab",   0.774,   2023,   "Tam et al. BioDrugs 2025, Table 2 (retail)",
+  "Canada",       "adalimumab",   0.651,   2023,   "Tam et al. BioDrugs 2025, Table 2 (retail)",
   "Australia",    "adalimumab",   0.20,    2025,   "PBS Date of Supply (this study)",
+  # UNVERIFIED — re-source before use:
+  # "Denmark",      "adalimumab",   0.98,    2023,   "cited to OECD HaG 2023; not in that source"
+  # "Norway",       "adalimumab",   0.95,    2023,   "cited to OECD HaG 2023; not in that source"
+  # "UK",           "adalimumab",   0.92,    2023,   "cited to 'IQVIA BioDrugs 2024'; no such source"
+  # "France",       "adalimumab",   0.55,    2023,   "cited to 'IQVIA BioDrugs 2024'; no such source"
+  # "New Zealand",  "adalimumab",   0.85,    2023,   "Pharmac Annual Report 2023 — not checked"
+  # "USA",          "adalimumab",   0.15,    2024,   "described in source field as an estimate"
+  # "OECD average", "adalimumab",   0.67,    2023,   "TNF class in treatment days, not adalimumab"
   # Infliximab
   "Denmark",      "infliximab",   0.99,    2023,   "OECD Health at a Glance 2023",
   "Norway",       "infliximab",   0.99,    2023,   "OECD Health at a Glance 2023",
@@ -841,9 +877,9 @@ p_intl <- ggplot(adal_intl, aes(x = country, y = share, fill = is_australia)) +
                     guide = "none") +
   labs(
     title = "Adalimumab biosimilar market share: international comparison",
-    subtitle = "Volume-based biosimilar share. Australia (red) at 20% vs OECD average 67%.",
+    subtitle = "Adalimumab-specific, retail setting, 2023. Australia (red) at 20%; Germany 77.4%, Canada 65.1%.",
     x = NULL, y = "Biosimilar market share (volume-based)",
-    caption = "Sources: OECD Health at a Glance 2023, IQVIA BioDrugs 2024, PMPRB 2023, Pharmac 2023. Australia: this study (Nov 2025)."
+    caption = "Comparators: Tam et al. BioDrugs 2025, Table 2 (adalimumab, retail, 2023). Australia: this study (PBS DoS, Nov 2025)."
   ) +
   theme_pbs +
   theme(
@@ -871,7 +907,7 @@ cli_alert_info("Key descriptive findings:")
 cli_alert_info("  1. Rituximab: cleanest adoption curve, gradual 0% to 100% over ~24 months")
 cli_alert_info("  2. Adalimumab: stalled at ~20% despite 7 brands and multiple interventions")
 cli_alert_info("  3. Three adoption pathways: organic, delisting-forced, stalled")
-cli_alert_info("  4. Australia adalimumab (20%) vs OECD average (67%) = headline gap")
+cli_alert_info("  4. Australia adalimumab (20%) vs Germany 77.4% / Canada 65.1% (Tam 2025, retail) = headline gap")
 cli_alert_info("  5. State variation: SA leads (26%), TAS trails (11%) for adalimumab")
 cli_alert_info("")
 cli_alert_info("Next: Run 05_its_analysis.R for interrupted time series models")

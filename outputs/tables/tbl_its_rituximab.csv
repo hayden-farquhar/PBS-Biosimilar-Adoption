@@ -1,35 +1,35 @@
 model,term,estimate,std_error,t_value,p_value,sig
-R1: Listing only,(Intercept),0,0.022527,0,1,
-R1: Listing only,time,0,3.01e-4,0,1,
-R1: Listing only,post_listing,-0.19078,0.036937,-5.165,0,***
-R1: Listing only,time_after_listing,0.019707,7.55e-4,26.113,0,***
-R2: Listing + delisting(IV),(Intercept),-0,0.021668,-0,1,
-R2: Listing + delisting(IV),time,0,2.89e-4,0,1,
-R2: Listing + delisting(IV),post_listing,-0.003037,0.059438,-0.051,0.9593,
-R2: Listing + delisting(IV),time_after_listing,0.00241,0.005565,0.433,0.6655,
-R2: Listing + delisting(IV),post_delist_iv,0.04378,0.068266,0.641,0.5221,
-R2: Listing + delisting(IV),time_after_delist_iv,0.019723,0.005649,3.491,6e-4,***
-R3: Listing + both delistings,(Intercept),-0,0.021438,-0,1,
-R3: Listing + both delistings,time,0,2.86e-4,0,1,
-R3: Listing + both delistings,post_listing,-0.003037,0.058805,-0.052,0.9589,
-R3: Listing + both delistings,time_after_listing,0.00241,0.005506,0.438,0.6621,
-R3: Listing + both delistings,post_delist_iv,-0.002112,0.105907,-0.02,0.9841,
-R3: Listing + both delistings,time_after_delist_iv,-9.8e-5,0.029451,-0.003,0.9974,
-R3: Listing + both delistings,post_delist_sc,0.213184,0.117617,1.813,0.0714,.
-R3: Listing + both delistings,time_after_delist_sc,0.018314,0.028957,0.632,0.5278,
-R4: GLS AR(1),(Intercept),2.5e-5,11.575042,0,1,
-R4: GLS AR(1),time,0,0.002924,0,1,
-R4: GLS AR(1),post_listing,0,0.033217000000000003,0,1,
-R4: GLS AR(1),time_after_listing,0.001859,0.008541,0.218,0.8279,
-R4: GLS AR(1),post_delist_iv,0.004507,0.034047,0.132,0.8948,
-R4: GLS AR(1),time_after_delist_iv,-5.28e-4,0.016833,-0.031,0.975,
-R4: GLS AR(1),post_delist_sc,0.012104,0.036246,0.334,0.7388,
-R4: GLS AR(1),time_after_delist_sc,0.017892,0.015534,1.152,0.2508,
-R5: Newey-West SEs,(Intercept),-0,NA,NA,NA,
-R5: Newey-West SEs,time,0,0,0,1,
+R1: Listing only,(Intercept),0,0.022488,0,1,
+R1: Listing only,time,-0,3e-4,-0,1,
+R1: Listing only,post_listing,-0.190298,0.036874,-5.161,0,***
+R1: Listing only,time_after_listing,0.019701,7.53e-4,26.15,0,***
+R2: Listing + delisting(IV),(Intercept),0,0.021637,0,1,
+R2: Listing + delisting(IV),time,-0,2.89e-4,-0,1,
+R2: Listing + delisting(IV),post_listing,-0.003037,0.059351,-0.051,0.9592,
+R2: Listing + delisting(IV),time_after_listing,0.00241,0.005557,0.434,0.665,
+R2: Listing + delisting(IV),post_delist_iv,0.044843,0.068166,0.658,0.5114,
+R2: Listing + delisting(IV),time_after_delist_iv,0.019698,0.005641,3.492,6e-4,***
+R3: Listing + both delistings,(Intercept),0,0.021409,0,1,
+R3: Listing + both delistings,time,-0,2.86e-4,-0,1,
+R3: Listing + both delistings,post_listing,-0.003037,0.058726,-0.052,0.9588,
+R3: Listing + both delistings,time_after_listing,0.00241,0.005499,0.438,0.6617,
+R3: Listing + both delistings,post_delist_iv,-0.00321,0.105764,-0.03,0.9758,
+R3: Listing + both delistings,time_after_delist_iv,8.09e-4,0.029411,0.028,0.9781,
+R3: Listing + both delistings,post_delist_sc,0.209697,0.117458,1.785,0.0758,.
+R3: Listing + both delistings,time_after_delist_sc,0.017383,0.028918,0.601,0.5485,
+R4: GLS AR(1),(Intercept),2.5e-5,11.526854,0,1,
+R4: GLS AR(1),time,0,0.002925,0,1,
+R4: GLS AR(1),post_listing,0,0.033231,0,1,
+R4: GLS AR(1),time_after_listing,0.001859,0.008545,0.218,0.828,
+R4: GLS AR(1),post_delist_iv,0.004507,0.034062,0.132,0.8949,
+R4: GLS AR(1),time_after_delist_iv,0.001083,0.016841,0.064,0.9488,
+R4: GLS AR(1),post_delist_sc,0.003547,0.036262,0.098,0.9222,
+R4: GLS AR(1),time_after_delist_sc,0.016259,0.015541,1.046,0.2968,
+R5: Newey-West SEs,(Intercept),0,NA,NA,NA,
+R5: Newey-West SEs,time,-0,NA,NA,NA,
 R5: Newey-West SEs,post_listing,-0.003037,0.00214,-1.419,0.1575,
 R5: Newey-West SEs,time_after_listing,0.00241,2.12e-4,11.355,0,***
-R5: Newey-West SEs,post_delist_iv,-0.002112,0.002437,-0.866,0.3873,
-R5: Newey-West SEs,time_after_delist_iv,-9.8e-5,5.07e-4,-0.193,0.8471,
-R5: Newey-West SEs,post_delist_sc,0.213184,0.179407,1.188,0.2362,
-R5: Newey-West SEs,time_after_delist_sc,0.018314,0.005414,3.383,9e-4,***
+R5: Newey-West SEs,post_delist_iv,-0.00321,0.002614,-1.228,0.2211,
+R5: Newey-West SEs,time_after_delist_iv,8.09e-4,2.45e-4,3.3,0.0012,**
+R5: Newey-West SEs,post_delist_sc,0.209697,0.179412,1.169,0.2439,
+R5: Newey-West SEs,time_after_delist_sc,0.017383,0.005308,3.275,0.0013,**

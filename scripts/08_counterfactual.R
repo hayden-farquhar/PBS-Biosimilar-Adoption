@@ -43,7 +43,9 @@ theme_pbs <- theme_minimal(base_size = 13) +
 save_fig <- function(p, name, w = 10, h = 6) {
   ggsave(here("outputs", "figures", paste0(name, ".png")), p,
          width = w, height = h, dpi = 300, bg = "white")
-  cli_alert_success("Saved {name}.png ({w}x{h})")
+  ggsave(here("outputs", "figures", paste0(name, ".pdf")), p,
+         width = w, height = h, bg = "white")
+  cli_alert_success("Saved {name}.png + .pdf ({w}x{h})")
 }
 
 
@@ -128,14 +130,24 @@ avg_copayment <- 12
 cli_h1("3. Counterfactual scenarios")
 
 # Define counterfactual biosimilar share targets
+# Re-based 2026-09-13 to adalimumab-specific, retail-setting, 2023 benchmarks.
+# The former scenarios mixed bases: "OECD average 0.67" was the TNF-INHIBITOR
+# CLASS in treatment days (OECD Health at a Glance 2023, Fig 9.8, OECD21 =
+# 66.64%, 21 European countries, Australia not among them), while the EU5 row
+# was built from adalimumab-specific figures. Comparing an Australian
+# adalimumab prescription share against a class-level treatment-days average
+# overstates the gap. Both retained scenarios are exact values from Tam et al.,
+# BioDrugs 2025;39(3):461-476, doi 10.1007/s40259-025-00709-1, Table 2 —
+# adalimumab, retail setting, 2023, uptake defined as biosimilar sales volume
+# over biosimilar-plus-originator volume in defined daily doses.
+# Nordic / EU5 / New Zealand scenarios are dropped: Tam prints values only for
+# the Germany-Canada pair, and every other country appears solely as a line in
+# Figure 1f, so restoring them would mean reading numbers off a chart.
 scenarios <- tribble(
   ~scenario,              ~target_share, ~description,
   "Australia (actual)",   0.204,         "Observed Nov 2025",
-  "OECD average",         0.67,          "OECD Health Statistics 2023",
-  "EU5 average",          0.77,          "Weighted avg: UK 92%, DE 82%, FR 55%, IT 75%, ES 80%",
-  "Nordic average",       0.96,          "Denmark 98%, Norway 95%, Sweden ~95%",
-  "Canada",               0.72,          "PMPRB Annual Report 2023",
-  "New Zealand",          0.85,          "Pharmac Annual Report 2023"
+  "Germany",              0.774,         "Tam 2025 Table 2: adalimumab, retail, 2023 (25,488,822/32,932,765 DDD)",
+  "Canada",               0.651,         "Tam 2025 Table 2: adalimumab, retail, 2023 (13,387,766/20,576,539 DDD)"
 )
 
 
@@ -217,13 +229,20 @@ cli_h1("5. Cumulative historical savings")
 #   Listing → 25% within 6 months, 50% within 12 months, 67% within 24 months
 # Australia: 20% after 56 months (still below OECD 24-month level)
 
-# Model OECD-average trajectory as logistic curve
+# Model the counterfactual adoption trajectory as a logistic curve
 # Share(t) = K / (1 + exp(-r * (t - t_mid)))
-# where t = months since listing, K = 0.80 (long-run share), r = 0.25, t_mid = 8
-
-oecd_logistic <- function(months_since_listing, K = 0.80, r = 0.25, t_mid = 8) {
+#
+# K was 0.80 while the resulting cumulative figure was reported and captioned as
+# the "OECD-average (67%)" scenario — two different counterfactuals presented as
+# one, inflating the cumulative total by roughly 31% against its stated basis.
+# K is now the Germany adalimumab-retail benchmark (Tam 2025 Table 2, 77.4%),
+# matching the primary scenario above. r and t_mid are unchanged; they remain
+# stylised shape parameters, not fitted quantities, and must be described as
+# such in the Methods and Limitations.
+benchmark_logistic <- function(months_since_listing, K = 0.774, r = 0.25, t_mid = 8) {
   K / (1 + exp(-r * (months_since_listing - t_mid)))
 }
+oecd_logistic <- benchmark_logistic   # retained so downstream calls keep working
 
 # Adalimumab DoS data starts Jul 2021 (listing was Apr 2021)
 adal_ts <- ms_national %>%
@@ -273,7 +292,7 @@ cli_h1("6. Multi-molecule aggregate")
 
 molecule_gaps <- tribble(
   ~molecule,        ~aus_share, ~oecd_share, ~annual_rx,    ~ref_price, ~bio_price,
-  "adalimumab",     0.204,      0.67,        annual_total_rx, 619,       577,
+  "adalimumab",     0.204,      0.774,       annual_total_rx, 619,       577,
   "trastuzumab",    0.818,      0.80,        5222 * 12,       1800,      1650,
   "etanercept",     0.989,      0.70,        8759 * 12,       580,       540
 ) %>%
@@ -318,12 +337,11 @@ p_cf <- ggplot(adal_ts, aes(x = period)) +
   geom_line(aes(y = biosimilar_share, colour = "Australia (actual)"),
             linewidth = 1.2) +
   # OECD counterfactual
-  geom_line(aes(y = cf_oecd_share, colour = "OECD-average trajectory"),
+  geom_line(aes(y = cf_oecd_share, colour = "German-uptake trajectory"),
             linewidth = 1.1, linetype = "dashed") +
-  # Horizontal benchmarks
-  geom_hline(yintercept = 0.67, linetype = "dotted", colour = "grey50") +
-  annotate("text", x = ymd("2025-06-01"), y = 0.69,
-           label = "OECD average (67%)", size = 3.5, colour = "grey40") +
+  # No OECD reference line: the OECD Health at a Glance biosimilar indicator is
+  # a TNF-class figure in treatment days and is not commensurable with an
+  # Australian adalimumab prescription share (see Methods).
   # Policy annotations
   geom_vline(xintercept = ymd("2023-04-01"), linetype = "dashed",
              colour = "grey60", linewidth = 0.5) +
@@ -336,14 +354,14 @@ p_cf <- ggplot(adal_ts, aes(x = period)) +
   scale_y_continuous(labels = percent_format(accuracy = 1),
                      limits = c(0, 0.85), expand = c(0, 0)) +
   scale_colour_manual(values = c("Australia (actual)" = "#2166AC",
-                                 "OECD-average trajectory" = "#B2182B")) +
+                                 "German-uptake trajectory" = "#B2182B")) +
   labs(
-    title = "Adalimumab: actual vs counterfactual OECD-average adoption",
+    title = "Adalimumab: actual uptake versus a German-uptake counterfactual",
     subtitle = glue("Shaded area represents the adoption gap. ",
                     "Cumulative foregone savings: ${round(total_cumulative / 1e6, 1)}M (Jul 2021 \u2013 Nov 2025)."),
     x = NULL, y = "Biosimilar market share",
     colour = NULL,
-    caption = "OECD trajectory modelled as logistic curve (K=0.80, midpoint=8 months) calibrated to published EU adoption curves.\nAustralia: PBS Date of Supply data. Prices: PBS DPMQ pre/post April 2023 statutory price reduction."
+    caption = "Counterfactual modelled as a logistic curve with long-run share K=0.774, the German adalimumab retail uptake for 2023 (Tam et al. 2025);\nmidpoint 8 months. Shape parameters are stylised, not fitted. Australia: PBS Date of Supply. Prices: PBS DPMQ, pre/post April 2023 regime."
   ) +
   theme_pbs +
   theme(legend.position = c(0.3, 0.85))
@@ -461,11 +479,7 @@ p_traj <- ggplot(trajectory_data %>% filter(country != "Australia"),
             colour = "#B2182B", linewidth = 1.5, inherit.aes = FALSE) +
   annotate("text", x = 57, y = 0.19, label = "Australia",
            colour = "#B2182B", fontface = "bold", size = 4, hjust = 0) +
-  # OECD average line
-  geom_hline(yintercept = 0.67, linetype = "dotted", colour = "grey50") +
-  annotate("text", x = 2, y = 0.69, label = "OECD average",
-           size = 3.5, colour = "grey50", hjust = 0) +
-  scale_y_continuous(labels = percent_format(accuracy = 1),
+    scale_y_continuous(labels = percent_format(accuracy = 1),
                      limits = c(0, 1), expand = c(0, 0)) +
   scale_x_continuous(breaks = seq(0, 60, 12),
                      labels = paste0(seq(0, 60, 12), " mo")) +
@@ -554,7 +568,7 @@ cli_h1("10. Sensitivity analysis")
 # Vary key assumptions
 sensitivity <- expand_grid(
   price_gap_pct = c(0.05, 0.07, 0.10, 0.15),  # % difference ref vs bio
-  target_share = c(0.50, 0.67, 0.80, 0.95)
+  target_share = c(0.50, 0.651, 0.774, 0.95)
 ) %>%
   mutate(
     # Convert price gap % to dollar amount using average DPMQ ~$600

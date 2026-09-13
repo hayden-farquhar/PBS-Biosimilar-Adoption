@@ -1,13 +1,6 @@
 country,molecule,share,year,source
-Denmark,adalimumab,0.98,2023,OECD Health at a Glance 2023
-Norway,adalimumab,0.95,2023,OECD Health at a Glance 2023
-UK,adalimumab,0.92,2023,IQVIA BioDrugs 2024
-Germany,adalimumab,0.82,2023,IQVIA BioDrugs 2024
-France,adalimumab,0.55,2023,IQVIA BioDrugs 2024
-Canada,adalimumab,0.72,2023,PMPRB Annual Report 2023
-New Zealand,adalimumab,0.85,2023,Pharmac Annual Report 2023
-USA,adalimumab,0.15,2024,IQVIA estimate (Humira patent cliff Jan 2023)
-OECD average,adalimumab,0.67,2023,OECD Health Statistics 2023
+Germany,adalimumab,0.774,2023,"Tam et al. BioDrugs 2025, Table 2 (retail)"
+Canada,adalimumab,0.651,2023,"Tam et al. BioDrugs 2025, Table 2 (retail)"
 Australia,adalimumab,0.2,2025,PBS Date of Supply (this study)
 Denmark,infliximab,0.99,2023,OECD Health at a Glance 2023
 Norway,infliximab,0.99,2023,OECD Health at a Glance 2023

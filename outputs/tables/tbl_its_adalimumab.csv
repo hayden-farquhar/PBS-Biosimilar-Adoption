@@ -1,27 +1,27 @@
 model,term,estimate,std_error,t_value,p_value,sig
-A1: Price cut only,(Intercept),0.175761,0.009471,18.557,0,***
-A1: Price cut only,time,0.002049,0.001042,1.967,0.0557,.
-A1: Price cut only,post_price_cut,0.014961,0.011223,1.333,0.1896,
-A1: Price cut only,time_after_price_cut,-0.001639,0.001094,-1.498,0.1415,
-A2: Streamlined authority only,(Intercept),0.177759,0.005207,34.141,0,***
-A2: Streamlined authority only,time,0.001636,3.96e-4,4.128,2e-4,***
-A2: Streamlined authority only,post_streamlined,0.036724,0.006935,5.296,0,***
-A2: Streamlined authority only,time_after_streamlined,-0.002937,5.14e-4,-5.714,0,***
-A3: Price cut + streamlined,(Intercept),0.175761,0.006297,27.912,0,***
-A3: Price cut + streamlined,time,0.002049,6.93e-4,2.958,0.0051,**
-A3: Price cut + streamlined,post_price_cut,-0.017988,0.0101,-1.781,0.0823,.
-A3: Price cut + streamlined,time_after_price_cut,0.003124,0.002297,1.36,0.1813,
-A3: Price cut + streamlined,post_streamlined,0.025365,0.010779,2.353,0.0235,*
-A3: Price cut + streamlined,time_after_streamlined,-0.006472,0.002214,-2.924,0.0056,**
-A4: GLS AR(1),(Intercept),0.169082,1.521447,0.111,0.9121,
-A4: GLS AR(1),time,0.001914,0.002243,0.853,0.3985,
-A4: GLS AR(1),post_price_cut,-0.005274,0.008687,-0.607,0.5471,
-A4: GLS AR(1),time_after_price_cut,0.003137,0.004095,0.766,0.448,
-A4: GLS AR(1),post_streamlined,-2.55e-4,0.009064,-0.028,0.9777,
-A4: GLS AR(1),time_after_streamlined,-0.006117,0.00383,-1.597,0.118,
-A5: Newey-West SEs,(Intercept),0.175761,0.003617,48.597,0,***
-A5: Newey-West SEs,time,0.002049,3.87e-4,5.296,0,***
-A5: Newey-West SEs,post_price_cut,-0.017988,0.005417,-3.321,0.0019,**
-A5: Newey-West SEs,time_after_price_cut,0.003124,8.6e-4,3.633,8e-4,***
+A1: Price cut only,(Intercept),0.166777,0.009328,17.879,0,***
+A1: Price cut only,time,0.00275,0.001026,2.68,0.0104,*
+A1: Price cut only,post_price_cut,0.012725,0.011054,1.151,0.256,
+A1: Price cut only,time_after_price_cut,-0.00234,0.001077,-2.172,0.0354,*
+A2: Streamlined authority only,(Intercept),0.170607,0.005062,33.702,0,***
+A2: Streamlined authority only,time,0.002058,3.85e-4,5.34,0,***
+A2: Streamlined authority only,post_streamlined,0.034174,0.006742,5.069,0,***
+A2: Streamlined authority only,time_after_streamlined,-0.003359,5e-4,-6.721,0,***
+A3: Price cut + streamlined,(Intercept),0.166777,0.006069,27.481,0,***
+A3: Price cut + streamlined,time,0.00275,6.67e-4,4.12,2e-4,***
+A3: Price cut + streamlined,post_price_cut,-0.020224,0.009734,-2.078,0.044,*
+A3: Price cut + streamlined,time_after_price_cut,0.002422,0.002214,1.094,0.2803,
+A3: Price cut + streamlined,post_streamlined,0.025365,0.010388,2.442,0.019,*
+A3: Price cut + streamlined,time_after_streamlined,-0.006472,0.002133,-3.034,0.0042,**
+A4: GLS AR(1),(Intercept),0.164396,1.51022,0.109,0.9138,
+A4: GLS AR(1),time,0.002226,0.001851,1.202,0.2362,
+A4: GLS AR(1),post_price_cut,-0.005587,0.007171,-0.779,0.4404,
+A4: GLS AR(1),time_after_price_cut,0.002825,0.00338,0.836,0.4082,
+A4: GLS AR(1),post_streamlined,-2.55e-4,0.007483,-0.034,0.973,
+A4: GLS AR(1),time_after_streamlined,-0.006117,0.003162,-1.934,0.06,.
+A5: Newey-West SEs,(Intercept),0.166777,0.002251,74.106,0,***
+A5: Newey-West SEs,time,0.00275,3.31e-4,8.318,0,***
+A5: Newey-West SEs,post_price_cut,-0.020224,0.005919,-3.417,0.0014,**
+A5: Newey-West SEs,time_after_price_cut,0.002422,8.05e-4,3.009,0.0045,**
 A5: Newey-West SEs,post_streamlined,0.025365,0.011163,2.272,0.0284,*
 A5: Newey-West SEs,time_after_streamlined,-0.006472,9.33e-4,-6.94,0,***

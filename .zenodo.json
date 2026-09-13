@@ -1,0 +1,25 @@
+{
+  "title": "Reference Product Delisting Drives Biosimilar Adoption in Australia: replication code and data",
+  "description": "Replication code and processed data for an analysis of Pharmaceutical Benefits Scheme (PBS) biosimilar policy and biosimilar market share in Australia, January 2009 to November 2025. Applies interrupted time series segmented regression, regression discontinuity in time, Bayesian structural time series, and Bai-Perron structural break detection to PBS prescribing data for 10 biologic molecules, with an exposure-weighted counterfactual expenditure analysis for adalimumab.",
+  "upload_type": "software",
+  "license": "MIT",
+  "access_right": "open",
+  "creators": [
+    {
+      "name": "Farquhar, Hayden",
+      "orcid": "0009-0002-6226-440X",
+      "affiliation": "Independent Researcher"
+    }
+  ],
+  "keywords": [
+    "biosimilar",
+    "Pharmaceutical Benefits Scheme",
+    "interrupted time series",
+    "regression discontinuity",
+    "structural break detection",
+    "pharmaceutical policy",
+    "health economics",
+    "Australia"
+  ],
+  "language": "eng"
+}

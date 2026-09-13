@@ -174,7 +174,28 @@ cli_alert_info("Date range: {min(classified_data$period)} to {max(classified_dat
 cli_h1("Step 2: National market share")
 
 # Aggregate prescriptions by molecule x type x period (national)
-national_agg <- classified_data %>%
+#
+# MUST filter to state == "National" before aggregating. The two sources are
+# shaped differently: DoS carries only National rows, whereas Medicare
+# Statistics carries a National row AND eight jurisdiction rows that sum to the
+# same total. Aggregating without this filter counted every Medicare-era month
+# (Jan 2009 - Jun 2022) exactly twice, while DoS-era months (Jul 2022 onward)
+# were counted once — producing an apparent halving of volumes at Jul 2022 that
+# is an artefact, not a market change. Verified on adalimumab, Jun 2022:
+# National = 27,091; the eight jurisdictions also sum to 27,091; the unfiltered
+# aggregation returned 54,182. The state-level block below already filters
+# correctly (state != "National"); this block did not.
+national_rows <- classified_data %>% filter(state == "National")
+
+if (nrow(national_rows) == 0) {
+  cli_alert_danger("No rows with state == 'National' — cannot build the national series.")
+  stop("Missing National-level rows", call. = FALSE)
+}
+
+dropped <- nrow(classified_data) - nrow(national_rows)
+cli_alert_info("National aggregation: kept {format(nrow(national_rows), big.mark = ',')} National rows, excluded {format(dropped, big.mark = ',')} jurisdiction rows")
+
+national_agg <- national_rows %>%
   group_by(molecule, type, period) %>%
   summarise(
     prescriptions = sum(prescriptions, na.rm = TRUE),

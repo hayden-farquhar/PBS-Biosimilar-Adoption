@@ -1,11 +1,11 @@
 molecule,first_period,last_period,n_months,mean_monthly_rx,latest_total_rx,latest_biosimilar_share,max_biosimilar_share,first_listing,n_interventions,n_biosimilar_brands,has_a_flag,has_streamlined,has_delisting,reliability,molecule_class,therapeutic_area,dispensing_setting
-bevacizumab,2009-07-01,2025-11-01,197,5992,5765,1,1,2021-06-01,5,3,TRUE,FALSE,TRUE,post_delisting,anti-VEGF,oncology,hospital
+bevacizumab,2009-07-01,2025-11-01,197,3608,5765,1,1,2021-06-01,5,3,TRUE,FALSE,TRUE,post_delisting,anti-VEGF,oncology,hospital
 filgrastim,2021-07-01,2025-11-01,53,1833,2009,1,1,2011-04-01,6,4,TRUE,FALSE,TRUE,post_delisting,G-CSF,oncology supportive,community
 pegfilgrastim,2021-07-01,2025-11-01,53,3148,2165,1,1,2020-03-01,3,2,TRUE,FALSE,FALSE,post_delisting,pegylated G-CSF,oncology supportive,community
-rituximab,2009-01-01,2025-11-01,203,7178,4792,1,1,2019-10-01,7,3,TRUE,TRUE,TRUE,clean,anti-CD20,oncology/rheumatology,hospital
-infliximab,2009-01-01,2025-11-01,203,6969,9303,0.99978501558637,1,2015-12-01,8,4,TRUE,TRUE,FALSE,unreliable,anti-TNF,rheumatology/gastro,hospital
-etanercept,2009-01-01,2025-11-01,203,13676,8759,0.988925676447083,0.98955525606469,2017-04-01,6,3,TRUE,TRUE,FALSE,unreliable,anti-TNF,rheumatology,community
-trastuzumab,2009-01-01,2025-11-01,203,6750,5222,0.8180773649942551,0.8717902675525229,2019-08-01,5,4,TRUE,FALSE,FALSE,unreliable,anti-HER2,oncology,hospital
-adalimumab,2009-01-01,2025-11-01,203,30559,33564,0.20393874389226552,0.932927618800984,2021-04-01,9,5,TRUE,TRUE,FALSE,partial,anti-TNF,rheumatology/gastro/derm,community
-aflibercept,2012-12-01,2025-11-01,156,37527,38393,0,0,2026-02-01,2,1,TRUE,FALSE,FALSE,too_early,anti-VEGF,ophthalmology,hospital
+rituximab,2009-01-01,2025-11-01,203,4023,4792,1,1,2019-10-01,7,3,TRUE,TRUE,TRUE,clean,anti-CD20,oncology/rheumatology,hospital
+infliximab,2009-01-01,2025-11-01,203,4340,9303,0.99978501558637,1,2015-12-01,8,4,TRUE,TRUE,FALSE,unreliable,anti-TNF,rheumatology/gastro,hospital
+etanercept,2009-01-01,2025-11-01,203,7751,8759,0.988925676447083,0.98955525606469,2017-04-01,6,3,TRUE,TRUE,FALSE,unreliable,anti-TNF,rheumatology,community
+trastuzumab,2009-01-01,2025-11-01,203,3931,5222,0.8180773649942551,0.8717902675525229,2019-08-01,5,4,TRUE,FALSE,FALSE,unreliable,anti-HER2,oncology,hospital
+adalimumab,2009-01-01,2025-11-01,203,18393,33564,0.20393874389226552,0.932927618800984,2021-04-01,9,5,TRUE,TRUE,FALSE,partial,anti-TNF,rheumatology/gastro/derm,community
+aflibercept,2012-12-01,2025-11-01,156,23886,38393,0,0,2026-02-01,2,1,TRUE,FALSE,FALSE,too_early,anti-VEGF,ophthalmology,hospital
 insulin glargine,2021-07-01,2025-11-01,53,27603,28426,0,0,2019-10-01,3,1,TRUE,FALSE,TRUE,na,long-acting insulin,diabetes,community
