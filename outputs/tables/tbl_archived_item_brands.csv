@@ -1,0 +1,1035 @@
+molecule,item_number,snapshot_date,timestamp,brands,archived_class
+rituximab,13090Y,2022-09-27,20220927184201,Riximyo; Ruxience; Truxima,biosimilar_only
+rituximab,13090Y,2023-02-06,20230206225006,Riximyo; Ruxience; Truxima,biosimilar_only
+rituximab,13090Y,2025-02-12,20250212114109,Riximyo; Ruxience; Truxima,biosimilar_only
+rituximab,13090Y,2026-01-06,20260106042327,Riximyo; Ruxience; Truxima,biosimilar_only
+rituximab,07257Y,2019-04-21,20190421154452,Mabthera,reference_only
+rituximab,07257Y,2019-08-21,20190821085141,Mabthera,reference_only
+rituximab,07257Y,2020-01-08,20200108133535,Mabthera; Riximyo; Truxima,mixed
+rituximab,07257Y,2021-04-17,20210417205014,Riximyo; Truxima,biosimilar_only
+rituximab,07257Y,2022-06-28,20220628002425,Riximyo; Ruxience; Truxima,biosimilar_only
+rituximab,07257Y,2023-02-06,20230206224807,Riximyo; Ruxience; Truxima,biosimilar_only
+rituximab,13102N,2022-10-06,20221006073056,Riximyo; Ruxience; Truxima,biosimilar_only
+rituximab,13102N,2023-02-06,20230206220250,Riximyo; Ruxience; Truxima,biosimilar_only
+rituximab,13101M,2022-10-06,20221006074141,Riximyo; Ruxience; Truxima,biosimilar_only
+rituximab,13101M,2024-08-07,20240807022948,Riximyo; Ruxience; Truxima,biosimilar_only
+rituximab,04614W,2019-04-21,20190421154420,Mabthera,reference_only
+rituximab,04614W,2019-08-21,20190821085412,Mabthera,reference_only
+rituximab,04614W,2020-01-08,20200108135057,Mabthera; Riximyo; Truxima,mixed
+rituximab,04614W,2021-04-17,20210417204348,Riximyo; Truxima,biosimilar_only
+rituximab,04614W,2022-06-28,20220628001900,Riximyo; Ruxience; Truxima,biosimilar_only
+rituximab,04614W,2023-02-06,20230206223833,Riximyo; Ruxience; Truxima,biosimilar_only
+rituximab,13095F,2022-09-27,20220927163701,Riximyo; Ruxience; Truxima,biosimilar_only
+rituximab,13095F,2024-08-07,20240807034828,Riximyo; Ruxience; Truxima,biosimilar_only
+rituximab,13095F,2025-04-13,20250413092934,Riximyo; Ruxience; Truxima,biosimilar_only
+rituximab,10193L,2019-05-11,20190511104144,Mabthera,reference_only
+rituximab,10193L,2019-10-18,20191018204906,Mabthera; Riximyo,mixed
+rituximab,10193L,2020-01-14,20200114163245,Mabthera; Riximyo; Truxima,mixed
+rituximab,10193L,2021-04-17,20210417201332,Riximyo; Truxima,biosimilar_only
+rituximab,10193L,2022-06-27,20220627235210,Riximyo; Ruxience; Truxima,biosimilar_only
+rituximab,10193L,2023-02-05,20230205095259,Riximyo; Ruxience; Truxima,biosimilar_only
+rituximab,09544H,2019-05-11,20190511104250,Mabthera,reference_only
+rituximab,09544H,2019-10-18,20191018220357,Mabthera; Riximyo,mixed
+rituximab,09544H,2020-01-14,20200114150519,Mabthera; Riximyo,mixed
+rituximab,09544H,2021-04-14,20210414042943,Riximyo; Truxima,biosimilar_only
+rituximab,07258B,2019-04-21,20190421154430,Mabthera,reference_only
+rituximab,07258B,2019-08-21,20190821085536,Mabthera,reference_only
+rituximab,07258B,2020-01-08,20200108133450,Mabthera; Riximyo; Truxima,mixed
+rituximab,07258B,2021-04-17,20210417203722,Riximyo; Truxima,biosimilar_only
+rituximab,07258B,2022-06-28,20220628001542,Riximyo; Ruxience; Truxima,biosimilar_only
+rituximab,07258B,2023-02-06,20230206223152,Riximyo; Ruxience; Truxima,biosimilar_only
+rituximab,10703H,2019-05-11,20190511104210,Mabthera SC,reference_only
+rituximab,10703H,2019-11-13,20191113180858,Mabthera SC,reference_only
+rituximab,10703H,2020-01-14,20200114155903,Mabthera SC,reference_only
+rituximab,10703H,2021-04-17,20210417212126,Mabthera SC,reference_only
+rituximab,10179R,2019-05-11,20190511104139,Mabthera,reference_only
+rituximab,10179R,2019-10-18,20191018222152,Mabthera; Riximyo,mixed
+rituximab,10179R,2020-01-14,20200114171226,Mabthera; Riximyo; Truxima,mixed
+rituximab,10179R,2021-04-17,20210417211159,Riximyo; Truxima,biosimilar_only
+rituximab,10179R,2022-06-28,20220628221932,Riximyo; Ruxience; Truxima,biosimilar_only
+rituximab,10179R,2023-02-06,20230206223305,Riximyo; Ruxience; Truxima,biosimilar_only
+rituximab,09611W,2019-05-11,20190511104257,Mabthera,reference_only
+rituximab,09611W,2019-10-18,20191018204811,Mabthera; Riximyo,mixed
+rituximab,09611W,2020-01-14,20200114151757,Mabthera; Riximyo,mixed
+rituximab,09611W,2021-04-14,20210414053806,Riximyo; Truxima,biosimilar_only
+rituximab,04613T,2019-04-21,20190421154414,Mabthera,reference_only
+rituximab,04613T,2019-08-21,20190821085531,Mabthera,reference_only
+rituximab,04613T,2020-01-08,20200108133525,Mabthera; Riximyo; Truxima,mixed
+rituximab,04613T,2021-04-17,20210417212847,Riximyo; Truxima,biosimilar_only
+rituximab,04613T,2022-06-28,20220628005757,Riximyo; Ruxience; Truxima,biosimilar_only
+rituximab,04613T,2023-02-05,20230205114449,Riximyo; Ruxience; Truxima,biosimilar_only
+rituximab,11935E,2021-04-17,20210417201418,Riximyo; Truxima,biosimilar_only
+rituximab,11935E,2022-06-27,20220627235247,Riximyo; Ruxience; Truxima,biosimilar_only
+rituximab,11805H,2019-10-14,20191014214648,Riximyo,biosimilar_only
+rituximab,11805H,2020-02-22,20200222085450,Riximyo; Truxima,biosimilar_only
+rituximab,11805H,2021-06-14,20210614140836,Riximyo; Truxima,biosimilar_only
+rituximab,10593M,2019-05-11,20190511104204,Mabthera,reference_only
+rituximab,10593M,2019-10-18,20191018210533,Mabthera; Riximyo,mixed
+rituximab,10593M,2020-01-14,20200114152743,Mabthera; Riximyo,mixed
+rituximab,10593M,2021-04-14,20210414051007,Riximyo; Truxima,biosimilar_only
+rituximab,10593M,2022-06-28,20220628215456,Riximyo; Ruxience; Truxima,biosimilar_only
+rituximab,13082M,2022-09-27,20220927181041,Riximyo; Truxima,biosimilar_only
+rituximab,13082M,2023-02-06,20230206221847,Riximyo; Truxima,biosimilar_only
+rituximab,13082M,2024-04-02,20240402204736,Riximyo; Truxima,biosimilar_only
+rituximab,07259C,2019-04-21,20190421154518,Mabthera,reference_only
+rituximab,07259C,2019-08-21,20190821085146,Mabthera,reference_only
+rituximab,07259C,2020-01-08,20200108134646,Mabthera; Riximyo; Truxima,mixed
+rituximab,07259C,2021-04-17,20210417194434,Riximyo; Truxima,biosimilar_only
+rituximab,07259C,2022-06-27,20220627231434,Riximyo; Ruxience; Truxima,biosimilar_only
+rituximab,07259C,2023-02-05,20230205095540,Riximyo; Ruxience; Truxima,biosimilar_only
+rituximab,10742J,2019-05-11,20190511104245,Mabthera SC,reference_only
+rituximab,10742J,2019-11-13,20191113010927,Mabthera SC,reference_only
+rituximab,10742J,2020-01-14,20200114152534,Mabthera SC,reference_only
+rituximab,10742J,2021-04-17,20210417211625,Mabthera SC,reference_only
+rituximab,10741H,2019-05-11,20190511104240,Mabthera SC,reference_only
+rituximab,10741H,2019-11-13,20191113011321,Mabthera SC,reference_only
+rituximab,10741H,2020-01-14,20200114154757,Mabthera SC,reference_only
+rituximab,10741H,2021-04-17,20210417192939,Mabthera SC,reference_only
+rituximab,11936F,2021-04-17,20210417200216,Riximyo; Truxima,biosimilar_only
+rituximab,11936F,2022-06-27,20220627234130,Riximyo; Ruxience; Truxima,biosimilar_only
+rituximab,11790M,2019-10-14,20191014210459,Riximyo,biosimilar_only
+rituximab,11790M,2020-02-22,20200222085240,Riximyo; Truxima,biosimilar_only
+rituximab,11790M,2021-06-14,20210614161346,Riximyo; Truxima,biosimilar_only
+rituximab,10576P,2019-05-11,20190511104149,Mabthera,reference_only
+rituximab,10576P,2019-10-18,20191018211206,Mabthera; Riximyo,mixed
+rituximab,10576P,2020-01-14,20200114162912,Mabthera; Riximyo,mixed
+rituximab,10576P,2021-04-14,20210414043028,Riximyo; Truxima,biosimilar_only
+rituximab,10576P,2022-06-28,20220628211333,Riximyo; Ruxience; Truxima,biosimilar_only
+adalimumab,12390D,2021-06-13,20210613051306,Humira,reference_only
+adalimumab,12390D,2022-10-06,20221006070726,Humira,reference_only
+adalimumab,12390D,2023-03-17,20230317193413,Humira; Yuflyma,mixed
+adalimumab,12390D,2024-10-31,20241031185802,Adalicip; Hadlima; Humira; Yuflyma,mixed
+adalimumab,12390D,2025-01-26,20250126151817,Adalicip; Hadlima; Humira; Hyrimoz; Yuflyma,mixed
+adalimumab,12389C,2021-06-13,20210613045154,Humira,reference_only
+adalimumab,12389C,2022-12-01,20221201173946,Humira,reference_only
+adalimumab,12389C,2023-03-17,20230317193406,Humira; Yuflyma,mixed
+adalimumab,12389C,2024-08-03,20240803124520,Adalicip; Humira; Yuflyma,mixed
+adalimumab,12389C,2025-03-20,20250320205407,Adalicip; Hadlima; Humira; Hyrimoz; Yuflyma,mixed
+adalimumab,12375H,2021-10-18,20211018182201,Humira,reference_only
+adalimumab,12375H,2022-12-01,20221201171419,Humira,reference_only
+adalimumab,12375H,2023-03-17,20230317193313,Humira; Yuflyma,mixed
+adalimumab,12375H,2024-10-05,20241005103044,Adalicip; Hadlima; Humira; Yuflyma,mixed
+adalimumab,12375H,2025-03-20,20250320205343,Adalicip; Hadlima; Humira; Hyrimoz; Yuflyma,mixed
+adalimumab,12363Q,2021-09-24,20210924212145,Humira,reference_only
+adalimumab,12363Q,2022-10-18,20221018035844,Humira,reference_only
+adalimumab,12363Q,2023-03-17,20230317193254,Humira; Yuflyma,mixed
+adalimumab,12363Q,2024-10-05,20241005092042,Adalicip; Hadlima; Humira; Yuflyma,mixed
+adalimumab,12363Q,2025-03-20,20250320205336,Adalicip; Hadlima; Humira; Hyrimoz; Yuflyma,mixed
+adalimumab,13227E,2023-03-17,20230317193147,Yuflyma,biosimilar_only
+adalimumab,13227E,2023-11-30,20231130044807,Humira; Yuflyma,mixed
+adalimumab,13227E,2024-10-31,20241031190023,Adalicip; Hadlima; Humira; Yuflyma,mixed
+adalimumab,13227E,2025-03-20,20250320205603,Adalicip; Hadlima; Humira; Hyrimoz; Yuflyma,mixed
+adalimumab,13227E,2025-08-09,20250809020602,Hadlima; Humira; Hyrimoz; Yuflyma,mixed
+adalimumab,13227E,2026-02-06,20260206214341,Hadlima; Humira; Hyrimoz; Yuflyma,mixed
+adalimumab,12446C,2021-09-24,20210924205636,Humira,reference_only
+adalimumab,12446C,2022-12-01,20221201174821,Humira,reference_only
+adalimumab,12446C,2023-03-17,20230317193613,Humira; Yuflyma,mixed
+adalimumab,12446C,2024-10-10,20241010164103,Adalicip; Hadlima; Humira; Yuflyma,mixed
+adalimumab,12446C,2025-03-20,20250320205504,Adalicip; Hadlima; Humira; Hyrimoz; Yuflyma,mixed
+adalimumab,12329X,2021-05-07,20210507224556,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12329X,2022-03-29,20220329052609,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12329X,2022-10-20,20221020104555,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12329X,2023-03-17,20230317194301,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12329X,2024-04-22,20240422193709,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12329X,2024-10-31,20241031190830,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,12329X,2025-04-16,20250416022218,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,12341M,2021-06-13,20210613055219,Humira,reference_only
+adalimumab,12341M,2022-12-01,20221201163435,Humira,reference_only
+adalimumab,12341M,2023-03-17,20230317193213,Humira; Yuflyma,mixed
+adalimumab,12341M,2024-08-03,20240803140723,Adalicip; Humira; Yuflyma,mixed
+adalimumab,12341M,2025-03-20,20250320205317,Adalicip; Hadlima; Humira; Hyrimoz; Yuflyma,mixed
+adalimumab,12429E,2021-06-13,20210613062205,Humira,reference_only
+adalimumab,12429E,2022-10-06,20221006083518,Humira,reference_only
+adalimumab,12429E,2023-03-17,20230317193542,Humira; Yuflyma,mixed
+adalimumab,12429E,2024-10-31,20241031185853,Adalicip; Hadlima; Humira; Yuflyma,mixed
+adalimumab,12429E,2025-03-20,20250320205451,Adalicip; Hadlima; Humira; Hyrimoz; Yuflyma,mixed
+adalimumab,12430F,2021-06-13,20210613045330,Humira,reference_only
+adalimumab,12430F,2022-10-06,20221006064631,Humira,reference_only
+adalimumab,12430F,2023-03-17,20230317193549,Humira; Yuflyma,mixed
+adalimumab,12430F,2024-10-31,20241031185855,Adalicip; Hadlima; Humira; Yuflyma,mixed
+adalimumab,12430F,2025-01-15,20250115215529,Adalicip; Hadlima; Humira; Yuflyma,mixed
+adalimumab,12410E,2021-06-13,20210613045457,Humira,reference_only
+adalimumab,12410E,2022-12-01,20221201174402,Humira,reference_only
+adalimumab,12410E,2023-03-17,20230317193452,Humira; Yuflyma,mixed
+adalimumab,12410E,2024-08-03,20240803124632,Adalicip; Humira; Yuflyma,mixed
+adalimumab,12410E,2025-03-20,20250320205427,Hadlima; Humira; Yuflyma,mixed
+adalimumab,12358K,2021-09-24,20210924215231,Humira,reference_only
+adalimumab,12358K,2022-12-01,20221201162858,Humira,reference_only
+adalimumab,12358K,2023-03-17,20230317193235,Humira; Yuflyma,mixed
+adalimumab,12358K,2024-08-04,20240804024637,Adalicip; Humira; Yuflyma,mixed
+adalimumab,12358K,2025-03-20,20250320205326,Adalicip; Hadlima; Humira; Hyrimoz; Yuflyma,mixed
+adalimumab,12362P,2021-10-18,20211018172748,Humira,reference_only
+adalimumab,12362P,2022-12-01,20221201160947,Humira,reference_only
+adalimumab,12362P,2023-03-17,20230317193250,Humira; Yuflyma,mixed
+adalimumab,12362P,2024-08-04,20240804015959,Adalicip; Humira; Yuflyma,mixed
+adalimumab,12362P,2025-03-20,20250320205333,Adalicip; Hadlima; Humira; Hyrimoz; Yuflyma,mixed
+adalimumab,12414J,2021-10-18,20211018175523,Humira,reference_only
+adalimumab,12414J,2022-03-29,20220329051504,Humira,reference_only
+adalimumab,12414J,2022-12-01,20221201164932,Humira,reference_only
+adalimumab,12414J,2023-03-17,20230317193516,Humira; Yuflyma,mixed
+adalimumab,12414J,2024-09-08,20240908232941,Adalicip; Humira; Yuflyma,mixed
+adalimumab,12414J,2025-03-20,20250320205439,Adalicip; Hadlima; Humira; Hyrimoz; Yuflyma,mixed
+adalimumab,12328W,2021-05-07,20210507225300,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12328W,2022-03-29,20220329052601,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12328W,2022-10-18,20221018035903,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12328W,2023-03-17,20230317193840,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12328W,2024-03-01,20240301082219,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12328W,2024-10-31,20241031190827,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,12328W,2025-04-16,20250416022215,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,12415K,2021-10-18,20211018174626,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12415K,2022-03-29,20220329052700,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12415K,2022-10-20,20221020104645,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12415K,2023-03-17,20230317193945,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12415K,2024-05-20,20240520191547,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12415K,2024-10-31,20241031190942,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,12415K,2025-04-16,20250416022240,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,09100Y,2021-06-13,20210613043434,Amgevita; Hadlima; Humira; Hyrimoz; Idacio,mixed
+adalimumab,09100Y,2022-03-29,20220329052913,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,09100Y,2022-10-06,20221006062738,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,09100Y,2023-03-17,20230317194538,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,09100Y,2023-12-04,20231204010440,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,09100Y,2024-10-31,20241031191152,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,09100Y,2025-07-18,20250718003443,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,12361N,2021-09-24,20210924215539,Humira,reference_only
+adalimumab,12361N,2022-10-18,20221018035840,Humira,reference_only
+adalimumab,12361N,2023-03-17,20230317193243,Humira; Yuflyma,mixed
+adalimumab,12361N,2024-10-05,20241005095134,Adalicip; Hadlima; Humira; Yuflyma,mixed
+adalimumab,12361N,2025-03-20,20250320205331,Hadlima; Humira; Yuflyma,mixed
+adalimumab,09191R,2021-06-13,20210613052637,Amgevita; Hadlima; Humira; Hyrimoz; Idacio,mixed
+adalimumab,09191R,2022-03-29,20220329052952,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,09191R,2023-03-17,20230317194621,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,09191R,2023-12-03,20231203235708,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,09191R,2024-08-04,20240804015723,Abrilada; Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,09191R,2025-05-06,20250506134116,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,12377K,2021-09-24,20210924220330,Humira,reference_only
+adalimumab,12377K,2022-12-01,20221201164041,Humira,reference_only
+adalimumab,12377K,2023-03-17,20230317193324,Humira; Yuflyma,mixed
+adalimumab,12377K,2023-10-22,20231022212403,Humira; Yuflyma,mixed
+adalimumab,12377K,2024-10-05,20241005130925,Adalicip; Hadlima; Humira; Yuflyma,mixed
+adalimumab,12377K,2025-03-20,20250320205348,Adalicip; Hadlima; Humira; Hyrimoz; Yuflyma,mixed
+adalimumab,13222X,2023-03-17,20230317193116,Yuflyma,biosimilar_only
+adalimumab,13222X,2023-11-30,20231130043631,Humira; Yuflyma,mixed
+adalimumab,13222X,2024-10-31,20241031190006,Adalicip; Hadlima; Humira; Yuflyma,mixed
+adalimumab,13222X,2025-03-20,20250320205551,Hadlima; Humira; Yuflyma,mixed
+adalimumab,13222X,2026-01-23,20260123000728,Hadlima; Humira; Hyrimoz; Yuflyma,mixed
+adalimumab,12398M,2021-10-18,20211018173752,Humira,reference_only
+adalimumab,12398M,2022-12-01,20221201162735,Humira,reference_only
+adalimumab,12398M,2023-03-17,20230317193429,Humira; Yuflyma,mixed
+adalimumab,12398M,2024-10-05,20241005094506,Adalicip; Hadlima; Humira; Yuflyma,mixed
+adalimumab,12398M,2025-03-20,20250320205418,Hadlima; Humira; Yuflyma,mixed
+adalimumab,09102C,2021-10-18,20211018172916,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,09102C,2022-03-29,20220329052922,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,09102C,2023-03-17,20230317194551,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,09102C,2023-12-04,20231204000112,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,09102C,2024-08-03,20240803132132,Abrilada; Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,09102C,2025-05-06,20250506134650,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,12352D,2021-05-07,20210507214951,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12352D,2022-03-29,20220329052625,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12352D,2022-10-20,20221020104612,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12352D,2023-03-17,20230317193858,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12352D,2024-03-01,20240301070806,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12352D,2024-10-31,20241031190846,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,12352D,2025-04-16,20250416022228,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,12352D,2026-01-17,20260117190602,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,12376J,2021-09-24,20210924221413,Humira,reference_only
+adalimumab,12376J,2022-10-18,20221018035849,Humira,reference_only
+adalimumab,12376J,2023-03-17,20230317193318,Humira; Yuflyma,mixed
+adalimumab,12376J,2024-08-03,20240803141733,Adalicip; Humira; Yuflyma,mixed
+adalimumab,12376J,2025-03-20,20250320205346,Adalicip; Hadlima; Humira; Hyrimoz; Yuflyma,mixed
+adalimumab,09104E,2021-09-24,20210924215500,Amgevita; Hadlima; Humira; Hyrimoz; Idacio,mixed
+adalimumab,09104E,2022-03-29,20220329052933,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,09104E,2022-10-18,20221018035921,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,09104E,2023-12-04,20231204001529,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,09104E,2024-08-03,20240803140650,Abrilada; Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,09104E,2025-05-05,20250505094836,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,09099X,2021-06-13,20210613050439,Amgevita; Hadlima; Humira; Hyrimoz; Idacio,mixed
+adalimumab,09099X,2022-03-29,20220329052909,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,09099X,2022-10-06,20221006065731,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,09099X,2023-03-17,20230317194532,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,09099X,2023-12-03,20231203232718,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,09099X,2024-10-14,20241014015217,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,09099X,2025-04-30,20250430015450,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,12448E,2021-10-18,20211018161641,Humira,reference_only
+adalimumab,12448E,2022-12-01,20221201172803,Humira,reference_only
+adalimumab,12448E,2024-09-08,20240908214525,Humira,reference_only
+adalimumab,12448E,2025-03-20,20250320204821,Humira; Hyrimoz; Yuflyma,mixed
+adalimumab,12448E,2026-01-23,20260123034404,Humira; Hyrimoz; Yuflyma,mixed
+adalimumab,14221L,2024-08-03,20240803142841,Adalicip; Humira; Yuflyma,mixed
+adalimumab,14221L,2025-03-20,20250320205623,Adalicip; Hadlima; Humira; Hyrimoz; Yuflyma,mixed
+adalimumab,12340L,2021-09-24,20210924221006,Humira,reference_only
+adalimumab,12340L,2022-12-01,20221201164736,Humira,reference_only
+adalimumab,12340L,2023-03-17,20230317193204,Humira; Yuflyma,mixed
+adalimumab,12340L,2024-08-03,20240803141529,Adalicip; Humira; Yuflyma,mixed
+adalimumab,12340L,2025-03-20,20250320205315,Adalicip; Hadlima; Humira; Hyrimoz; Yuflyma,mixed
+adalimumab,12326R,2021-05-07,20210507215136,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12326R,2022-03-29,20220329052552,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12326R,2022-10-20,20221020104700,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12326R,2023-03-17,20230317194255,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12326R,2023-12-10,20231210095604,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12326R,2024-10-31,20241031190821,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,12326R,2025-04-16,20250416022255,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,12326R,2025-10-09,20251009170645,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,12345R,2021-06-13,20210613050649,Humira,reference_only
+adalimumab,12345R,2022-12-01,20221201175715,Humira,reference_only
+adalimumab,12345R,2023-03-17,20230317193225,Humira; Yuflyma,mixed
+adalimumab,12345R,2024-08-03,20240803125749,Adalicip; Humira; Yuflyma,mixed
+adalimumab,12345R,2025-03-20,20250320205321,Adalicip; Hadlima; Humira; Hyrimoz; Yuflyma,mixed
+adalimumab,13686H,2023-12-03,20231203235149,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,13686H,2024-02-21,20240221103135,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,13686H,2024-10-31,20241031191004,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,13686H,2025-04-16,20250416022247,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,13686H,2026-01-18,20260118042207,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,09101B,2021-10-18,20211018181712,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,09101B,2022-03-29,20220329052917,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,09101B,2023-03-17,20230317194545,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,09101B,2023-12-04,20231204005432,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,09101B,2024-08-04,20240804031627,Abrilada; Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,09101B,2025-05-06,20250506123243,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,12422T,2021-09-24,20210924205807,Humira,reference_only
+adalimumab,12422T,2022-12-01,20221201175022,Humira,reference_only
+adalimumab,12422T,2023-03-17,20230317193527,Humira; Yuflyma,mixed
+adalimumab,12422T,2023-10-22,20231022212408,Humira; Yuflyma,mixed
+adalimumab,12422T,2024-10-05,20241005121440,Adalicip; Hadlima; Humira; Yuflyma,mixed
+adalimumab,12422T,2025-03-20,20250320205443,Hadlima; Humira; Yuflyma,mixed
+adalimumab,12701L,2021-12-06,20211206001532,Humira,reference_only
+adalimumab,12701L,2022-01-22,20220122210518,Humira,reference_only
+adalimumab,13212J,2023-03-04,20230304135057,Yuflyma,biosimilar_only
+adalimumab,13212J,2023-11-30,20231130042236,Humira; Yuflyma,mixed
+adalimumab,13212J,2024-03-20,20240320005215,Adalicip; Humira; Yuflyma,mixed
+adalimumab,13212J,2025-03-23,20250323151543,Adalicip; Hadlima; Humira; Hyrimoz; Yuflyma,mixed
+adalimumab,13212J,2026-01-09,20260109053756,Hadlima; Humira; Hyrimoz; Yuflyma,mixed
+adalimumab,12405X,2021-09-24,20210924221447,Humira,reference_only
+adalimumab,12405X,2022-12-01,20221201165212,Humira,reference_only
+adalimumab,12405X,2023-03-17,20230317193447,Humira; Yuflyma,mixed
+adalimumab,12405X,2024-10-05,20241005131857,Adalicip; Hadlima; Humira; Yuflyma,mixed
+adalimumab,12405X,2025-03-20,20250320205425,Hadlima; Humira; Yuflyma,mixed
+adalimumab,12335F,2021-06-12,20210612183955,Humira,reference_only
+adalimumab,12335F,2022-03-11,20220311054744,Humira,reference_only
+adalimumab,12335F,2022-11-21,20221121095850,Humira,reference_only
+adalimumab,12335F,2023-03-04,20230304135709,Humira; Yuflyma,mixed
+adalimumab,12335F,2024-03-20,20240320005547,Adalicip; Humira; Yuflyma,mixed
+adalimumab,12335F,2024-08-04,20240804032013,Adalicip; Humira; Yuflyma,mixed
+adalimumab,12335F,2025-03-20,20250320210045,Adalicip; Hadlima; Humira; Hyrimoz; Yuflyma,mixed
+adalimumab,13214L,2023-03-16,20230316151159,Yuflyma,biosimilar_only
+adalimumab,13214L,2023-11-30,20231130040055,Yuflyma,biosimilar_only
+adalimumab,13214L,2024-10-31,20241031185941,Adalicip; Hadlima; Yuflyma,biosimilar_only
+adalimumab,13214L,2025-03-20,20250320205531,Adalicip; Hadlima; Hyrimoz; Yuflyma,biosimilar_only
+adalimumab,13225C,2023-03-17,20230317193133,Yuflyma,biosimilar_only
+adalimumab,13225C,2024-10-31,20241031190017,Adalicip; Hadlima; Yuflyma,biosimilar_only
+adalimumab,13225C,2025-03-20,20250320205558,Adalicip; Hadlima; Hyrimoz; Yuflyma,biosimilar_only
+adalimumab,13225C,2025-07-16,20250716182518,Hadlima; Hyrimoz; Yuflyma,biosimilar_only
+adalimumab,13225C,2026-01-06,20260106124901,Hadlima; Hyrimoz; Yuflyma,biosimilar_only
+adalimumab,13229G,2023-03-04,20230304135714,Yuflyma,biosimilar_only
+adalimumab,13229G,2023-11-30,20231130043202,Humira; Yuflyma,mixed
+adalimumab,13229G,2024-03-20,20240320005550,Adalicip; Humira; Yuflyma,mixed
+adalimumab,13229G,2025-03-20,20250320210052,Adalicip; Hadlima; Humira; Hyrimoz; Yuflyma,mixed
+adalimumab,13229G,2025-08-13,20250813141744,Hadlima; Humira; Hyrimoz; Yuflyma,mixed
+adalimumab,13229G,2026-02-07,20260207225006,Hadlima; Humira; Hyrimoz; Yuflyma,mixed
+adalimumab,08741C,2021-06-13,20210613054724,Amgevita; Hadlima; Humira; Hyrimoz; Idacio,mixed
+adalimumab,08741C,2022-03-29,20220329052821,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,08741C,2022-10-06,20221006075210,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,08741C,2023-03-17,20230317194442,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,08741C,2024-09-15,20240915072550,Abrilada; Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,08741C,2025-05-02,20250502213806,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,08741C,2025-11-25,20251125054225,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,13226D,2023-03-17,20230317193140,Yuflyma,biosimilar_only
+adalimumab,13226D,2023-11-30,20231130045717,Yuflyma,biosimilar_only
+adalimumab,13226D,2024-10-31,20241031190020,Adalicip; Hadlima; Yuflyma,biosimilar_only
+adalimumab,13226D,2025-03-20,20250320205600,Adalicip; Hadlima; Hyrimoz; Yuflyma,biosimilar_only
+adalimumab,13226D,2025-07-16,20250716170446,Hadlima; Hyrimoz; Yuflyma,biosimilar_only
+adalimumab,13226D,2026-02-07,20260207002755,Hadlima; Hyrimoz; Yuflyma,biosimilar_only
+adalimumab,12391E,2021-09-22,20210922142629,Humira,reference_only
+adalimumab,12391E,2022-12-01,20221201175513,Humira,reference_only
+adalimumab,12391E,2023-03-17,20230317193419,Humira; Yuflyma,mixed
+adalimumab,12391E,2024-08-03,20240803125511,Adalicip; Humira; Yuflyma,mixed
+adalimumab,12391E,2025-03-20,20250320205413,Hadlima; Humira; Yuflyma,mixed
+adalimumab,12353E,2021-05-07,20210507213953,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12353E,2022-03-29,20220329052629,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12353E,2022-10-20,20221020104617,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12353E,2023-03-17,20230317193906,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12353E,2023-09-26,20230926145821,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12353E,2024-10-31,20241031190850,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,12353E,2025-04-16,20250416022231,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,12353E,2025-10-12,20251012073926,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,12425Y,2021-09-24,20210924221341,Humira,reference_only
+adalimumab,12425Y,2022-12-01,20221201165054,Humira,reference_only
+adalimumab,12425Y,2023-03-17,20230317193532,Humira; Yuflyma,mixed
+adalimumab,12425Y,2024-10-05,20241005131812,Adalicip; Hadlima; Humira; Yuflyma,mixed
+adalimumab,12425Y,2025-03-20,20250320205446,Adalicip; Hadlima; Humira; Hyrimoz; Yuflyma,mixed
+adalimumab,10420K,2021-06-13,20210613053634,Amgevita; Hadlima; Humira; Hyrimoz; Idacio,mixed
+adalimumab,10420K,2022-03-29,20220329052521,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,10420K,2022-10-06,20221006073416,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,10420K,2023-03-17,20230317194224,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,10420K,2024-08-04,20240804020543,Abrilada; Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,10420K,2025-05-05,20250505083015,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,12444Y,2021-06-12,20210612182144,Humira,reference_only
+adalimumab,12444Y,2021-07-31,20210731024751,Humira,reference_only
+adalimumab,12444Y,2022-03-11,20220311054133,Humira,reference_only
+adalimumab,12444Y,2022-11-21,20221121095347,Humira,reference_only
+adalimumab,12444Y,2023-03-04,20230304135051,Humira; Yuflyma,mixed
+adalimumab,12444Y,2023-11-30,20231130042652,Humira; Yuflyma,mixed
+adalimumab,12444Y,2024-03-20,20240320005211,Adalicip; Humira; Yuflyma,mixed
+adalimumab,12444Y,2025-01-14,20250114103955,Adalicip; Hadlima; Humira; Hyrimoz; Yuflyma,mixed
+adalimumab,09103D,2021-09-24,20210924203801,Amgevita; Hadlima; Humira; Hyrimoz; Idacio,mixed
+adalimumab,09103D,2022-03-29,20220329052928,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,09103D,2022-10-18,20221018035917,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,09103D,2023-03-17,20230317194555,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,09103D,2023-12-03,20231203225848,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,09103D,2024-08-04,20240804012240,Abrilada; Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,09103D,2025-05-06,20250506115351,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,08966X,2021-09-24,20210924210245,Amgevita; Hadlima; Humira; Hyrimoz; Idacio,mixed
+adalimumab,08966X,2022-03-29,20220329052842,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,08966X,2023-03-17,20230317194508,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,08966X,2023-12-03,20231203233007,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,08966X,2024-08-04,20240804013853,Abrilada; Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,08966X,2025-05-05,20250505132130,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,09189P,2021-06-13,20210613052601,Amgevita; Hadlima; Humira; Hyrimoz; Idacio,mixed
+adalimumab,09189P,2021-07-31,20210731022746,Amgevita; Hadlima; Humira; Hyrimoz; Idacio,mixed
+adalimumab,09189P,2022-03-29,20220329052943,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,09189P,2023-03-17,20230317194610,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,09189P,2023-12-03,20231203235632,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,09189P,2024-04-17,20240417121709,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,09189P,2024-08-04,20240804015620,Abrilada; Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,09189P,2025-05-05,20250505093609,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,09189P,2025-11-25,20251125054251,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,09428F,2021-09-24,20210924222933,Amgevita; Hadlima; Humira; Hyrimoz; Idacio,mixed
+adalimumab,09428F,2022-03-29,20220329053013,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,09428F,2023-03-17,20230317194645,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,09428F,2023-10-22,20231022212427,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,09428F,2024-08-03,20240803143017,Abrilada; Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,09428F,2025-05-06,20250506145533,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,13703F,2023-12-03,20231203235903,Yuflyma,biosimilar_only
+adalimumab,13703F,2024-04-13,20240413024836,Adalicip; Yuflyma,biosimilar_only
+adalimumab,13703F,2024-10-31,20241031190032,Adalicip; Hadlima; Yuflyma,biosimilar_only
+adalimumab,13703F,2025-03-20,20250320205610,Adalicip; Hadlima; Hyrimoz; Yuflyma,biosimilar_only
+adalimumab,13703F,2025-09-14,20250914181017,Hadlima; Hyrimoz; Yuflyma,biosimilar_only
+adalimumab,12327T,2021-05-07,20210507212031,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12327T,2022-03-29,20220329052557,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12327T,2022-10-18,20221018035858,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12327T,2023-03-17,20230317193834,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12327T,2023-09-27,20230927104406,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12327T,2024-10-31,20241031190825,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,12327T,2025-04-16,20250416022258,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,12327T,2025-10-12,20251012225417,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,12438P,2021-10-18,20211018171144,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12438P,2022-03-29,20220329052723,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12438P,2022-10-20,20221020104747,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12438P,2023-03-17,20230317194014,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12438P,2024-04-24,20240424060745,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12438P,2024-10-31,20241031191000,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,12438P,2025-04-16,20250416022319,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,12438P,2025-11-25,20251125054047,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,12330Y,2021-05-07,20210507230753,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12330Y,2022-03-29,20220329052614,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12330Y,2022-10-20,20221020104601,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12330Y,2023-03-17,20230317193845,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12330Y,2023-09-25,20230925003943,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12330Y,2024-10-31,20241031190833,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,12330Y,2025-04-16,20250416022221,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,12330Y,2025-12-07,20251207075000,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,12334E,2021-05-07,20210507212745,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12334E,2022-03-29,20220329052619,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12334E,2022-10-20,20221020104606,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12334E,2023-03-17,20230317193853,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12334E,2024-10-31,20241031190843,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,12334E,2025-04-16,20250416022225,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,12334E,2026-01-22,20260122234323,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,10961X,2021-09-24,20210924204050,Amgevita; Hadlima; Humira; Hyrimoz; Idacio,mixed
+adalimumab,10961X,2022-03-29,20220329052540,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,10961X,2022-12-01,20221201173232,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,10961X,2023-03-17,20230317194248,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,10961X,2024-08-04,20240804012329,Abrilada; Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,10961X,2025-04-18,20250418073922,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,12418N,2021-10-18,20211018172117,Humira,reference_only
+adalimumab,09078T,2021-09-24,20210924222458,Amgevita; Hadlima; Humira; Hyrimoz; Idacio,mixed
+adalimumab,09078T,2022-03-29,20220329052905,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,09078T,2022-10-18,20221018035912,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,09078T,2023-12-04,20231204004906,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,09078T,2024-08-03,20240803142634,Abrilada; Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,09078T,2025-05-05,20250505084837,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,09078T,2025-11-25,20251125054245,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,13692P,2023-12-11,20231211102131,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,13692P,2024-04-13,20240413042654,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,13692P,2024-10-31,20241031191009,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,12412G,2021-09-22,20210922133812,Humira,reference_only
+adalimumab,12412G,2022-12-01,20221201172429,Humira,reference_only
+adalimumab,12412G,2023-03-17,20230317193504,Humira; Yuflyma,mixed
+adalimumab,12412G,2024-08-04,20240804011403,Adalicip; Humira; Yuflyma,mixed
+adalimumab,12412G,2025-03-20,20250320205432,Adalicip; Hadlima; Humira; Hyrimoz; Yuflyma,mixed
+adalimumab,14272E,2024-08-03,20240803131000,Adalicip; Humira; Yuflyma,mixed
+adalimumab,14272E,2025-03-20,20250320205630,Adalicip; Hadlima; Humira; Hyrimoz; Yuflyma,mixed
+adalimumab,12411F,2021-06-13,20210613044306,Humira,reference_only
+adalimumab,12411F,2022-12-01,20221201173312,Humira,reference_only
+adalimumab,12411F,2023-03-17,20230317193457,Humira; Yuflyma,mixed
+adalimumab,12411F,2024-08-04,20240804012441,Adalicip; Humira; Yuflyma,mixed
+adalimumab,12411F,2025-03-20,20250320205430,Adalicip; Hadlima; Humira; Hyrimoz; Yuflyma,mixed
+adalimumab,12437N,2021-06-14,20210614152359,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12437N,2022-03-29,20220329052718,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12437N,2022-10-20,20221020104742,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12437N,2023-03-17,20230317194008,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12437N,2023-10-02,20231002181526,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12437N,2024-10-31,20241031190956,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,12437N,2025-04-16,20250416022316,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,12437N,2025-10-09,20251009174647,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,12437N,2026-02-02,20260202232352,Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,12420Q,2021-06-13,20210613052906,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12420Q,2022-03-29,20220329052708,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12420Q,2022-10-20,20221020104650,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12420Q,2023-03-17,20230317193952,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12420Q,2024-05-27,20240527221023,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12420Q,2024-10-31,20241031190949,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,12420Q,2025-04-16,20250416022243,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,12383R,2021-10-18,20211018171658,Humira,reference_only
+adalimumab,12383R,2022-03-29,20220329051458,Humira,reference_only
+adalimumab,12383R,2022-12-01,20221201155721,Humira,reference_only
+adalimumab,12383R,2023-03-17,20230317193359,Humira; Yuflyma,mixed
+adalimumab,12383R,2024-09-08,20240908223753,Adalicip; Humira; Yuflyma,mixed
+adalimumab,12383R,2025-03-20,20250320205404,Adalicip; Hadlima; Humira; Hyrimoz; Yuflyma,mixed
+adalimumab,12369B,2021-10-18,20211018163713,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12369B,2022-03-29,20220329052108,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12369B,2022-12-01,20221201174101,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12369B,2023-03-17,20230317194329,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12369B,2024-08-03,20240803124557,Abrilada; Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12369B,2025-05-06,20250506155103,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,09034L,2021-10-18,20211018162947,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,09034L,2022-03-29,20220329052853,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,09034L,2023-03-17,20230317194520,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,09034L,2023-12-03,20231203230621,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,09034L,2024-08-03,20240803123731,Abrilada; Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,09034L,2025-05-05,20250505090024,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,09034L,2025-11-25,20251125054238,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,12400P,2021-06-13,20210613052943,Humira,reference_only
+adalimumab,12400P,2022-09-27,20220927174245,Humira,reference_only
+adalimumab,12400P,2023-03-17,20230317193440,Humira; Yuflyma,mixed
+adalimumab,12400P,2024-09-09,20240909051927,Adalicip; Humira; Yuflyma,mixed
+adalimumab,12400P,2025-03-20,20250320205423,Hadlima; Humira; Yuflyma,mixed
+adalimumab,12408C,2021-10-18,20211018161851,Humira,reference_only
+adalimumab,12408C,2022-12-08,20221208202745,Humira,reference_only
+adalimumab,12408C,2024-09-08,20240908214909,Humira,reference_only
+adalimumab,12408C,2025-05-02,20250502211945,Humira; Yuflyma,mixed
+adalimumab,12403T,2021-09-22,20210922140649,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12403T,2022-03-29,20220329052655,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12403T,2022-10-20,20221020104639,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12403T,2023-03-17,20230317193940,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12403T,2023-10-22,20231022212417,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12403T,2024-03-04,20240304172924,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,12403T,2024-10-31,20241031190939,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,12403T,2025-04-16,20250416022237,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,12403T,2025-10-16,20251016060838,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,09427E,2021-09-24,20210924211219,Amgevita; Hadlima; Humira; Hyrimoz; Idacio,mixed
+adalimumab,09427E,2022-03-29,20220329053008,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,09427E,2023-03-17,20230317194639,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,09427E,2023-10-22,20231022212425,Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,09427E,2024-08-04,20240804014803,Abrilada; Amgevita; Hadlima; Hyrimoz; Idacio,biosimilar_only
+adalimumab,09427E,2025-05-05,20250505104740,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,09427E,2025-11-25,20251125054257,Abrilada; Amgevita; Hadlima; Hyrimoz,biosimilar_only
+adalimumab,12449F,2021-10-18,20211018182439,Humira,reference_only
+adalimumab,12449F,2022-12-01,20221201171657,Humira,reference_only
+adalimumab,12449F,2024-09-08,20240908235754,Humira,reference_only
+adalimumab,12449F,2025-03-20,20250320204823,Humira; Hyrimoz; Yuflyma,mixed
+adalimumab,12342N,2021-09-24,20210924214922,Humira,reference_only
+adalimumab,12342N,2022-12-01,20221201162351,Humira,reference_only
+adalimumab,12342N,2023-03-17,20230317193218,Humira; Yuflyma,mixed
+adalimumab,12342N,2023-10-22,20231022212400,Humira; Yuflyma,mixed
+adalimumab,12342N,2024-08-03,20240803133726,Adalicip; Humira; Yuflyma,mixed
+adalimumab,12342N,2025-03-20,20250320205319,Adalicip; Hadlima; Humira; Hyrimoz; Yuflyma,mixed
+adalimumab,13230H,2023-03-17,20230317193152,Yuflyma,biosimilar_only
+adalimumab,13230H,2023-11-30,20231130045217,Yuflyma,biosimilar_only
+adalimumab,13230H,2024-10-31,20241031190026,Adalicip; Hadlima; Yuflyma,biosimilar_only
+adalimumab,13230H,2025-03-20,20250320205606,Adalicip; Hadlima; Hyrimoz; Yuflyma,biosimilar_only
+adalimumab,13230H,2025-08-12,20250812123034,Hadlima; Hyrimoz; Yuflyma,biosimilar_only
+adalimumab,13230H,2026-01-06,20260106070909,Hadlima; Hyrimoz; Yuflyma,biosimilar_only
+etanercept,11218K,2018-08-26,20180826000711,Brenzys,biosimilar_only
+etanercept,11218K,2019-03-13,20190313035220,Brenzys,biosimilar_only
+etanercept,11218K,2019-11-27,20191127084143,Brenzys,biosimilar_only
+etanercept,11218K,2020-01-26,20200126145447,Brenzys,biosimilar_only
+etanercept,11218K,2021-01-19,20210119020745,Brenzys,biosimilar_only
+etanercept,11218K,2025-02-12,20250212115042,Brenzys; Enbrel,mixed
+etanercept,11218K,2025-07-07,20250707224147,Brenzys; Enbrel; Nepexto,mixed
+etanercept,11218K,2026-01-06,20260106051026,Brenzys; Enbrel; Erelzi; Nepexto,mixed
+etanercept,11220M,2018-08-26,20180826000904,Enbrel,reference_only
+etanercept,11220M,2019-03-13,20190313035236,Enbrel,reference_only
+etanercept,11220M,2019-11-27,20191127093717,Brenzys; Enbrel,mixed
+etanercept,11220M,2020-01-26,20200126154047,Brenzys; Enbrel,mixed
+etanercept,11220M,2021-01-25,20210125200604,Brenzys; Enbrel,mixed
+etanercept,11220M,2022-03-29,20220329050712,Brenzys; Enbrel,mixed
+etanercept,11220M,2022-09-27,20220927173437,Brenzys; Enbrel,mixed
+etanercept,09460X,2018-08-26,20180826000631,Brenzys; Enbrel,mixed
+etanercept,09460X,2019-03-13,20190313035600,Brenzys; Enbrel,mixed
+etanercept,09460X,2019-11-27,20191127160303,Brenzys; Enbrel,mixed
+etanercept,09460X,2020-01-26,20200126235923,Brenzys; Enbrel,mixed
+etanercept,09460X,2021-01-25,20210125200459,Brenzys; Enbrel,mixed
+etanercept,09460X,2022-03-29,20220329050757,Brenzys; Enbrel,mixed
+etanercept,09460X,2022-09-27,20220927173317,Brenzys; Enbrel,mixed
+etanercept,09460X,2025-02-12,20250212102719,Brenzys; Enbrel,mixed
+etanercept,09460X,2025-07-07,20250707225553,Brenzys; Enbrel; Nepexto,mixed
+etanercept,09460X,2026-01-06,20260106144240,Brenzys; Enbrel; Erelzi; Nepexto,mixed
+etanercept,11198J,2018-08-26,20180826000651,Enbrel,reference_only
+etanercept,11198J,2019-03-13,20190313035107,Enbrel,reference_only
+etanercept,11198J,2019-11-27,20191127082907,Brenzys; Enbrel,mixed
+etanercept,11198J,2020-01-26,20200126151433,Brenzys; Enbrel,mixed
+etanercept,11198J,2021-01-19,20210119021749,Brenzys; Enbrel,mixed
+etanercept,11198J,2022-03-29,20220329050700,Brenzys; Enbrel,mixed
+etanercept,11198J,2024-10-10,20241010171018,Brenzys; Enbrel,mixed
+etanercept,11198J,2025-02-12,20250212100018,Brenzys; Enbrel,mixed
+etanercept,11198J,2026-01-06,20260106042810,Brenzys; Enbrel; Nepexto,mixed
+etanercept,11201M,2018-08-26,20180826000459,Enbrel,reference_only
+etanercept,11201M,2019-03-13,20190313035137,Enbrel,reference_only
+etanercept,11201M,2019-11-13,20191113184338,Brenzys; Enbrel,mixed
+etanercept,11201M,2020-01-26,20200126150743,Brenzys; Enbrel,mixed
+etanercept,11201M,2021-01-19,20210119021309,Brenzys; Enbrel,mixed
+etanercept,11201M,2022-03-29,20220329050706,Brenzys; Enbrel,mixed
+etanercept,11201M,2022-10-18,20221018040006,Brenzys; Enbrel,mixed
+etanercept,11201M,2024-10-10,20241010170041,Brenzys; Enbrel,mixed
+etanercept,11201M,2025-02-12,20250212094137,Brenzys; Enbrel,mixed
+etanercept,11201M,2026-01-06,20260106060518,Brenzys; Enbrel; Nepexto,mixed
+etanercept,11219L,2018-08-26,20180826000313,Enbrel,reference_only
+etanercept,11219L,2021-01-19,20210119020226,Brenzys; Enbrel,mixed
+etanercept,11219L,2022-03-29,20220329050828,Brenzys; Enbrel,mixed
+etanercept,11219L,2022-09-27,20220927170808,Brenzys; Enbrel,mixed
+etanercept,09459W,2018-08-26,20180826000626,Brenzys; Enbrel,mixed
+etanercept,09459W,2019-03-13,20190313035547,Brenzys; Enbrel,mixed
+etanercept,09459W,2019-11-27,20191127092751,Brenzys; Enbrel,mixed
+etanercept,09459W,2020-01-26,20200126145024,Brenzys; Enbrel,mixed
+etanercept,09459W,2021-01-19,20210119011632,Brenzys; Enbrel,mixed
+etanercept,09459W,2022-03-29,20220329050750,Brenzys; Enbrel,mixed
+etanercept,09459W,2022-09-27,20220927163035,Brenzys; Enbrel,mixed
+etanercept,09459W,2025-02-12,20250212114338,Brenzys; Enbrel,mixed
+etanercept,09459W,2025-07-07,20250707215159,Brenzys; Enbrel; Nepexto,mixed
+etanercept,09459W,2026-01-06,20260106043805,Brenzys; Enbrel; Erelzi; Nepexto,mixed
+etanercept,09456Q,2018-08-26,20180826000615,Brenzys; Enbrel,mixed
+etanercept,09456Q,2019-03-13,20190313035428,Brenzys; Enbrel,mixed
+etanercept,09456Q,2019-11-13,20191113175213,Brenzys; Enbrel,mixed
+etanercept,09456Q,2020-01-26,20200126154708,Brenzys; Enbrel,mixed
+etanercept,09456Q,2021-01-19,20210119015354,Brenzys; Enbrel,mixed
+etanercept,09456Q,2022-03-29,20220329050735,Brenzys; Enbrel,mixed
+etanercept,09456Q,2022-10-18,20221018040039,Brenzys; Enbrel,mixed
+etanercept,09456Q,2024-10-10,20241010163718,Brenzys; Enbrel,mixed
+etanercept,09456Q,2025-02-12,20250212095619,Brenzys; Enbrel,mixed
+etanercept,09456Q,2026-01-06,20260106095200,Brenzys; Enbrel; Erelzi; Nepexto,mixed
+etanercept,11211C,2018-08-26,20180826000859,Brenzys,biosimilar_only
+etanercept,11211C,2021-01-25,20210125212512,Brenzys,biosimilar_only
+etanercept,11211C,2025-10-12,20251012091144,Brenzys; Enbrel; Erelzi,mixed
+etanercept,09090K,2018-08-26,20180826001007,Brenzys; Enbrel,mixed
+etanercept,09090K,2021-01-25,20210125212107,Brenzys; Enbrel,mixed
+etanercept,09090K,2022-03-29,20220329050917,Brenzys; Enbrel,mixed
+etanercept,09090K,2022-10-06,20221006082950,Brenzys; Enbrel,mixed
+etanercept,09090K,2025-07-07,20250707234342,Brenzys; Enbrel,mixed
+etanercept,11202N,2018-08-26,20180826000656,Brenzys,biosimilar_only
+etanercept,11202N,2019-03-13,20190313035202,Brenzys,biosimilar_only
+etanercept,11202N,2019-11-27,20191127124845,Brenzys,biosimilar_only
+etanercept,11202N,2020-01-26,20200126192608,Brenzys,biosimilar_only
+etanercept,11202N,2021-01-25,20210125195041,Brenzys,biosimilar_only
+etanercept,11202N,2024-10-05,20241005122330,Brenzys,biosimilar_only
+etanercept,11202N,2025-02-12,20250212114719,Brenzys,biosimilar_only
+etanercept,11202N,2026-01-06,20260106120127,Brenzys; Erelzi; Nepexto,biosimilar_only
+etanercept,09458T,2018-08-26,20180826000621,Brenzys; Enbrel,mixed
+etanercept,09458T,2019-03-13,20190313035510,Brenzys; Enbrel,mixed
+etanercept,09458T,2019-11-27,20191127125444,Brenzys; Enbrel,mixed
+etanercept,09458T,2020-01-26,20200126192548,Brenzys; Enbrel,mixed
+etanercept,09458T,2021-01-25,20210125200035,Brenzys; Enbrel,mixed
+etanercept,09458T,2022-03-29,20220329050746,Brenzys; Enbrel,mixed
+etanercept,09458T,2024-10-05,20241005091649,Brenzys; Enbrel,mixed
+etanercept,09458T,2025-02-12,20250212101842,Brenzys; Enbrel,mixed
+etanercept,09458T,2026-01-06,20260106051507,Brenzys; Enbrel; Erelzi; Nepexto,mixed
+etanercept,11215G,2018-08-26,20180826000706,Brenzys,biosimilar_only
+etanercept,11215G,2019-03-13,20190313035211,Brenzys,biosimilar_only
+etanercept,11215G,2019-11-13,20191113175133,Brenzys,biosimilar_only
+etanercept,11215G,2020-01-26,20200126235928,Brenzys,biosimilar_only
+etanercept,11215G,2021-01-19,20210119024005,Brenzys,biosimilar_only
+etanercept,11215G,2022-10-18,20221018040011,Brenzys,biosimilar_only
+etanercept,11215G,2023-10-24,20231024045028,Brenzys,biosimilar_only
+etanercept,11215G,2024-02-01,20240201060745,Brenzys,biosimilar_only
+etanercept,11215G,2024-10-10,20241010174105,Brenzys,biosimilar_only
+etanercept,11215G,2025-02-12,20250212102041,Brenzys,biosimilar_only
+etanercept,11196G,2018-08-26,20180826000646,Enbrel,reference_only
+etanercept,11196G,2019-11-13,20191113180059,Brenzys; Enbrel,mixed
+etanercept,11196G,2021-01-25,20210125205135,Brenzys; Enbrel,mixed
+etanercept,11196G,2022-03-29,20220329050815,Brenzys; Enbrel,mixed
+etanercept,11196G,2022-10-18,20221018040046,Brenzys; Enbrel,mixed
+etanercept,11196G,2024-10-05,20241005131203,Brenzys; Enbrel,mixed
+etanercept,11196G,2025-04-25,20250425004828,Brenzys; Enbrel,mixed
+etanercept,11208X,2018-08-26,20180826000701,Enbrel,reference_only
+etanercept,11208X,2019-03-13,20190313040758,Enbrel,reference_only
+etanercept,11208X,2021-01-25,20210125200357,Brenzys; Enbrel,mixed
+etanercept,11208X,2022-03-29,20220329050821,Brenzys; Enbrel,mixed
+etanercept,11208X,2024-10-10,20241010170437,Brenzys; Enbrel,mixed
+etanercept,09457R,2018-08-26,20180826000823,Brenzys; Enbrel,mixed
+etanercept,09457R,2019-03-13,20190313035453,Brenzys; Enbrel,mixed
+etanercept,09457R,2019-09-18,20190918115606,Brenzys; Enbrel,mixed
+etanercept,09457R,2020-01-26,20200126151638,Brenzys; Enbrel,mixed
+etanercept,09457R,2021-01-19,20210119025438,Brenzys; Enbrel,mixed
+etanercept,09457R,2021-12-05,20211205234621,Brenzys; Enbrel,mixed
+etanercept,09457R,2022-03-29,20220329050741,Brenzys; Enbrel,mixed
+etanercept,09457R,2024-10-10,20241010175558,Brenzys; Enbrel,mixed
+etanercept,09457R,2025-04-24,20250424085231,Brenzys; Enbrel,mixed
+etanercept,11222P,2018-08-26,20180826000909,Enbrel,reference_only
+etanercept,11222P,2019-03-13,20190313035314,Enbrel,reference_only
+etanercept,11222P,2019-11-27,20191127160523,Brenzys; Enbrel,mixed
+etanercept,11222P,2020-01-27,20200127000508,Brenzys; Enbrel,mixed
+etanercept,11222P,2021-01-19,20210119015231,Brenzys; Enbrel,mixed
+etanercept,11222P,2022-03-29,20220329050717,Brenzys; Enbrel,mixed
+etanercept,11222P,2023-10-22,20231022212447,Brenzys; Enbrel,mixed
+etanercept,11222P,2025-02-12,20250212113522,Brenzys; Enbrel,mixed
+etanercept,11222P,2025-07-07,20250707222701,Brenzys; Enbrel; Nepexto,mixed
+etanercept,11222P,2026-01-06,20260106084510,Brenzys; Enbrel; Nepexto,mixed
+etanercept,09086F,2018-08-26,20180826000812,Brenzys; Enbrel,mixed
+etanercept,09086F,2019-10-18,20191018214224,Brenzys; Enbrel,mixed
+etanercept,09086F,2021-01-19,20210119025206,Brenzys; Enbrel,mixed
+etanercept,09086F,2022-03-29,20220329050853,Brenzys; Enbrel,mixed
+etanercept,09086F,2022-10-18,20221018040106,Brenzys; Enbrel,mixed
+etanercept,09086F,2024-10-05,20241005100824,Brenzys; Enbrel,mixed
+etanercept,09086F,2025-04-24,20250424063539,Brenzys; Enbrel,mixed
+etanercept,09455P,2018-08-26,20180826000611,Brenzys; Enbrel,mixed
+etanercept,09455P,2019-03-13,20190313035400,Brenzys; Enbrel,mixed
+etanercept,09455P,2019-11-13,20191113182413,Brenzys; Enbrel,mixed
+etanercept,09455P,2020-01-26,20200126150427,Brenzys; Enbrel,mixed
+etanercept,09455P,2021-01-19,20210119023314,Brenzys; Enbrel,mixed
+etanercept,09455P,2022-03-29,20220329050730,Brenzys; Enbrel,mixed
+etanercept,09455P,2022-10-18,20221018040032,Brenzys; Enbrel,mixed
+etanercept,09455P,2024-10-10,20241010172621,Brenzys; Enbrel,mixed
+etanercept,09455P,2025-02-12,20250212105809,Brenzys; Enbrel,mixed
+etanercept,09455P,2026-01-06,20260106052918,Brenzys; Enbrel; Erelzi; Nepexto,mixed
+etanercept,11224R,2018-08-26,20180826000318,Enbrel,reference_only
+etanercept,11224R,2019-12-28,20191228073042,Brenzys; Enbrel,mixed
+etanercept,11224R,2021-01-19,20210119012732,Brenzys; Enbrel,mixed
+etanercept,11224R,2022-03-29,20220329050834,Brenzys; Enbrel,mixed
+etanercept,11224R,2023-10-22,20231022212454,Brenzys; Enbrel,mixed
+etanercept,11224R,2025-07-07,20250707220113,Brenzys; Enbrel,mixed
+etanercept,09089J,2018-08-26,20180826000419,Brenzys; Enbrel,mixed
+etanercept,09089J,2021-01-19,20210119021958,Brenzys; Enbrel,mixed
+etanercept,09089J,2022-03-29,20220329050910,Brenzys; Enbrel,mixed
+etanercept,09089J,2022-10-06,20221006072851,Brenzys; Enbrel,mixed
+etanercept,09089J,2025-07-07,20250707230211,Brenzys; Enbrel,mixed
+etanercept,13708L,2023-12-11,20231211101903,Brenzys,biosimilar_only
+etanercept,13708L,2025-02-12,20250212111133,Brenzys,biosimilar_only
+etanercept,13708L,2025-07-07,20250707234655,Brenzys; Nepexto,biosimilar_only
+etanercept,13708L,2026-01-06,20260106041931,Brenzys; Erelzi; Nepexto,biosimilar_only
+etanercept,09088H,2018-08-26,20180826000600,Brenzys; Enbrel,mixed
+etanercept,09088H,2019-03-13,20190313040812,Brenzys; Enbrel,mixed
+etanercept,09088H,2021-01-19,20210119031316,Brenzys; Enbrel,mixed
+etanercept,09088H,2022-03-29,20220329050904,Brenzys; Enbrel,mixed
+etanercept,09088H,2024-10-10,20241010181049,Brenzys; Enbrel,mixed
+etanercept,09088H,2025-04-30,20250430015823,Brenzys; Enbrel,mixed
+etanercept,11221N,2018-08-26,20180826000509,Brenzys,biosimilar_only
+etanercept,11221N,2019-03-13,20190313035304,Brenzys,biosimilar_only
+etanercept,11221N,2019-11-27,20191127204810,Brenzys,biosimilar_only
+etanercept,11221N,2020-01-27,20200127041042,Brenzys,biosimilar_only
+etanercept,11221N,2021-01-25,20210125195929,Brenzys,biosimilar_only
+etanercept,11221N,2023-10-22,20231022212444,Brenzys,biosimilar_only
+etanercept,11221N,2025-02-12,20250212093627,Brenzys,biosimilar_only
+etanercept,11221N,2025-07-07,20250707224432,Brenzys; Nepexto,biosimilar_only
+etanercept,11221N,2026-01-06,20260106053805,Brenzys; Erelzi; Nepexto,biosimilar_only
+etanercept,05734T,2018-08-26,20180826000935,Enbrel,reference_only
+etanercept,05734T,2019-10-18,20191018204826,Enbrel,reference_only
+etanercept,05734T,2021-06-15,20210615123906,Enbrel,reference_only
+etanercept,05734T,2021-09-22,20210922143446,Enbrel,reference_only
+etanercept,05734T,2025-01-24,20250124131848,Enbrel,reference_only
+etanercept,11197H,2018-08-26,20180826000454,Enbrel,reference_only
+etanercept,11197H,2021-06-14,20210614153251,Enbrel,reference_only
+etanercept,11197H,2022-09-27,20220927180751,Enbrel,reference_only
+etanercept,11217J,2018-08-26,20180826000308,Brenzys,biosimilar_only
+etanercept,11217J,2019-10-18,20191018215658,Brenzys,biosimilar_only
+etanercept,11217J,2021-01-25,20210125200248,Brenzys,biosimilar_only
+etanercept,11217J,2022-10-18,20221018040057,Brenzys,biosimilar_only
+etanercept,11217J,2024-10-05,20241005091934,Brenzys,biosimilar_only
+etanercept,11217J,2025-04-30,20250430023716,Brenzys,biosimilar_only
+etanercept,05735W,2018-08-26,20180826000752,Enbrel,reference_only
+etanercept,05735W,2019-03-13,20190313051847,Enbrel,reference_only
+etanercept,05735W,2019-11-13,20191113175208,Enbrel,reference_only
+etanercept,05735W,2020-01-26,20200126153446,Enbrel,reference_only
+etanercept,05735W,2021-09-22,20210922154627,Enbrel,reference_only
+etanercept,05735W,2025-01-24,20250124144754,Enbrel,reference_only
+etanercept,11216H,2018-08-26,20180826000303,Brenzys,biosimilar_only
+etanercept,11216H,2019-03-13,20190313040803,Brenzys,biosimilar_only
+etanercept,11216H,2021-01-19,20210119023019,Brenzys,biosimilar_only
+etanercept,11216H,2024-10-10,20241010172235,Brenzys,biosimilar_only
+etanercept,11216H,2025-04-30,20250430160545,Brenzys,biosimilar_only
+infliximab,05754W,2018-03-03,20180303030439,Inflectra; Remicade; Renflexis,mixed
+infliximab,05754W,2018-08-26,20180826000349,Inflectra; Remicade; Renflexis,mixed
+infliximab,05754W,2019-02-26,20190226002959,Inflectra; Remicade; Renflexis,mixed
+infliximab,05754W,2019-08-28,20190828103613,Inflectra; Remicade; Renflexis,mixed
+infliximab,05754W,2020-01-12,20200112061124,Inflectra; Remicade; Renflexis,mixed
+infliximab,05754W,2021-06-14,20210614141522,Inflectra; Remicade; Renflexis,mixed
+infliximab,05754W,2024-11-14,20241114131122,Inflectra; Remicade; Renflexis,mixed
+infliximab,05754W,2025-04-24,20250424071849,Inflectra; Remicade; Renflexis,mixed
+infliximab,05754W,2025-11-25,20251125055104,Inflectra; Ixifi; Remicade; Remsima; Renflexis,mixed
+infliximab,05754W,2026-01-19,20260119071709,Inflectra; Ixifi; Remicade; Remsima; Renflexis,mixed
+infliximab,11389K,2018-08-26,20180826000721,Remicade,reference_only
+infliximab,11389K,2019-11-16,20191116114106,Inflectra; Remicade; Renflexis,mixed
+infliximab,11389K,2020-01-16,20200116023820,Inflectra; Remicade; Renflexis,mixed
+infliximab,11389K,2021-06-14,20210614152156,Inflectra; Remicade; Renflexis,mixed
+infliximab,11389K,2024-12-22,20241222033656,Inflectra; Remicade; Renflexis,mixed
+infliximab,11389K,2025-11-15,20251115032635,Inflectra; Ixifi; Remicade; Remsima; Renflexis,mixed
+infliximab,12560C,2021-09-24,20210924213324,Remsima SC,biosimilar_only
+infliximab,12560C,2025-11-07,20251107032500,Remsima SC,biosimilar_only
+infliximab,11400B,2018-08-26,20180826000919,Inflectra; Renflexis,biosimilar_only
+infliximab,11400B,2019-11-16,20191116114756,Inflectra; Renflexis,biosimilar_only
+infliximab,11400B,2020-01-16,20200116030519,Inflectra; Renflexis,biosimilar_only
+infliximab,11400B,2021-06-14,20210614142802,Inflectra; Renflexis,biosimilar_only
+infliximab,11400B,2024-12-21,20241221224505,Inflectra; Renflexis,biosimilar_only
+infliximab,11400B,2025-11-15,20251115023920,Inflectra; Ixifi; Remsima; Renflexis,biosimilar_only
+infliximab,11399Y,2018-08-26,20180826000914,Remicade,reference_only
+infliximab,11399Y,2019-11-16,20191116120426,Inflectra; Remicade; Renflexis,mixed
+infliximab,11399Y,2020-01-16,20200116025150,Inflectra; Remicade; Renflexis,mixed
+infliximab,11399Y,2021-06-14,20210614153005,Inflectra; Remicade; Renflexis,mixed
+infliximab,11399Y,2024-12-21,20241221222811,Inflectra; Remicade; Renflexis,mixed
+infliximab,11399Y,2025-11-07,20251107034154,Inflectra; Ixifi; Remicade; Remsima; Renflexis,mixed
+infliximab,11461F,2019-11-16,20191116115051,Inflectra; Renflexis,biosimilar_only
+infliximab,11461F,2020-01-16,20200116032235,Inflectra; Renflexis,biosimilar_only
+infliximab,11461F,2021-09-24,20210924203513,Inflectra; Renflexis,biosimilar_only
+infliximab,11461F,2023-05-29,20230529044521,Inflectra; Renflexis,biosimilar_only
+infliximab,11461F,2025-11-15,20251115022426,Inflectra; Ixifi; Remsima; Renflexis,biosimilar_only
+infliximab,10196P,2018-03-03,20180303030248,Inflectra; Remicade; Renflexis,mixed
+infliximab,10196P,2018-08-26,20180826000641,Inflectra; Remicade; Renflexis,mixed
+infliximab,10196P,2019-02-26,20190226002917,Inflectra; Remicade; Renflexis,mixed
+infliximab,10196P,2019-08-28,20190828103603,Inflectra; Remicade; Renflexis,mixed
+infliximab,10196P,2020-01-12,20200112061600,Inflectra; Remicade; Renflexis,mixed
+infliximab,10196P,2021-09-22,20210922133138,Inflectra; Remicade; Renflexis,mixed
+infliximab,10196P,2023-05-29,20230529042649,Inflectra; Remicade; Renflexis,mixed
+infliximab,10196P,2025-05-13,20250513055722,Inflectra; Remicade; Renflexis,mixed
+infliximab,10196P,2025-11-25,20251125055006,Inflectra; Ixifi; Remicade; Remsima; Renflexis,mixed
+infliximab,10196P,2026-01-09,20260109144953,Inflectra; Ixifi; Remicade; Remsima; Renflexis,mixed
+infliximab,11459D,2019-11-13,20191113011217,Inflectra; Remicade; Renflexis,mixed
+infliximab,11459D,2020-01-16,20200116030140,Inflectra; Remicade; Renflexis,mixed
+infliximab,11459D,2021-09-22,20210922154731,Inflectra; Remicade; Renflexis,mixed
+infliximab,11459D,2023-05-29,20230529064200,Inflectra; Remicade; Renflexis,mixed
+infliximab,11459D,2024-12-22,20241222032502,Inflectra; Remicade; Renflexis,mixed
+infliximab,11459D,2025-11-07,20251107041242,Inflectra; Ixifi; Remicade; Remsima; Renflexis,mixed
+infliximab,12587L,2021-09-22,20210922152947,Remsima SC,biosimilar_only
+infliximab,12587L,2025-11-07,20251107035912,Remsima SC,biosimilar_only
+infliximab,09613Y,2018-03-03,20180303031053,Inflectra; Remicade; Renflexis,mixed
+infliximab,09613Y,2018-08-26,20180826000434,Inflectra; Remicade; Renflexis,mixed
+infliximab,09613Y,2019-02-26,20190226003110,Inflectra; Remicade; Renflexis,mixed
+infliximab,09613Y,2019-08-28,20190828103718,Inflectra; Remicade; Renflexis,mixed
+infliximab,09613Y,2020-01-12,20200112052001,Inflectra; Remicade; Renflexis,mixed
+infliximab,09613Y,2021-06-14,20210614161210,Inflectra; Remicade; Renflexis,mixed
+infliximab,09613Y,2024-11-14,20241114152030,Inflectra; Remicade; Renflexis,mixed
+infliximab,09613Y,2025-05-13,20250513080930,Inflectra; Remicade; Renflexis,mixed
+infliximab,09613Y,2025-11-25,20251125054844,Inflectra; Ixifi; Remicade; Remsima; Renflexis,mixed
+infliximab,09613Y,2026-01-09,20260109170954,Inflectra; Ixifi; Remicade; Remsima; Renflexis,mixed
+infliximab,09654D,2018-03-03,20180303031203,Inflectra; Remicade; Renflexis,mixed
+infliximab,09654D,2018-08-26,20180826000444,Inflectra; Remicade; Renflexis,mixed
+infliximab,09654D,2019-02-26,20190226002109,Inflectra; Remicade; Renflexis,mixed
+infliximab,09654D,2019-08-28,20190828103809,Inflectra; Remicade; Renflexis,mixed
+infliximab,09654D,2020-01-12,20200112060653,Inflectra; Remicade; Renflexis,mixed
+infliximab,09654D,2021-09-22,20210922142852,Inflectra; Remicade; Renflexis,mixed
+infliximab,09654D,2024-11-14,20241114134625,Inflectra; Remicade; Renflexis,mixed
+infliximab,09654D,2025-04-24,20250424081216,Inflectra; Remicade; Renflexis,mixed
+infliximab,09654D,2025-11-25,20251125055121,Inflectra; Ixifi; Remicade; Remsima; Renflexis,mixed
+infliximab,11424G,2018-08-26,20180826000731,Remicade,reference_only
+infliximab,11424G,2019-03-13,20190313052036,Remicade,reference_only
+infliximab,11424G,2019-11-16,20191116113626,Inflectra; Remicade; Renflexis,mixed
+infliximab,11424G,2020-01-16,20200116032230,Inflectra; Remicade; Renflexis,mixed
+infliximab,11424G,2021-09-24,20210924221820,Inflectra; Remicade; Renflexis,mixed
+infliximab,11424G,2024-12-21,20241221224158,Inflectra; Remicade; Renflexis,mixed
+infliximab,11424G,2025-11-15,20251115035847,Inflectra; Ixifi; Remicade; Remsima; Renflexis,mixed
+infliximab,11797X,2019-10-14,20191014212607,Inflectra; Remicade; Renflexis,mixed
+infliximab,11797X,2021-09-22,20210922133716,Inflectra; Remicade; Renflexis,mixed
+infliximab,11797X,2023-05-29,20230529043503,Inflectra; Remicade; Renflexis,mixed
+infliximab,11797X,2025-11-15,20251115021554,Inflectra; Ixifi; Remicade; Remsima; Renflexis,mixed
+infliximab,11423F,2018-08-26,20180826000519,Inflectra; Renflexis,biosimilar_only
+infliximab,11423F,2019-03-13,20190313052011,Inflectra; Renflexis,biosimilar_only
+infliximab,11423F,2019-11-16,20191116121117,Inflectra; Renflexis,biosimilar_only
+infliximab,11423F,2020-01-16,20200116025454,Inflectra; Renflexis,biosimilar_only
+infliximab,11423F,2021-09-22,20210922154237,Inflectra; Renflexis,biosimilar_only
+infliximab,11423F,2025-11-15,20251115040410,Inflectra; Ixifi; Remsima; Renflexis,biosimilar_only
+infliximab,10184B,2018-03-03,20180303030243,Inflectra; Remicade; Renflexis,mixed
+infliximab,10184B,2018-08-26,20180826000854,Inflectra; Remicade; Renflexis,mixed
+infliximab,10184B,2019-02-26,20190226002707,Inflectra; Remicade; Renflexis,mixed
+infliximab,10184B,2019-08-28,20190828103739,Inflectra; Remicade; Renflexis,mixed
+infliximab,10184B,2020-01-12,20200112054136,Inflectra; Remicade; Renflexis,mixed
+infliximab,10184B,2021-09-22,20210922153353,Inflectra; Remicade; Renflexis,mixed
+infliximab,10184B,2023-05-29,20230529063019,Inflectra; Remicade; Renflexis,mixed
+infliximab,10184B,2025-05-13,20250513080059,Inflectra; Remicade; Renflexis,mixed
+infliximab,10184B,2025-11-25,20251125054729,Inflectra; Ixifi; Remicade; Remsima; Renflexis,mixed
+infliximab,10184B,2026-01-10,20260110130146,Inflectra; Ixifi; Remicade; Remsima; Renflexis,mixed
+infliximab,13060J,2022-08-14,20220814162436,Remsima SC,biosimilar_only
+infliximab,13060J,2024-06-12,20240612174335,Remsima SC,biosimilar_only
+infliximab,13060J,2025-11-07,20251107035814,Remsima SC,biosimilar_only
+infliximab,11482H,2019-10-14,20191014213832,Remicade,reference_only
+infliximab,11482H,2020-01-16,20200116024425,Inflectra; Remicade; Renflexis,mixed
+infliximab,11482H,2021-09-22,20210922155054,Inflectra; Remicade; Renflexis,mixed
+infliximab,11482H,2022-10-18,20221018040613,Inflectra; Remicade; Renflexis,mixed
+infliximab,11482H,2024-10-10,20241010181818,Inflectra; Remicade; Renflexis,mixed
+infliximab,11482H,2025-11-25,20251125055033,Inflectra; Ixifi; Remicade; Remsima; Renflexis,mixed
+infliximab,11412P,2018-08-26,20180826000726,Remicade,reference_only
+infliximab,11412P,2019-03-13,20190313041459,Remicade,reference_only
+infliximab,11412P,2019-11-16,20191116120912,Inflectra; Remicade; Renflexis,mixed
+infliximab,11412P,2020-01-16,20200116025450,Inflectra; Remicade; Renflexis,mixed
+infliximab,11412P,2021-09-22,20210922143319,Inflectra; Remicade; Renflexis,mixed
+infliximab,11412P,2025-11-07,20251107030024,Inflectra; Ixifi; Remicade; Remsima; Renflexis,mixed
+infliximab,05753T,2018-03-03,20180303030434,Inflectra; Remicade; Renflexis,mixed
+infliximab,05753T,2018-08-26,20180826000540,Inflectra; Remicade; Renflexis,mixed
+infliximab,05753T,2019-02-26,20190226003201,Inflectra; Remicade; Renflexis,mixed
+infliximab,05753T,2019-08-28,20190828103749,Inflectra; Remicade; Renflexis,mixed
+infliximab,05753T,2020-01-12,20200112054658,Inflectra; Remicade; Renflexis,mixed
+infliximab,05753T,2021-09-24,20210924212751,Inflectra; Remicade; Renflexis,mixed
+infliximab,05753T,2022-10-18,20221018040622,Inflectra; Remicade; Renflexis,mixed
+infliximab,05753T,2024-10-10,20241010170704,Inflectra; Remicade; Renflexis,mixed
+infliximab,05753T,2025-04-24,20250424092122,Inflectra; Remicade; Renflexis,mixed
+infliximab,05753T,2025-11-25,20251125055100,Inflectra; Ixifi; Remicade; Remsima; Renflexis,mixed
+infliximab,05755X,2018-03-03,20180303031148,Inflectra; Remicade; Renflexis,mixed
+infliximab,05755X,2018-08-26,20180826000545,Inflectra; Remicade; Renflexis,mixed
+infliximab,05755X,2019-02-26,20190226003105,Inflectra; Remicade; Renflexis,mixed
+infliximab,05755X,2019-08-28,20190828103618,Inflectra; Remicade; Renflexis,mixed
+infliximab,05755X,2020-01-12,20200112060032,Inflectra; Remicade; Renflexis,mixed
+infliximab,05755X,2021-06-14,20210614153329,Inflectra; Remicade; Renflexis,mixed
+infliximab,05755X,2024-11-14,20241114143811,Inflectra; Remicade; Renflexis,mixed
+infliximab,05755X,2025-04-24,20250424064636,Inflectra; Remicade; Renflexis,mixed
+infliximab,05755X,2025-11-25,20251125055109,Inflectra; Ixifi; Remicade; Remsima; Renflexis,mixed
+infliximab,05755X,2026-01-09,20260109162824,Inflectra; Ixifi; Remicade; Remsima; Renflexis,mixed
+infliximab,11489Q,2019-10-18,20191018204741,Remicade,reference_only
+infliximab,11489Q,2020-01-16,20200116031845,Inflectra; Remicade; Renflexis,mixed
+infliximab,11489Q,2021-09-22,20210922142315,Inflectra; Remicade; Renflexis,mixed
+infliximab,11489Q,2022-10-18,20221018040538,Inflectra; Remicade; Renflexis,mixed
+infliximab,11489Q,2024-10-10,20241010164620,Inflectra; Remicade; Renflexis,mixed
+infliximab,11489Q,2025-11-25,20251125054757,Inflectra; Ixifi; Remicade; Remsima; Renflexis,mixed
+infliximab,11449N,2018-09-27,20180927183408,Inflectra; Renflexis,biosimilar_only
+infliximab,11449N,2019-11-16,20191116115046,Inflectra; Renflexis,biosimilar_only
+infliximab,11449N,2020-01-16,20200116023354,Inflectra; Renflexis,biosimilar_only
+infliximab,11449N,2021-06-14,20210614150308,Inflectra; Renflexis,biosimilar_only
+infliximab,11449N,2024-12-21,20241221222656,Inflectra; Renflexis,biosimilar_only
+infliximab,11449N,2025-09-12,20250912222354,Inflectra; Renflexis,biosimilar_only
+infliximab,09674E,2018-03-03,20180303030349,Inflectra; Remicade; Renflexis,mixed
+infliximab,09674E,2018-08-26,20180826000844,Inflectra; Remicade; Renflexis,mixed
+infliximab,09674E,2019-02-26,20190226003004,Inflectra; Remicade; Renflexis,mixed
+infliximab,09674E,2019-08-28,20190828103628,Inflectra; Remicade; Renflexis,mixed
+infliximab,09674E,2020-01-12,20200112062736,Inflectra; Remicade; Renflexis,mixed
+infliximab,09674E,2021-09-22,20210922155014,Inflectra; Remicade; Renflexis,mixed
+infliximab,09674E,2024-11-14,20241114152605,Inflectra; Remicade; Renflexis,mixed
+infliximab,09674E,2025-04-24,20250424071730,Inflectra; Remicade; Renflexis,mixed
+infliximab,09674E,2025-11-25,20251125054850,Inflectra; Ixifi; Remicade; Remsima; Renflexis,mixed
+infliximab,09674E,2026-01-10,20260110052924,Inflectra; Ixifi; Remicade; Remsima; Renflexis,mixed
+infliximab,10067W,2015-09-21,20150921154733,Remicade,reference_only
+infliximab,10067W,2017-04-21,20170421105233,Inflectra; Remicade,mixed
+infliximab,10067W,2017-08-25,20170825022800,Inflectra; Remicade; Renflexis,mixed
+infliximab,10067W,2018-03-03,20180303030238,Inflectra; Remicade; Renflexis,mixed
+infliximab,10067W,2018-08-26,20180826000849,Inflectra; Remicade; Renflexis,mixed
+infliximab,10067W,2019-02-26,20190226003300,Inflectra; Remicade; Renflexis,mixed
+infliximab,10067W,2019-08-28,20190828103558,Inflectra; Remicade; Renflexis,mixed
+infliximab,10067W,2020-01-12,20200112055559,Inflectra; Remicade; Renflexis,mixed
+infliximab,10067W,2024-12-21,20241221225441,Inflectra; Remicade; Renflexis,mixed
+infliximab,10067W,2025-11-15,20251115030323,Inflectra; Ixifi; Remicade; Remsima; Renflexis,mixed
+infliximab,06448J,2018-03-03,20180303031248,Inflectra; Remicade; Renflexis,mixed
+infliximab,06448J,2018-08-26,20180826000940,Inflectra; Remicade; Renflexis,mixed
+infliximab,06448J,2019-02-26,20190226002948,Inflectra; Remicade; Renflexis,mixed
+infliximab,06448J,2019-08-28,20190828103623,Inflectra; Remicade; Renflexis,mixed
+infliximab,06448J,2020-01-12,20200112061134,Inflectra; Remicade; Renflexis,mixed
+infliximab,06448J,2021-09-22,20210922150428,Inflectra; Remicade; Renflexis,mixed
+infliximab,06448J,2022-10-18,20221018040543,Inflectra; Remicade; Renflexis,mixed
+infliximab,06448J,2024-10-05,20241005125300,Inflectra; Remicade; Renflexis,mixed
+infliximab,06448J,2025-04-25,20250425004109,Inflectra; Remicade; Renflexis,mixed
+infliximab,06448J,2025-11-25,20251125054834,Inflectra; Ixifi; Remicade; Remsima; Renflexis,mixed
+infliximab,12554R,2021-12-07,20211207174841,Remsima SC,biosimilar_only
+infliximab,12554R,2022-08-14,20220814154319,Remsima SC,biosimilar_only
+infliximab,12554R,2024-06-15,20240615031803,Remsima SC,biosimilar_only
+infliximab,12554R,2025-11-07,20251107032425,Remsima SC,biosimilar_only
+infliximab,11396T,2018-08-26,20180826000324,Inflectra; Renflexis,biosimilar_only
+infliximab,11396T,2019-11-08,20191108232007,Inflectra; Renflexis,biosimilar_only
+infliximab,11396T,2020-01-16,20200116030514,Inflectra; Renflexis,biosimilar_only
+infliximab,11396T,2021-06-13,20210613043612,Inflectra; Renflexis,biosimilar_only
+infliximab,11396T,2025-11-15,20251115022301,Inflectra; Ixifi; Remsima; Renflexis,biosimilar_only
+infliximab,11448M,2018-09-27,20180927183403,Remicade,reference_only
+infliximab,11448M,2019-11-16,20191116120917,Inflectra; Remicade; Renflexis,mixed
+infliximab,11448M,2020-01-16,20200116025845,Inflectra; Remicade; Renflexis,mixed
+infliximab,11448M,2021-06-14,20210614151148,Inflectra; Remicade; Renflexis,mixed
+infliximab,11448M,2025-09-12,20250912223418,Inflectra; Remicade; Renflexis,mixed
+infliximab,05756Y,2015-09-08,20150908024213,Remicade,reference_only
+infliximab,05756Y,2018-03-03,20180303031153,Inflectra; Remicade; Renflexis,mixed
+infliximab,05756Y,2018-08-26,20180826000354,Inflectra; Remicade; Renflexis,mixed
+infliximab,05756Y,2019-02-26,20190226002059,Inflectra; Remicade; Renflexis,mixed
+infliximab,05756Y,2019-08-28,20190828103713,Inflectra; Remicade; Renflexis,mixed
+infliximab,05756Y,2020-01-12,20200112060838,Inflectra; Remicade; Renflexis,mixed
+infliximab,05756Y,2021-10-18,20211018165244,Inflectra; Remicade; Renflexis,mixed
+infliximab,05756Y,2024-10-10,20241010164512,Inflectra; Remicade; Renflexis,mixed
+infliximab,05756Y,2025-04-25,20250425022957,Inflectra; Remicade; Renflexis,mixed
+infliximab,05756Y,2025-11-25,20251125055113,Inflectra; Ixifi; Remicade; Remsima; Renflexis,mixed
+infliximab,06496X,2015-09-08,20150908023850,Remicade,reference_only
+infliximab,06496X,2018-03-03,20180303030329,Inflectra; Remicade; Renflexis,mixed
+infliximab,06496X,2018-08-26,20180826000802,Inflectra; Remicade; Renflexis,mixed
+infliximab,06496X,2019-02-26,20190226002718,Inflectra; Remicade; Renflexis,mixed
+infliximab,06496X,2019-08-28,20190828103759,Inflectra; Remicade; Renflexis,mixed
+infliximab,06496X,2020-01-12,20200112060622,Inflectra; Remicade; Renflexis,mixed
+infliximab,06496X,2021-10-18,20211018173629,Inflectra; Remicade; Renflexis,mixed
+infliximab,06496X,2024-10-05,20241005094127,Inflectra; Remicade; Renflexis,mixed
+infliximab,06496X,2025-04-24,20250424083233,Inflectra; Remicade; Renflexis,mixed
+infliximab,06496X,2025-11-25,20251125054838,Inflectra; Ixifi; Remicade; Remsima; Renflexis,mixed
+infliximab,05758C,2015-09-08,20150908022738,Remicade,reference_only
+infliximab,05758C,2017-03-01,20170301211827,Inflectra; Remicade,mixed
+infliximab,05758C,2018-03-03,20180303030444,Inflectra; Remicade; Renflexis,mixed
+infliximab,05758C,2018-08-26,20180826000550,Inflectra; Remicade; Renflexis,mixed
+infliximab,05758C,2019-02-26,20190226003307,Inflectra; Remicade; Renflexis,mixed
+infliximab,05758C,2019-08-28,20190828103754,Inflectra; Remicade; Renflexis,mixed
+infliximab,05758C,2020-01-12,20200112052541,Inflectra; Remicade; Renflexis,mixed
+infliximab,05758C,2021-01-24,20210124094511,Inflectra; Remicade; Renflexis,mixed
+infliximab,05758C,2023-11-06,20231106132937,Inflectra; Remicade; Renflexis,mixed
+infliximab,05758C,2024-11-14,20241114144656,Inflectra; Remicade; Renflexis,mixed
+infliximab,05758C,2025-04-25,20250425014942,Inflectra; Remicade; Renflexis,mixed
+infliximab,05758C,2025-11-25,20251125055118,Inflectra; Ixifi; Remicade; Remsima; Renflexis,mixed
+infliximab,05758C,2026-01-09,20260109132934,Inflectra; Ixifi; Remicade; Remsima; Renflexis,mixed
+infliximab,11497D,2019-03-13,20190313052044,Remicade,reference_only
+infliximab,11497D,2019-11-16,20191116115056,Inflectra; Remicade; Renflexis,mixed
+infliximab,11497D,2020-01-16,20200116025850,Inflectra; Remicade; Renflexis,mixed
+infliximab,11497D,2021-10-18,20211018162450,Inflectra; Remicade; Renflexis,mixed
+infliximab,11497D,2024-10-10,20241010162226,Inflectra; Remicade; Renflexis,mixed
+infliximab,11497D,2025-04-24,20250424082135,Inflectra; Remicade; Renflexis,mixed
+infliximab,11497D,2025-11-25,20251125055041,Inflectra; Ixifi; Remicade; Remsima; Renflexis,mixed
+infliximab,11796W,2019-10-14,20191014201433,Inflectra; Renflexis,biosimilar_only
+infliximab,11796W,2021-09-22,20210922135642,Inflectra; Renflexis,biosimilar_only
+infliximab,11796W,2023-05-29,20230529045045,Inflectra; Renflexis,biosimilar_only
+infliximab,11796W,2025-11-15,20251115022840,Inflectra; Ixifi; Remsima; Renflexis,biosimilar_only
+infliximab,11498E,2019-03-13,20190313041513,Remicade,reference_only
+infliximab,11498E,2019-11-16,20191116121326,Inflectra; Remicade; Renflexis,mixed
+infliximab,11498E,2020-01-16,20200116025855,Inflectra; Remicade; Renflexis,mixed
+infliximab,11498E,2021-10-18,20211018160659,Inflectra; Remicade; Renflexis,mixed
+infliximab,11498E,2024-10-05,20241005114253,Inflectra; Remicade; Renflexis,mixed
+infliximab,11498E,2025-04-30,20250430015206,Inflectra; Remicade; Renflexis,mixed
+infliximab,11498E,2025-11-25,20251125054800,Inflectra; Ixifi; Remicade; Remsima; Renflexis,mixed
+infliximab,10057H,2018-03-03,20180303030233,Inflectra; Remicade; Renflexis,mixed
+infliximab,10057H,2018-08-26,20180826000449,Inflectra; Remicade; Renflexis,mixed
+infliximab,10057H,2019-01-28,20190128020155,Inflectra; Remicade; Renflexis,mixed
+infliximab,10057H,2019-07-07,20190707203723,Inflectra; Remicade; Renflexis,mixed
+infliximab,10057H,2020-01-12,20200112054956,Inflectra; Remicade; Renflexis,mixed
+infliximab,10057H,2022-01-29,20220129062650,Inflectra; Remicade; Renflexis,mixed
+infliximab,10057H,2023-03-27,20230327102302,Inflectra; Remicade; Renflexis,mixed
+infliximab,10057H,2024-10-26,20241026110044,Inflectra; Remicade; Renflexis,mixed
+infliximab,10057H,2025-04-21,20250421031429,Inflectra; Remicade; Renflexis,mixed
+infliximab,10057H,2025-11-15,20251115030656,Inflectra; Ixifi; Remicade; Remsima; Renflexis,mixed
+infliximab,11486M,2019-11-13,20191113184213,Inflectra; Renflexis,biosimilar_only
+infliximab,11486M,2020-01-16,20200116031150,Inflectra; Renflexis,biosimilar_only
+infliximab,11486M,2021-09-24,20210924214649,Inflectra; Renflexis,biosimilar_only
+infliximab,11486M,2022-10-18,20221018040617,Inflectra; Renflexis,biosimilar_only
+infliximab,11486M,2024-10-05,20241005125124,Inflectra; Renflexis,biosimilar_only
+infliximab,11486M,2025-11-25,20251125055036,Inflectra; Ixifi; Remsima; Renflexis,biosimilar_only
+infliximab,05757B,2018-03-03,20180303031158,Inflectra; Remicade; Renflexis,mixed
+infliximab,05757B,2018-08-26,20180826000757,Inflectra; Remicade; Renflexis,mixed
+infliximab,05757B,2019-02-26,20190226003206,Inflectra; Remicade; Renflexis,mixed
+infliximab,05757B,2019-08-28,20190828103852,Inflectra; Remicade; Renflexis,mixed
+infliximab,05757B,2020-01-12,20200112060237,Inflectra; Remicade; Renflexis,mixed
+infliximab,05757B,2021-06-13,20210613044437,Inflectra; Remicade; Renflexis,mixed
+infliximab,05757B,2022-10-06,20221006063750,Inflectra; Remicade; Renflexis,mixed
+infliximab,05757B,2024-11-14,20241114132349,Inflectra; Remicade; Renflexis,mixed
+infliximab,05757B,2025-05-13,20250513062705,Inflectra; Remicade; Renflexis,mixed
+infliximab,05757B,2025-11-25,20251125055115,Inflectra; Ixifi; Remicade; Remsima; Renflexis,mixed
+infliximab,05757B,2026-01-09,20260109165815,Inflectra; Ixifi; Remicade; Remsima; Renflexis,mixed
+infliximab,06397Q,2018-03-03,20180303031243,Inflectra; Remicade; Renflexis,mixed
+infliximab,06397Q,2018-08-26,20180826000555,Inflectra; Remicade; Renflexis,mixed
+infliximab,06397Q,2019-02-26,20190226003312,Inflectra; Remicade; Renflexis,mixed
+infliximab,06397Q,2019-08-28,20190828103857,Inflectra; Remicade; Renflexis,mixed
+infliximab,06397Q,2020-01-12,20200112060037,Inflectra; Remicade; Renflexis,mixed
+infliximab,06397Q,2021-06-13,20210613045242,Inflectra; Remicade; Renflexis,mixed
+infliximab,06397Q,2022-10-06,20221006064403,Inflectra; Remicade; Renflexis,mixed
+infliximab,06397Q,2024-11-14,20241114132735,Inflectra; Remicade; Renflexis,mixed
+infliximab,06397Q,2025-04-24,20250424092757,Inflectra; Remicade; Renflexis,mixed
+infliximab,06397Q,2025-11-25,20251125054830,Inflectra; Ixifi; Remicade; Remsima; Renflexis,mixed
+infliximab,11606W,2019-11-16,20191116121127,Inflectra; Remicade; Renflexis,mixed
+infliximab,11606W,2020-01-16,20200116024145,Inflectra; Remicade; Renflexis,mixed
+infliximab,11606W,2021-09-24,20210924221551,Inflectra; Remicade; Renflexis,mixed
+infliximab,11606W,2023-11-06,20231106132934,Inflectra; Remicade; Renflexis,mixed
+infliximab,11606W,2025-11-15,20251115035320,Inflectra; Ixifi; Remicade; Remsima; Renflexis,mixed
+infliximab,13048R,2022-08-14,20220814150303,Remsima SC,biosimilar_only
+infliximab,13048R,2024-10-10,20241010162820,Remsima SC,biosimilar_only
+infliximab,13048R,2025-04-30,20250430041806,Remsima SC,biosimilar_only
+infliximab,13048R,2025-11-22,20251122061128,Remsima SC,biosimilar_only
+infliximab,12551N,2021-09-22,20210922152533,Remsima SC,biosimilar_only

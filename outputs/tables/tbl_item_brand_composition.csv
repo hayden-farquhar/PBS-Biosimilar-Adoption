@@ -1,0 +1,747 @@
+item_number,molecule,previous_type,brands,n_brands,has_ref,has_bio,has_unrecognised,first_listed_date,item_class
+01082Y,filgrastim,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+01113N,filgrastim,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+01123D,filgrastim,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+01126G,filgrastim,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+01954W,etanercept,reference,Enbrel,1,TRUE,FALSE,FALSE,2012-08-01,reference_only
+01963H,etanercept,biosimilar,Enbrel; Erelzi,2,TRUE,TRUE,FALSE,2012-08-01,mixed
+01964J,etanercept,biosimilar,Enbrel; Erelzi; Nepexto,3,TRUE,TRUE,FALSE,2012-08-01,mixed
+02168D,aflibercept,reference,Eylea,1,TRUE,FALSE,FALSE,2012-12-01,reference_only
+02733W,filgrastim,biosimilar,Zarzio,1,FALSE,TRUE,FALSE,2013-09-01,biosimilar_only
+02747N,filgrastim,biosimilar,Zarzio,1,FALSE,TRUE,FALSE,2013-09-01,biosimilar_only
+02758E,filgrastim,biosimilar,Zarzio,1,FALSE,TRUE,FALSE,2013-09-01,biosimilar_only
+02783L,filgrastim,biosimilar,Zarzio,1,FALSE,TRUE,FALSE,2013-09-01,biosimilar_only
+03445H,etanercept,reference,Enbrel,1,TRUE,FALSE,FALSE,2010-11-01,reference_only
+03446J,etanercept,biosimilar,Enbrel; Erelzi,2,TRUE,TRUE,FALSE,2010-11-01,mixed
+03447K,etanercept,biosimilar,Enbrel; Erelzi; Nepexto,3,TRUE,TRUE,FALSE,2010-11-01,mixed
+03448L,etanercept,reference,Enbrel,1,TRUE,FALSE,FALSE,2010-11-01,reference_only
+03449M,etanercept,biosimilar,Enbrel; Erelzi,2,TRUE,TRUE,FALSE,2010-11-01,mixed
+03450N,etanercept,biosimilar,Enbrel; Erelzi; Nepexto,3,TRUE,TRUE,FALSE,2010-11-01,mixed
+04284L,infliximab,reference,Remicade,1,TRUE,FALSE,FALSE,2003-05-01,reference_only
+04400N,bevacizumab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+04613T,rituximab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+04614W,rituximab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+04615X,rituximab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+04632T,trastuzumab,biosimilar,Herzuma; Kanjinti; Ogivri; Trazimera,4,FALSE,TRUE,FALSE,2019-08-01,biosimilar_only
+04639E,trastuzumab,biosimilar,Herzuma; Kanjinti; Ogivri; Trazimera,4,FALSE,TRUE,FALSE,2019-08-01,biosimilar_only
+04650R,trastuzumab,biosimilar,Herzuma; Kanjinti; Ogivri; Trazimera,4,FALSE,TRUE,FALSE,2019-08-01,biosimilar_only
+04703M,trastuzumab,biosimilar,Herzuma; Kanjinti; Ogivri; Trazimera,4,FALSE,TRUE,FALSE,2019-08-01,biosimilar_only
+05281Y,adalimumab,biosimilar,Amgevita; Hadlima; Hyrimoz,3,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+05282B,adalimumab,biosimilar,Abrilada; Amgevita; Hadlima; Hyrimoz,4,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+05283C,adalimumab,biosimilar,Amgevita; Hadlima; Hyrimoz,3,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+05284D,adalimumab,biosimilar,Abrilada; Amgevita; Hadlima; Hyrimoz,4,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+05589E,rituximab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+05590F,rituximab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+05733R,etanercept,biosimilar,Enbrel; Erelzi,2,TRUE,TRUE,FALSE,2010-07-01,mixed
+05734T,etanercept,reference,Enbrel,1,TRUE,FALSE,FALSE,2010-07-01,reference_only
+05735W,etanercept,biosimilar,Enbrel; Erelzi; Nepexto,3,TRUE,TRUE,FALSE,2010-07-01,mixed
+05741E,filgrastim,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+05742F,filgrastim,biosimilar,Nivestim,1,FALSE,TRUE,FALSE,2019-10-01,biosimilar_only
+05743G,filgrastim,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+05744H,filgrastim,biosimilar,Nivestim,1,FALSE,TRUE,FALSE,2019-10-01,biosimilar_only
+05753T,infliximab,biosimilar,Inflectra; Ixifi; Remicade; Remsima; Renflexis,5,TRUE,TRUE,FALSE,2010-07-01,mixed
+05754W,infliximab,biosimilar,Inflectra; Ixifi; Remicade; Remsima; Renflexis,5,TRUE,TRUE,FALSE,2010-07-01,mixed
+05755X,infliximab,biosimilar,Inflectra; Ixifi; Remicade; Remsima; Renflexis,5,TRUE,TRUE,FALSE,2010-07-01,mixed
+05756Y,infliximab,biosimilar,Inflectra; Ixifi; Remicade; Remsima; Renflexis,5,TRUE,TRUE,FALSE,2010-07-01,mixed
+05757B,infliximab,biosimilar,Inflectra; Ixifi; Remicade; Remsima; Renflexis,5,TRUE,TRUE,FALSE,2010-07-01,mixed
+05758C,infliximab,biosimilar,Inflectra; Ixifi; Remicade; Remsima; Renflexis,5,TRUE,TRUE,FALSE,2010-07-01,mixed
+05829T,filgrastim,biosimilar,Nivestim,1,FALSE,TRUE,FALSE,2011-08-01,biosimilar_only
+05830W,filgrastim,biosimilar,Nivestim,1,FALSE,TRUE,FALSE,2011-08-01,biosimilar_only
+05849W,bevacizumab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+05850X,bevacizumab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+05896H,rituximab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+05897J,rituximab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+05978P,rituximab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+05979Q,rituximab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+06126K,filgrastim,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+06127L,filgrastim,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+06224N,filgrastim,no_data,NA,NA,NA,NA,NA,NA,not_in_schedule
+06225P,filgrastim,no_data,NA,NA,NA,NA,NA,NA,not_in_schedule
+06291D,filgrastim,biosimilar,Nivestim,1,FALSE,TRUE,FALSE,2019-10-01,biosimilar_only
+06292E,filgrastim,biosimilar,Nivestim,1,FALSE,TRUE,FALSE,2019-10-01,biosimilar_only
+06363X,pegfilgrastim,biosimilar,Pelgraz; Ziextenzo,2,FALSE,TRUE,FALSE,2020-03-01,biosimilar_only
+06367D,etanercept,reference,Enbrel,1,TRUE,FALSE,FALSE,2003-07-01,reference_only
+06397Q,infliximab,biosimilar,Inflectra; Ixifi; Remicade; Remsima; Renflexis,5,TRUE,TRUE,FALSE,2003-11-01,mixed
+06398R,infliximab,no_data,NA,NA,NA,NA,NA,NA,not_in_schedule
+06448J,infliximab,biosimilar,Inflectra; Ixifi; Remicade; Remsima; Renflexis,5,TRUE,TRUE,FALSE,2004-08-01,mixed
+06496X,infliximab,biosimilar,Inflectra; Ixifi; Remicade; Remsima; Renflexis,5,TRUE,TRUE,FALSE,2006-08-01,mixed
+06497Y,trastuzumab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+07243F,bevacizumab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+07257Y,rituximab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+07258B,rituximab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+07259C,rituximab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+07264H,trastuzumab,biosimilar,Herzuma; Kanjinti; Ogivri; Trazimera,4,FALSE,TRUE,FALSE,2019-08-01,biosimilar_only
+07265J,trastuzumab,biosimilar,Herzuma; Kanjinti; Ogivri; Trazimera,4,FALSE,TRUE,FALSE,2019-08-01,biosimilar_only
+07266K,trastuzumab,biosimilar,Herzuma; Kanjinti; Ogivri; Trazimera,4,FALSE,TRUE,FALSE,2019-08-01,biosimilar_only
+07267L,trastuzumab,biosimilar,Herzuma; Kanjinti; Ogivri; Trazimera,4,FALSE,TRUE,FALSE,2019-08-01,biosimilar_only
+08293L,rituximab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+08294M,rituximab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+08637N,etanercept,reference,Enbrel,1,TRUE,FALSE,FALSE,2003-08-01,reference_only
+08638P,etanercept,reference,Enbrel,1,TRUE,FALSE,FALSE,2003-08-01,reference_only
+08665C,rituximab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+08666D,rituximab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+08737W,adalimumab,biosimilar,Amgevita; Hadlima; Hyrimoz,3,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+08741C,adalimumab,biosimilar,Amgevita; Hadlima; Hyrimoz,3,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+08778B,etanercept,reference,Enbrel,1,TRUE,FALSE,FALSE,2005-04-01,reference_only
+08779C,etanercept,reference,Enbrel,1,TRUE,FALSE,FALSE,2005-04-01,reference_only
+08861J,etanercept,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+08862K,etanercept,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+08961P,adalimumab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+08962Q,adalimumab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+08963R,adalimumab,biosimilar,Amgevita; Hadlima; Hyrimoz,3,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+08964T,adalimumab,biosimilar,Amgevita; Hadlima; Hyrimoz,3,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+08965W,adalimumab,biosimilar,Abrilada; Amgevita; Hadlima; Hyrimoz,4,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+08966X,adalimumab,biosimilar,Abrilada; Amgevita; Hadlima; Hyrimoz,4,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+09033K,adalimumab,biosimilar,Amgevita; Hadlima; Hyrimoz,3,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+09034L,adalimumab,biosimilar,Amgevita; Hadlima; Hyrimoz,3,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+09035M,etanercept,reference,Enbrel,1,TRUE,FALSE,FALSE,2006-08-01,reference_only
+09036N,etanercept,reference,Enbrel,1,TRUE,FALSE,FALSE,2006-08-01,reference_only
+09037P,etanercept,reference,Enbrel,1,TRUE,FALSE,FALSE,2006-08-01,reference_only
+09038Q,etanercept,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+09039R,insulin glargine,reference,Optisulin,1,TRUE,FALSE,FALSE,2020-01-01,reference_only
+09077R,adalimumab,biosimilar,Amgevita; Hadlima; Hyrimoz,3,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+09078T,adalimumab,biosimilar,Amgevita; Hadlima; Hyrimoz,3,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+09081Y,etanercept,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+09082B,etanercept,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+09083C,etanercept,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+09084D,etanercept,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+09085E,etanercept,biosimilar,Brenzys; Enbrel; Erelzi,3,TRUE,TRUE,FALSE,2007-06-01,mixed
+09086F,etanercept,biosimilar,Brenzys; Enbrel; Erelzi,3,TRUE,TRUE,FALSE,2007-06-01,mixed
+09087G,etanercept,biosimilar,Brenzys; Enbrel; Erelzi,3,TRUE,TRUE,FALSE,2007-06-01,mixed
+09088H,etanercept,biosimilar,Brenzys; Enbrel; Erelzi,3,TRUE,TRUE,FALSE,2007-06-01,mixed
+09089J,etanercept,biosimilar,Brenzys; Enbrel; Erelzi,3,TRUE,TRUE,FALSE,2007-06-01,mixed
+09090K,etanercept,biosimilar,Brenzys; Enbrel; Erelzi,3,TRUE,TRUE,FALSE,2007-06-01,mixed
+09091L,etanercept,biosimilar,Brenzys; Enbrel; Erelzi,3,TRUE,TRUE,FALSE,2007-06-01,mixed
+09099X,adalimumab,biosimilar,Abrilada; Amgevita; Hadlima; Hyrimoz,4,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+09100Y,adalimumab,biosimilar,Abrilada; Amgevita; Hadlima; Hyrimoz,4,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+09101B,adalimumab,biosimilar,Abrilada; Amgevita; Hadlima; Hyrimoz,4,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+09102C,adalimumab,biosimilar,Abrilada; Amgevita; Hadlima; Hyrimoz,4,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+09103D,adalimumab,biosimilar,Abrilada; Amgevita; Hadlima; Hyrimoz,4,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+09104E,adalimumab,biosimilar,Abrilada; Amgevita; Hadlima; Hyrimoz,4,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+09186L,adalimumab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+09187M,adalimumab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+09188N,adalimumab,biosimilar,Amgevita; Hadlima; Hyrimoz,3,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+09189P,adalimumab,biosimilar,Amgevita; Hadlima; Hyrimoz,3,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+09190Q,adalimumab,biosimilar,Abrilada; Amgevita; Hadlima; Hyrimoz,4,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+09191R,adalimumab,biosimilar,Abrilada; Amgevita; Hadlima; Hyrimoz,4,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+09425C,adalimumab,biosimilar,Amgevita; Hadlima; Hyrimoz,3,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+09426D,adalimumab,biosimilar,Abrilada; Amgevita; Hadlima; Hyrimoz,4,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+09427E,adalimumab,biosimilar,Amgevita; Hadlima; Hyrimoz,3,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+09428F,adalimumab,biosimilar,Abrilada; Amgevita; Hadlima; Hyrimoz,4,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+09429G,etanercept,reference,Enbrel,1,TRUE,FALSE,FALSE,2009-06-01,reference_only
+09430H,etanercept,no_data,NA,NA,NA,NA,NA,NA,not_in_schedule
+09431J,etanercept,biosimilar,Brenzys; Enbrel; Erelzi,3,TRUE,TRUE,FALSE,2009-06-01,mixed
+09442Y,bevacizumab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+09443B,bevacizumab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+09455P,etanercept,biosimilar,Brenzys; Enbrel; Erelzi; Nepexto,4,TRUE,TRUE,FALSE,2009-08-01,mixed
+09456Q,etanercept,biosimilar,Brenzys; Enbrel; Erelzi; Nepexto,4,TRUE,TRUE,FALSE,2009-08-01,mixed
+09457R,etanercept,biosimilar,Brenzys; Enbrel; Erelzi; Nepexto,4,TRUE,TRUE,FALSE,2009-08-01,mixed
+09458T,etanercept,biosimilar,Brenzys; Enbrel; Erelzi; Nepexto,4,TRUE,TRUE,FALSE,2009-08-01,mixed
+09459W,etanercept,biosimilar,Brenzys; Enbrel; Erelzi; Nepexto,4,TRUE,TRUE,FALSE,2009-08-01,mixed
+09460X,etanercept,biosimilar,Brenzys; Enbrel; Erelzi; Nepexto,4,TRUE,TRUE,FALSE,2009-08-01,mixed
+09461Y,etanercept,biosimilar,Brenzys; Enbrel; Erelzi; Nepexto,4,TRUE,TRUE,FALSE,2009-08-01,mixed
+09462B,etanercept,biosimilar,Brenzys; Enbrel; Erelzi; Nepexto,4,TRUE,TRUE,FALSE,2009-08-01,mixed
+09514R,pegfilgrastim,biosimilar,Pelgraz; Ziextenzo,2,FALSE,TRUE,FALSE,2020-03-01,biosimilar_only
+09544H,rituximab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+09601H,pegfilgrastim,no_data,NA,NA,NA,NA,NA,NA,not_in_schedule
+09611W,rituximab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+09612X,infliximab,biosimilar,Inflectra; Ixifi; Remicade; Remsima; Renflexis,5,TRUE,TRUE,FALSE,2007-10-01,mixed
+09613Y,infliximab,biosimilar,Inflectra; Ixifi; Remicade; Remsima; Renflexis,5,TRUE,TRUE,FALSE,2007-10-01,mixed
+09615C,etanercept,biosimilar,Enbrel; Erelzi,2,TRUE,TRUE,FALSE,2007-11-01,mixed
+09617E,infliximab,biosimilar,Inflectra; Ixifi; Remicade; Remsima; Renflexis,5,TRUE,TRUE,FALSE,2007-12-01,mixed
+09641K,etanercept,biosimilar,Enbrel; Erelzi; Nepexto,3,TRUE,TRUE,FALSE,2009-08-01,mixed
+09654D,infliximab,biosimilar,Inflectra; Ixifi; Remicade; Remsima; Renflexis,5,TRUE,TRUE,FALSE,2010-08-01,mixed
+09661L,adalimumab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+09662M,adalimumab,biosimilar,Amgevita; Hadlima; Hyrimoz,3,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+09663N,adalimumab,biosimilar,Abrilada; Amgevita; Hadlima; Hyrimoz,4,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+09674E,infliximab,biosimilar,Inflectra; Ixifi; Remicade; Remsima; Renflexis,5,TRUE,TRUE,FALSE,2010-08-01,mixed
+09678J,adalimumab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+09679K,adalimumab,biosimilar,Amgevita; Hadlima; Hyrimoz,3,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+09680L,adalimumab,biosimilar,Abrilada; Amgevita; Hadlima; Hyrimoz,4,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+09689Y,trastuzumab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+09690B,trastuzumab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+09691C,trastuzumab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+09692D,filgrastim,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+09693E,filgrastim,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+09694F,filgrastim,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+09695G,filgrastim,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+10057H,infliximab,biosimilar,Inflectra; Ixifi; Remicade; Remsima; Renflexis,5,TRUE,TRUE,FALSE,2014-04-01,mixed
+10067W,infliximab,biosimilar,Inflectra; Ixifi; Remicade; Remsima; Renflexis,5,TRUE,TRUE,FALSE,2014-04-01,mixed
+10114H,bevacizumab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+10115J,bevacizumab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+10120P,bevacizumab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+10121Q,bevacizumab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+10179R,rituximab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+10184B,infliximab,biosimilar,Inflectra; Ixifi; Remicade; Remsima; Renflexis,5,TRUE,TRUE,FALSE,2014-12-01,mixed
+10193L,rituximab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+10196P,infliximab,biosimilar,Inflectra; Ixifi; Remicade; Remsima; Renflexis,5,TRUE,TRUE,FALSE,2014-12-01,mixed
+10269L,trastuzumab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+10270M,trastuzumab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+10296X,trastuzumab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+10324J,trastuzumab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+10346M,trastuzumab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+10362J,trastuzumab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+10381J,trastuzumab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+10383L,trastuzumab,biosimilar,Herzuma; Kanjinti; Ogivri; Trazimera,4,FALSE,TRUE,FALSE,2019-08-01,biosimilar_only
+10389T,adalimumab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+10391X,trastuzumab,biosimilar,Herzuma; Kanjinti; Ogivri; Trazimera,4,FALSE,TRUE,FALSE,2019-08-01,biosimilar_only
+10396E,adalimumab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+10397F,adalimumab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+10399H,adalimumab,biosimilar,Amgevita; Hadlima; Hyrimoz,3,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+10400J,adalimumab,biosimilar,Abrilada; Amgevita; Hadlima; Hyrimoz,4,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+10401K,trastuzumab,biosimilar,Herzuma; Kanjinti; Ogivri; Trazimera,4,FALSE,TRUE,FALSE,2019-08-01,biosimilar_only
+10402L,trastuzumab,biosimilar,Herzuma; Kanjinti; Ogivri; Trazimera,4,FALSE,TRUE,FALSE,2019-08-01,biosimilar_only
+10404N,adalimumab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+10412B,adalimumab,biosimilar,Amgevita; Hadlima; Hyrimoz,3,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+10413C,adalimumab,biosimilar,Abrilada; Amgevita; Hadlima; Hyrimoz,4,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+10419J,adalimumab,biosimilar,Amgevita; Hadlima; Hyrimoz,3,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+10420K,adalimumab,biosimilar,Abrilada; Amgevita; Hadlima; Hyrimoz,4,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+10422M,adalimumab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+10423N,trastuzumab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+10505X,aflibercept,reference,Eylea,1,TRUE,FALSE,FALSE,2015-10-01,reference_only
+10575N,trastuzumab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+10576P,rituximab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+10581X,trastuzumab,biosimilar,Herzuma; Kanjinti; Ogivri; Trazimera,4,FALSE,TRUE,FALSE,2019-08-01,biosimilar_only
+10583B,rituximab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+10588G,trastuzumab,biosimilar,Herzuma; Kanjinti; Ogivri; Trazimera,4,FALSE,TRUE,FALSE,2019-08-01,biosimilar_only
+10589H,trastuzumab,biosimilar,Herzuma; Kanjinti; Ogivri; Trazimera,4,FALSE,TRUE,FALSE,2019-08-01,biosimilar_only
+10591K,rituximab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+10593M,rituximab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+10595P,trastuzumab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+10597R,trastuzumab,biosimilar,Herzuma; Kanjinti; Ogivri; Trazimera,4,FALSE,TRUE,FALSE,2019-08-01,biosimilar_only
+10682F,trastuzumab,reference,Herceptin SC,1,TRUE,FALSE,FALSE,2016-04-01,reference_only
+10703H,rituximab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+10708N,rituximab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+10709P,rituximab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+10710Q,rituximab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+10719E,rituximab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+10720F,rituximab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+10721G,trastuzumab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+10741H,rituximab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+10742J,rituximab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+10743K,trastuzumab,reference,Herceptin SC,1,TRUE,FALSE,FALSE,2016-04-01,reference_only
+10744L,trastuzumab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+10798H,trastuzumab,reference,Herceptin SC,1,TRUE,FALSE,FALSE,2016-07-01,reference_only
+10803N,trastuzumab,reference,Herceptin SC,1,TRUE,FALSE,FALSE,2016-07-01,reference_only
+10811B,trastuzumab,reference,Herceptin SC,1,TRUE,FALSE,FALSE,2016-07-01,reference_only
+10817H,trastuzumab,reference,Herceptin SC,1,TRUE,FALSE,FALSE,2016-07-01,reference_only
+10825R,trastuzumab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+10829Y,trastuzumab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+10881Q,bevacizumab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+10885X,bevacizumab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+10944B,adalimumab,biosimilar,Amgevita; Hadlima; Hyrimoz,3,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+10945C,adalimumab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+10955N,adalimumab,biosimilar,Abrilada; Amgevita; Hadlima; Hyrimoz,4,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+10960W,adalimumab,biosimilar,Amgevita; Hadlima; Hyrimoz,3,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+10961X,adalimumab,biosimilar,Abrilada; Amgevita; Hadlima; Hyrimoz,4,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+10972L,adalimumab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+11121H,adalimumab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+11127P,adalimumab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+11132X,adalimumab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+11133Y,adalimumab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+11137E,adalimumab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+11196G,etanercept,biosimilar,Brenzys; Enbrel,2,TRUE,TRUE,FALSE,2017-12-01,mixed
+11197H,etanercept,reference,Enbrel,1,TRUE,FALSE,FALSE,2017-12-01,reference_only
+11198J,etanercept,biosimilar,Brenzys; Enbrel; Nepexto,3,TRUE,TRUE,FALSE,2017-12-01,mixed
+11201M,etanercept,biosimilar,Brenzys; Enbrel; Nepexto,3,TRUE,TRUE,FALSE,2017-12-01,mixed
+11202N,etanercept,biosimilar,Brenzys; Erelzi; Nepexto,3,FALSE,TRUE,FALSE,2017-12-01,biosimilar_only
+11204Q,etanercept,reference,Enbrel,1,TRUE,FALSE,FALSE,2017-12-01,reference_only
+11207W,etanercept,reference,Enbrel,1,TRUE,FALSE,FALSE,2017-12-01,reference_only
+11208X,etanercept,biosimilar,Brenzys; Enbrel,2,TRUE,TRUE,FALSE,2017-12-01,mixed
+11211C,etanercept,biosimilar,Brenzys; Enbrel; Erelzi,3,TRUE,TRUE,FALSE,2017-12-01,mixed
+11215G,etanercept,biosimilar,Brenzys; Erelzi; Nepexto,3,FALSE,TRUE,FALSE,2017-12-01,biosimilar_only
+11216H,etanercept,biosimilar,Brenzys; Erelzi,2,FALSE,TRUE,FALSE,2017-12-01,biosimilar_only
+11217J,etanercept,biosimilar,Brenzys; Erelzi,2,FALSE,TRUE,FALSE,2017-12-01,biosimilar_only
+11218K,etanercept,biosimilar,Brenzys; Enbrel; Erelzi; Nepexto,4,TRUE,TRUE,FALSE,2017-12-01,mixed
+11219L,etanercept,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+11220M,etanercept,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+11221N,etanercept,biosimilar,Brenzys; Erelzi; Nepexto,3,FALSE,TRUE,FALSE,2017-12-01,biosimilar_only
+11222P,etanercept,biosimilar,Brenzys; Enbrel; Nepexto,3,TRUE,TRUE,FALSE,2017-12-01,mixed
+11223Q,etanercept,reference,Enbrel,1,TRUE,FALSE,FALSE,2017-12-01,reference_only
+11224R,etanercept,biosimilar,Brenzys; Enbrel,2,TRUE,TRUE,FALSE,2017-12-01,mixed
+11225T,etanercept,biosimilar,Brenzys; Erelzi,2,FALSE,TRUE,FALSE,2017-12-01,biosimilar_only
+11302W,insulin glargine,reference,Toujeo Solostar,1,TRUE,FALSE,FALSE,2018-04-01,reference_only
+11308E,insulin glargine,reference,Toujeo Solostar,1,TRUE,FALSE,FALSE,2018-04-01,reference_only
+11389K,infliximab,biosimilar,Inflectra; Ixifi; Remicade; Remsima; Renflexis,5,TRUE,TRUE,FALSE,2018-07-01,mixed
+11396T,infliximab,biosimilar,Inflectra; Ixifi; Remsima; Renflexis,4,FALSE,TRUE,FALSE,2018-07-01,biosimilar_only
+11399Y,infliximab,biosimilar,Inflectra; Ixifi; Remicade; Remsima; Renflexis,5,TRUE,TRUE,FALSE,2018-07-01,mixed
+11400B,infliximab,biosimilar,Inflectra; Ixifi; Remsima; Renflexis,4,FALSE,TRUE,FALSE,2018-07-01,biosimilar_only
+11412P,infliximab,biosimilar,Inflectra; Ixifi; Remicade; Remsima; Renflexis,5,TRUE,TRUE,FALSE,2018-08-01,mixed
+11423F,infliximab,biosimilar,Inflectra; Ixifi; Remsima; Renflexis,4,FALSE,TRUE,FALSE,2018-08-01,biosimilar_only
+11424G,infliximab,biosimilar,Inflectra; Ixifi; Remicade; Remsima; Renflexis,5,TRUE,TRUE,FALSE,2018-08-01,mixed
+11432Q,infliximab,biosimilar,Inflectra; Ixifi; Remsima; Renflexis,4,FALSE,TRUE,FALSE,2018-08-01,biosimilar_only
+11445J,infliximab,biosimilar,Inflectra; Ixifi; Remicade; Remsima; Renflexis,5,TRUE,TRUE,FALSE,2018-09-01,mixed
+11448M,infliximab,biosimilar,Inflectra; Ixifi; Remicade; Remsima; Renflexis,5,TRUE,TRUE,FALSE,2018-09-01,mixed
+11449N,infliximab,biosimilar,Inflectra; Ixifi; Remsima; Renflexis,4,FALSE,TRUE,FALSE,2018-09-01,biosimilar_only
+11450P,infliximab,biosimilar,Inflectra; Ixifi; Remsima; Renflexis,4,FALSE,TRUE,FALSE,2018-09-01,biosimilar_only
+11459D,infliximab,biosimilar,Inflectra; Ixifi; Remicade; Remsima; Renflexis,5,TRUE,TRUE,FALSE,2018-10-01,mixed
+11461F,infliximab,biosimilar,Inflectra; Ixifi; Remsima; Renflexis,4,FALSE,TRUE,FALSE,2018-10-01,biosimilar_only
+11481G,infliximab,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+11482H,infliximab,biosimilar,Inflectra; Ixifi; Remicade; Remsima; Renflexis,5,TRUE,TRUE,FALSE,2018-11-01,mixed
+11483J,infliximab,biosimilar,Inflectra; Ixifi; Remicade; Remsima; Renflexis,5,TRUE,TRUE,FALSE,2018-11-01,mixed
+11486M,infliximab,biosimilar,Inflectra; Ixifi; Remsima; Renflexis,4,FALSE,TRUE,FALSE,2018-11-01,biosimilar_only
+11487N,infliximab,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+11488P,infliximab,biosimilar,Inflectra; Ixifi; Remsima; Renflexis,4,FALSE,TRUE,FALSE,2018-11-01,biosimilar_only
+11489Q,infliximab,biosimilar,Inflectra; Ixifi; Remicade; Remsima; Renflexis,5,TRUE,TRUE,FALSE,2018-11-01,mixed
+11490R,infliximab,biosimilar,Inflectra; Ixifi; Remicade; Remsima; Renflexis,5,TRUE,TRUE,FALSE,2018-11-01,mixed
+11497D,infliximab,biosimilar,Inflectra; Ixifi; Remicade; Remsima; Renflexis,5,TRUE,TRUE,FALSE,2018-12-01,mixed
+11498E,infliximab,biosimilar,Inflectra; Ixifi; Remicade; Remsima; Renflexis,5,TRUE,TRUE,FALSE,2018-12-01,mixed
+11514B,infliximab,biosimilar,Inflectra; Ixifi; Remsima; Renflexis,4,FALSE,TRUE,FALSE,2018-12-01,biosimilar_only
+11515C,infliximab,biosimilar,Inflectra; Ixifi; Remsima; Renflexis,4,FALSE,TRUE,FALSE,2018-12-01,biosimilar_only
+11590B,infliximab,biosimilar,Inflectra; Ixifi; Remicade; Remsima; Renflexis,5,TRUE,TRUE,FALSE,2019-01-01,mixed
+11595G,infliximab,biosimilar,Inflectra; Ixifi; Remsima; Renflexis,4,FALSE,TRUE,FALSE,2019-01-01,biosimilar_only
+11605T,infliximab,biosimilar,Inflectra; Ixifi; Remsima; Renflexis,4,FALSE,TRUE,FALSE,2019-01-01,biosimilar_only
+11606W,infliximab,biosimilar,Inflectra; Ixifi; Remicade; Remsima; Renflexis,5,TRUE,TRUE,FALSE,2019-01-01,mixed
+11727F,bevacizumab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+11731K,bevacizumab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+11745E,bevacizumab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+11749J,bevacizumab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+11790M,rituximab,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+11791N,bevacizumab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+11796W,infliximab,biosimilar,Inflectra; Ixifi; Remsima; Renflexis,4,FALSE,TRUE,FALSE,2019-10-01,biosimilar_only
+11797X,infliximab,biosimilar,Inflectra; Ixifi; Remicade; Remsima; Renflexis,5,TRUE,TRUE,FALSE,2019-10-01,mixed
+11800C,rituximab,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+11803F,bevacizumab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+11804G,rituximab,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+11805H,rituximab,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+11809M,bevacizumab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+11810N,rituximab,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+11811P,bevacizumab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+11813R,rituximab,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+11815W,insulin glargine,reference,Optisulin SoloStar,1,TRUE,FALSE,FALSE,2021-02-01,reference_only
+11935E,rituximab,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+11936F,rituximab,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+11942M,rituximab,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+11988Y,rituximab,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+11991D,aflibercept,reference,Eylea,1,TRUE,FALSE,FALSE,2020-05-01,reference_only
+12131L,aflibercept,reference,Eylea,1,TRUE,FALSE,FALSE,2020-10-01,reference_only
+12132M,aflibercept,reference,Eylea,1,TRUE,FALSE,FALSE,2020-10-01,reference_only
+12141B,aflibercept,reference,Eylea,1,TRUE,FALSE,FALSE,2020-10-01,reference_only
+12152N,aflibercept,reference,Eylea,1,TRUE,FALSE,FALSE,2020-10-01,reference_only
+12153P,aflibercept,reference,Eylea,1,TRUE,FALSE,FALSE,2020-10-01,reference_only
+12165G,bevacizumab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+12166H,bevacizumab,reference,NA,NA,NA,NA,NA,NA,not_in_schedule
+12325Q,adalimumab,biosimilar,Amgevita; Hadlima; Hyrimoz,3,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+12326R,adalimumab,biosimilar,Amgevita; Hadlima; Hyrimoz,3,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+12327T,adalimumab,biosimilar,Amgevita; Hadlima; Hyrimoz,3,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+12328W,adalimumab,biosimilar,Abrilada; Amgevita; Hadlima; Hyrimoz,4,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+12329X,adalimumab,biosimilar,Abrilada; Amgevita; Hadlima; Hyrimoz,4,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+12330Y,adalimumab,biosimilar,Abrilada; Amgevita; Hadlima; Hyrimoz,4,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+12331B,adalimumab,biosimilar,Amgevita; Hadlima; Hyrimoz,3,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+12332C,adalimumab,biosimilar,Amgevita,1,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+12333D,adalimumab,biosimilar,Amgevita; Hadlima; Hyrimoz,3,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+12334E,adalimumab,biosimilar,Abrilada; Amgevita; Hadlima; Hyrimoz,4,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+12335F,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2021-04-01,mixed
+12336G,adalimumab,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12337H,adalimumab,reference,Humira,1,TRUE,FALSE,FALSE,2021-04-01,reference_only
+12338J,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2021-04-01,mixed
+12339K,adalimumab,reference,Humira; Yuflyma,2,TRUE,TRUE,FALSE,2021-04-01,mixed
+12340L,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2021-04-01,mixed
+12341M,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2021-04-01,mixed
+12342N,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2021-04-01,mixed
+12343P,adalimumab,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12344Q,adalimumab,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12345R,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2021-04-01,mixed
+12346T,adalimumab,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12347W,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2021-04-01,mixed
+12348X,adalimumab,biosimilar,Amgevita; Hadlima; Hyrimoz,3,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+12349Y,adalimumab,biosimilar,Amgevita,1,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+12350B,adalimumab,biosimilar,Amgevita,1,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+12351C,adalimumab,biosimilar,Amgevita,1,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+12352D,adalimumab,biosimilar,Abrilada; Amgevita; Hadlima; Hyrimoz,4,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+12353E,adalimumab,biosimilar,Abrilada; Amgevita; Hadlima; Hyrimoz,4,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+12354F,adalimumab,biosimilar,Amgevita,1,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+12355G,adalimumab,biosimilar,Abrilada; Amgevita; Hadlima; Hyrimoz,4,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+12356H,adalimumab,biosimilar,Abrilada; Amgevita; Hadlima; Hyrimoz,4,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+12357J,adalimumab,biosimilar,Amgevita,1,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+12358K,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2021-04-01,mixed
+12359L,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2021-04-01,mixed
+12360M,adalimumab,reference,Humira; Hyrimoz; Yuflyma,3,TRUE,TRUE,FALSE,2021-04-01,mixed
+12361N,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2021-04-01,mixed
+12362P,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2021-04-01,mixed
+12363Q,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2021-04-01,mixed
+12364R,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2021-04-01,mixed
+12365T,adalimumab,biosimilar,Amgevita; Hadlima; Hyrimoz,3,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+12366W,adalimumab,biosimilar,Amgevita; Hadlima; Hyrimoz,3,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+12367X,adalimumab,biosimilar,Amgevita; Hadlima; Hyrimoz,3,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+12368Y,adalimumab,biosimilar,Abrilada; Amgevita; Hadlima; Hyrimoz,4,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+12369B,adalimumab,biosimilar,Abrilada; Amgevita; Hadlima; Hyrimoz,4,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+12370C,adalimumab,biosimilar,Abrilada; Amgevita; Hadlima; Hyrimoz,4,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+12371D,adalimumab,reference,Humira,1,TRUE,FALSE,FALSE,2021-04-01,reference_only
+12372E,adalimumab,reference,Humira; Yuflyma,2,TRUE,TRUE,FALSE,2021-04-01,mixed
+12373F,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2021-04-01,mixed
+12374G,adalimumab,reference,Humira; Hyrimoz; Yuflyma,3,TRUE,TRUE,FALSE,2021-04-01,mixed
+12375H,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2021-04-01,mixed
+12376J,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2021-04-01,mixed
+12377K,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2021-04-01,mixed
+12378L,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2021-04-01,mixed
+12379M,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2021-04-01,mixed
+12380N,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2021-04-01,mixed
+12381P,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2021-04-01,mixed
+12382Q,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2021-04-01,mixed
+12383R,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2021-04-01,mixed
+12384T,adalimumab,biosimilar,Amgevita; Hadlima; Hyrimoz,3,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+12385W,adalimumab,biosimilar,Abrilada; Amgevita; Hadlima; Hyrimoz,4,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+12386X,adalimumab,biosimilar,Abrilada; Amgevita; Hadlima; Hyrimoz,4,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+12387Y,adalimumab,biosimilar,Amgevita; Hadlima; Hyrimoz,3,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+12388B,adalimumab,biosimilar,Abrilada; Amgevita; Hadlima; Hyrimoz,4,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+12389C,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2021-04-01,mixed
+12390D,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2021-04-01,mixed
+12391E,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2021-04-01,mixed
+12392F,adalimumab,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12393G,adalimumab,reference,Humira; Yuflyma,2,TRUE,TRUE,FALSE,2021-04-01,mixed
+12394H,adalimumab,reference,Humira; Yuflyma,2,TRUE,TRUE,FALSE,2021-04-01,mixed
+12395J,adalimumab,reference,Humira; Yuflyma,2,TRUE,TRUE,FALSE,2021-04-01,mixed
+12396K,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2021-04-01,mixed
+12397L,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2021-04-01,mixed
+12398M,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2021-04-01,mixed
+12399N,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2021-04-01,mixed
+12400P,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2021-04-01,mixed
+12401Q,adalimumab,biosimilar,Abrilada; Amgevita; Hadlima; Hyrimoz,4,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+12402R,adalimumab,biosimilar,Abrilada; Amgevita; Hadlima; Hyrimoz,4,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+12403T,adalimumab,biosimilar,Abrilada; Amgevita; Hadlima; Hyrimoz,4,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+12404W,adalimumab,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12405X,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2021-04-01,mixed
+12406Y,adalimumab,reference,Humira,1,TRUE,FALSE,FALSE,2021-04-01,reference_only
+12407B,adalimumab,reference,Humira,1,TRUE,FALSE,FALSE,2021-04-01,reference_only
+12408C,adalimumab,reference,Humira; Yuflyma,2,TRUE,TRUE,FALSE,2021-04-01,mixed
+12409D,adalimumab,reference,Humira; Yuflyma,2,TRUE,TRUE,FALSE,2021-04-01,mixed
+12410E,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2021-04-01,mixed
+12411F,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2021-04-01,mixed
+12412G,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2021-04-01,mixed
+12413H,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2021-04-01,mixed
+12414J,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2021-04-01,mixed
+12415K,adalimumab,biosimilar,Abrilada; Amgevita; Hadlima; Hyrimoz,4,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+12416L,adalimumab,biosimilar,Amgevita; Hadlima; Hyrimoz,3,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+12417M,adalimumab,biosimilar,Amgevita,1,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+12418N,adalimumab,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12419P,adalimumab,reference,Humira; Hyrimoz; Yuflyma,3,TRUE,TRUE,FALSE,2021-04-01,mixed
+12420Q,adalimumab,biosimilar,Abrilada; Amgevita; Hadlima; Hyrimoz,4,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+12421R,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2021-04-01,mixed
+12422T,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2021-04-01,mixed
+12423W,adalimumab,reference,Humira,1,TRUE,FALSE,FALSE,2021-04-01,reference_only
+12424X,adalimumab,reference,Humira,1,TRUE,FALSE,FALSE,2021-04-01,reference_only
+12425Y,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2021-04-01,mixed
+12426B,adalimumab,reference,Humira; Hyrimoz; Yuflyma,3,TRUE,TRUE,FALSE,2021-04-01,mixed
+12427C,adalimumab,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12428D,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2021-04-01,mixed
+12429E,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2021-04-01,mixed
+12430F,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2021-04-01,mixed
+12431G,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2021-04-01,mixed
+12432H,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2021-04-01,mixed
+12433J,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2021-04-01,mixed
+12434K,adalimumab,biosimilar,Amgevita; Hadlima; Hyrimoz,3,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+12435L,adalimumab,biosimilar,Amgevita,1,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+12436M,adalimumab,biosimilar,Amgevita,1,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+12437N,adalimumab,biosimilar,Amgevita; Hadlima; Hyrimoz,3,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+12438P,adalimumab,biosimilar,Amgevita; Hadlima; Hyrimoz,3,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+12439Q,adalimumab,biosimilar,Amgevita,1,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+12440R,adalimumab,biosimilar,Amgevita,1,FALSE,TRUE,FALSE,2021-04-01,biosimilar_only
+12441T,adalimumab,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12442W,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2021-04-01,mixed
+12443X,adalimumab,reference,Humira,1,TRUE,FALSE,FALSE,2021-04-01,reference_only
+12444Y,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2021-04-01,mixed
+12445B,adalimumab,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12446C,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2021-04-01,mixed
+12447D,adalimumab,reference,Humira; Hyrimoz; Yuflyma,3,TRUE,TRUE,FALSE,2021-04-01,mixed
+12448E,adalimumab,reference,Humira; Hyrimoz; Yuflyma,3,TRUE,TRUE,FALSE,2021-04-01,mixed
+12449F,adalimumab,reference,Humira; Hyrimoz; Yuflyma,3,TRUE,TRUE,FALSE,2021-04-01,mixed
+12450G,adalimumab,reference,Humira; Hyrimoz; Yuflyma,3,TRUE,TRUE,FALSE,2021-04-01,mixed
+12451H,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2021-04-01,mixed
+12452J,adalimumab,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12453K,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2021-04-01,mixed
+12454L,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2021-04-01,mixed
+12455M,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2021-04-01,mixed
+12479T,bevacizumab,biosimilar,Abevmy; Mvasi; Vegzelma,3,FALSE,TRUE,FALSE,2021-06-01,biosimilar_only
+12508H,bevacizumab,biosimilar,Abevmy; Mvasi; Vegzelma,3,FALSE,TRUE,FALSE,2021-06-01,biosimilar_only
+12524E,adalimumab,reference,Humira; Yuflyma,2,TRUE,TRUE,FALSE,2021-06-01,mixed
+12550M,infliximab,biosimilar,Remsima SC,1,FALSE,TRUE,FALSE,2021-07-01,biosimilar_only
+12551N,infliximab,biosimilar,Remsima SC,1,FALSE,TRUE,FALSE,2021-07-01,biosimilar_only
+12552P,infliximab,biosimilar,Remsima SC,1,FALSE,TRUE,FALSE,2021-07-01,biosimilar_only
+12553Q,infliximab,biosimilar,Remsima SC,1,FALSE,TRUE,FALSE,2021-07-01,biosimilar_only
+12554R,infliximab,biosimilar,Remsima SC,1,FALSE,TRUE,FALSE,2021-07-01,biosimilar_only
+12555T,infliximab,biosimilar,Remsima SC,1,FALSE,TRUE,FALSE,2021-07-01,biosimilar_only
+12560C,infliximab,biosimilar,Remsima SC,1,FALSE,TRUE,FALSE,2021-07-01,biosimilar_only
+12561D,infliximab,biosimilar,Remsima SC,1,FALSE,TRUE,FALSE,2021-07-01,biosimilar_only
+12566J,infliximab,biosimilar,Remsima SC,1,FALSE,TRUE,FALSE,2021-07-01,biosimilar_only
+12567K,infliximab,biosimilar,Remsima SC,1,FALSE,TRUE,FALSE,2021-07-01,biosimilar_only
+12575W,infliximab,biosimilar,Remsima SC,1,FALSE,TRUE,FALSE,2021-07-01,biosimilar_only
+12576X,infliximab,biosimilar,Remsima SC,1,FALSE,TRUE,FALSE,2021-07-01,biosimilar_only
+12577Y,infliximab,biosimilar,Remsima SC,1,FALSE,TRUE,FALSE,2021-07-01,biosimilar_only
+12584H,infliximab,biosimilar,Remsima SC,1,FALSE,TRUE,FALSE,2021-07-01,biosimilar_only
+12585J,infliximab,biosimilar,Remsima SC,1,FALSE,TRUE,FALSE,2021-07-01,biosimilar_only
+12586K,infliximab,biosimilar,Remsima SC,1,FALSE,TRUE,FALSE,2021-07-01,biosimilar_only
+12587L,infliximab,biosimilar,Remsima SC,1,FALSE,TRUE,FALSE,2021-07-01,biosimilar_only
+12597B,infliximab,biosimilar,Remsima SC,1,FALSE,TRUE,FALSE,2021-07-01,biosimilar_only
+12674C,adalimumab,no_data,NA,NA,NA,NA,NA,NA,not_in_schedule
+12675D,etanercept,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12676E,etanercept,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12677F,infliximab,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12678G,adalimumab,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12679H,etanercept,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12686Q,adalimumab,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12687R,infliximab,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12688T,infliximab,no_data,NA,NA,NA,NA,NA,NA,not_in_schedule
+12689W,infliximab,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12690X,adalimumab,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12695E,adalimumab,no_data,NA,NA,NA,NA,NA,NA,not_in_schedule
+12696F,adalimumab,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12697G,adalimumab,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12698H,adalimumab,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12699J,adalimumab,no_data,NA,NA,NA,NA,NA,NA,not_in_schedule
+12700K,adalimumab,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12701L,adalimumab,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12715F,adalimumab,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12716G,etanercept,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12717H,infliximab,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12718J,etanercept,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12719K,adalimumab,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12721M,rituximab,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12729Y,adalimumab,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12731C,adalimumab,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12732D,adalimumab,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12733E,adalimumab,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12734F,etanercept,no_data,NA,NA,NA,NA,NA,NA,not_in_schedule
+12735G,etanercept,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12736H,etanercept,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12737J,etanercept,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12739L,rituximab,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12740M,etanercept,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12741N,adalimumab,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12748Y,infliximab,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12749B,adalimumab,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12750C,etanercept,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12751D,infliximab,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12752E,adalimumab,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12753F,infliximab,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12757K,etanercept,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12838Q,etanercept,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12845C,etanercept,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12848F,etanercept,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12852K,etanercept,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12853L,etanercept,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12862Y,etanercept,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12863B,etanercept,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12870J,etanercept,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12871K,etanercept,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12873M,etanercept,no_data,NA,NA,NA,NA,NA,NA,not_in_schedule
+12874N,etanercept,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12875P,etanercept,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12880X,etanercept,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12881Y,etanercept,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12882B,etanercept,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12893N,etanercept,no_data,NA,NA,NA,NA,NA,NA,not_in_schedule
+12894P,etanercept,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12906G,etanercept,no_data,NA,NA,NA,NA,NA,NA,not_in_schedule
+12907H,etanercept,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12908J,etanercept,no_data,NA,NA,NA,NA,NA,NA,not_in_schedule
+12909K,etanercept,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12997C,rituximab,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+12998D,rituximab,no_data,NA,NA,NA,NA,NA,NA,not_in_schedule
+13000F,rituximab,no_data,NA,NA,NA,NA,NA,NA,not_in_schedule
+13001G,rituximab,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+13047Q,infliximab,biosimilar,Remsima SC,1,FALSE,TRUE,FALSE,2022-08-01,biosimilar_only
+13048R,infliximab,biosimilar,Remsima SC,1,FALSE,TRUE,FALSE,2022-08-01,biosimilar_only
+13049T,infliximab,biosimilar,Remsima SC,1,FALSE,TRUE,FALSE,2022-08-01,biosimilar_only
+13050W,infliximab,biosimilar,Remsima SC,1,FALSE,TRUE,FALSE,2022-08-01,biosimilar_only
+13054C,infliximab,biosimilar,Remsima SC,1,FALSE,TRUE,FALSE,2022-08-01,biosimilar_only
+13055D,infliximab,biosimilar,Remsima SC,1,FALSE,TRUE,FALSE,2022-08-01,biosimilar_only
+13056E,infliximab,biosimilar,Remsima SC,1,FALSE,TRUE,FALSE,2022-08-01,biosimilar_only
+13057F,infliximab,biosimilar,Remsima SC,1,FALSE,TRUE,FALSE,2022-08-01,biosimilar_only
+13058G,infliximab,biosimilar,Remsima SC,1,FALSE,TRUE,FALSE,2022-08-01,biosimilar_only
+13060J,infliximab,biosimilar,Remsima SC,1,FALSE,TRUE,FALSE,2022-08-01,biosimilar_only
+13061K,infliximab,biosimilar,Remsima SC,1,FALSE,TRUE,FALSE,2022-08-01,biosimilar_only
+13062L,infliximab,biosimilar,Remsima SC,1,FALSE,TRUE,FALSE,2022-08-01,biosimilar_only
+13065P,infliximab,biosimilar,Remsima SC,1,FALSE,TRUE,FALSE,2022-08-01,biosimilar_only
+13066Q,infliximab,biosimilar,Remsima SC,1,FALSE,TRUE,FALSE,2022-08-01,biosimilar_only
+13067R,infliximab,biosimilar,Remsima SC,1,FALSE,TRUE,FALSE,2022-08-01,biosimilar_only
+13069W,infliximab,biosimilar,Remsima SC,1,FALSE,TRUE,FALSE,2022-08-01,biosimilar_only
+13070X,infliximab,biosimilar,Remsima SC,1,FALSE,TRUE,FALSE,2022-08-01,biosimilar_only
+13072B,infliximab,biosimilar,Remsima SC,1,FALSE,TRUE,FALSE,2022-08-01,biosimilar_only
+13073C,infliximab,biosimilar,Remsima SC,1,FALSE,TRUE,FALSE,2022-08-01,biosimilar_only
+13074D,infliximab,biosimilar,Remsima SC,1,FALSE,TRUE,FALSE,2022-08-01,biosimilar_only
+13075E,infliximab,biosimilar,Remsima SC,1,FALSE,TRUE,FALSE,2022-08-01,biosimilar_only
+13076F,infliximab,biosimilar,Remsima SC,1,FALSE,TRUE,FALSE,2022-08-01,biosimilar_only
+13077G,infliximab,biosimilar,Remsima SC,1,FALSE,TRUE,FALSE,2022-08-01,biosimilar_only
+13078H,infliximab,biosimilar,Remsima SC,1,FALSE,TRUE,FALSE,2022-08-01,biosimilar_only
+13082M,rituximab,biosimilar,Riximyo; Truxima,2,FALSE,TRUE,FALSE,2022-09-01,biosimilar_only
+13088W,rituximab,biosimilar,Ruxience,1,FALSE,TRUE,FALSE,2022-09-01,biosimilar_only
+13090Y,rituximab,biosimilar,Riximyo; Ruxience; Truxima,3,FALSE,TRUE,FALSE,2022-09-01,biosimilar_only
+13095F,rituximab,biosimilar,Riximyo; Ruxience; Truxima,3,FALSE,TRUE,FALSE,2022-09-01,biosimilar_only
+13096G,rituximab,biosimilar,Riximyo; Truxima,2,FALSE,TRUE,FALSE,2022-09-01,biosimilar_only
+13101M,rituximab,biosimilar,Riximyo; Ruxience; Truxima,3,FALSE,TRUE,FALSE,2022-09-01,biosimilar_only
+13102N,rituximab,biosimilar,Riximyo; Ruxience; Truxima,3,FALSE,TRUE,FALSE,2022-09-01,biosimilar_only
+13109Y,rituximab,biosimilar,Ruxience,1,FALSE,TRUE,FALSE,2022-09-01,biosimilar_only
+13138L,aflibercept,reference,Eylea,1,TRUE,FALSE,FALSE,2022-11-01,reference_only
+13139M,aflibercept,reference,Eylea,1,TRUE,FALSE,FALSE,2022-11-01,reference_only
+13141P,aflibercept,reference,Eylea,1,TRUE,FALSE,FALSE,2022-11-01,reference_only
+13146X,aflibercept,reference,Eylea,1,TRUE,FALSE,FALSE,2022-11-01,reference_only
+13150D,aflibercept,reference,Eylea,1,TRUE,FALSE,FALSE,2022-11-01,reference_only
+13151E,aflibercept,reference,Eylea,1,TRUE,FALSE,FALSE,2022-11-01,reference_only
+13164W,aflibercept,reference,Eylea,1,TRUE,FALSE,FALSE,2022-11-01,reference_only
+13167B,aflibercept,reference,Eylea,1,TRUE,FALSE,FALSE,2022-11-01,reference_only
+13208E,adalimumab,biosimilar,Hadlima; Hyrimoz; Yuflyma,3,FALSE,TRUE,FALSE,2023-03-01,biosimilar_only
+13209F,adalimumab,biosimilar,Hadlima; Hyrimoz; Yuflyma,3,FALSE,TRUE,FALSE,2023-03-01,biosimilar_only
+13210G,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2023-03-01,mixed
+13211H,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2023-03-01,mixed
+13212J,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2023-03-01,mixed
+13213K,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2023-03-01,mixed
+13214L,adalimumab,biosimilar,Hadlima; Hyrimoz; Yuflyma,3,FALSE,TRUE,FALSE,2023-03-01,biosimilar_only
+13215M,adalimumab,biosimilar,Hadlima; Hyrimoz; Yuflyma,3,FALSE,TRUE,FALSE,2023-03-01,biosimilar_only
+13216N,adalimumab,biosimilar,Hadlima; Hyrimoz; Yuflyma,3,FALSE,TRUE,FALSE,2023-03-01,biosimilar_only
+13217P,adalimumab,biosimilar,Hadlima; Hyrimoz; Yuflyma,3,FALSE,TRUE,FALSE,2023-03-01,biosimilar_only
+13218Q,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2023-03-01,mixed
+13219R,adalimumab,biosimilar,Hadlima; Hyrimoz; Yuflyma,3,FALSE,TRUE,FALSE,2023-03-01,biosimilar_only
+13220T,adalimumab,biosimilar,Hadlima; Hyrimoz; Yuflyma,3,FALSE,TRUE,FALSE,2023-03-01,biosimilar_only
+13221W,adalimumab,biosimilar,Hadlima; Hyrimoz; Yuflyma,3,FALSE,TRUE,FALSE,2023-03-01,biosimilar_only
+13222X,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2023-03-01,mixed
+13223Y,adalimumab,biosimilar,Hadlima; Hyrimoz; Yuflyma,3,FALSE,TRUE,FALSE,2023-03-01,biosimilar_only
+13224B,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2023-03-01,mixed
+13225C,adalimumab,biosimilar,Hadlima; Hyrimoz; Yuflyma,3,FALSE,TRUE,FALSE,2023-03-01,biosimilar_only
+13226D,adalimumab,biosimilar,Hadlima; Hyrimoz; Yuflyma,3,FALSE,TRUE,FALSE,2023-03-01,biosimilar_only
+13227E,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2023-03-01,mixed
+13228F,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2023-03-01,mixed
+13229G,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2023-03-01,mixed
+13230H,adalimumab,biosimilar,Hadlima; Hyrimoz; Yuflyma,3,FALSE,TRUE,FALSE,2023-03-01,biosimilar_only
+13292N,adalimumab,reference,Humira,1,TRUE,FALSE,FALSE,2023-07-01,reference_only
+13293P,adalimumab,reference,Humira,1,TRUE,FALSE,FALSE,2023-07-01,reference_only
+13294Q,etanercept,reference,Enbrel,1,TRUE,FALSE,FALSE,2023-07-01,reference_only
+13295R,etanercept,reference,Enbrel,1,TRUE,FALSE,FALSE,2023-07-01,reference_only
+13308K,etanercept,biosimilar,Enbrel; Erelzi,2,TRUE,TRUE,FALSE,2023-07-01,mixed
+13319B,etanercept,biosimilar,Enbrel; Erelzi; Nepexto,3,TRUE,TRUE,FALSE,2023-07-01,mixed
+13326J,etanercept,biosimilar,Enbrel; Erelzi; Nepexto,3,TRUE,TRUE,FALSE,2023-07-01,mixed
+13332Q,etanercept,biosimilar,Enbrel; Erelzi,2,TRUE,TRUE,FALSE,2023-07-01,mixed
+13686H,adalimumab,biosimilar,Abrilada; Amgevita; Hadlima; Hyrimoz,4,FALSE,TRUE,FALSE,2023-11-01,biosimilar_only
+13687J,etanercept,biosimilar,Brenzys; Erelzi; Nepexto,3,FALSE,TRUE,FALSE,2023-11-01,biosimilar_only
+13691N,adalimumab,biosimilar,Hadlima; Hyrimoz; Yuflyma,3,FALSE,TRUE,FALSE,2023-11-01,biosimilar_only
+13692P,adalimumab,biosimilar,Abrilada; Amgevita; Hadlima; Hyrimoz,4,FALSE,TRUE,FALSE,2023-11-01,biosimilar_only
+13693Q,etanercept,reference,Enbrel,1,TRUE,FALSE,FALSE,2023-11-01,reference_only
+13697X,etanercept,biosimilar,Enbrel; Erelzi; Nepexto,3,TRUE,TRUE,FALSE,2023-11-01,mixed
+13698Y,etanercept,biosimilar,Brenzys; Erelzi,2,FALSE,TRUE,FALSE,2023-11-01,biosimilar_only
+13700C,infliximab,biosimilar,Inflectra; Ixifi; Remsima; Renflexis,4,FALSE,TRUE,FALSE,2023-11-01,biosimilar_only
+13703F,adalimumab,biosimilar,Hadlima; Hyrimoz; Yuflyma,3,FALSE,TRUE,FALSE,2023-11-01,biosimilar_only
+13704G,adalimumab,biosimilar,Hadlima; Hyrimoz; Yuflyma,3,FALSE,TRUE,FALSE,2023-11-01,biosimilar_only
+13707K,etanercept,biosimilar,Brenzys; Erelzi,2,FALSE,TRUE,FALSE,2023-11-01,biosimilar_only
+13708L,etanercept,biosimilar,Brenzys; Erelzi; Nepexto,3,FALSE,TRUE,FALSE,2023-11-01,biosimilar_only
+13721E,adalimumab,biosimilar,Amgevita; Hadlima; Hyrimoz,3,FALSE,TRUE,FALSE,2023-11-01,biosimilar_only
+13722F,adalimumab,biosimilar,Amgevita; Hadlima; Hyrimoz,3,FALSE,TRUE,FALSE,2023-11-01,biosimilar_only
+13723G,infliximab,biosimilar,Inflectra; Ixifi; Remsima; Renflexis,4,FALSE,TRUE,FALSE,2023-11-01,biosimilar_only
+13724H,infliximab,biosimilar,Inflectra; Ixifi; Remsima; Renflexis,4,FALSE,TRUE,FALSE,2023-11-01,biosimilar_only
+13732R,adalimumab,biosimilar,Hadlima; Hyrimoz; Yuflyma,3,FALSE,TRUE,FALSE,2023-11-01,biosimilar_only
+13733T,etanercept,biosimilar,Enbrel; Erelzi,2,TRUE,TRUE,FALSE,2023-11-01,mixed
+13734W,infliximab,biosimilar,Inflectra; Ixifi; Remsima; Renflexis,4,FALSE,TRUE,FALSE,2023-11-01,biosimilar_only
+13744J,adalimumab,biosimilar,Amgevita; Hadlima; Hyrimoz,3,FALSE,TRUE,FALSE,2023-12-01,biosimilar_only
+13751R,etanercept,biosimilar,Brenzys; Erelzi,2,FALSE,TRUE,FALSE,2023-12-01,biosimilar_only
+13754X,adalimumab,biosimilar,Abrilada; Amgevita; Hadlima; Hyrimoz,4,FALSE,TRUE,FALSE,2023-12-01,biosimilar_only
+13763J,adalimumab,biosimilar,Hadlima; Hyrimoz; Yuflyma,3,FALSE,TRUE,FALSE,2023-12-01,biosimilar_only
+13764K,adalimumab,biosimilar,Hadlima; Hyrimoz; Yuflyma,3,FALSE,TRUE,FALSE,2023-12-01,biosimilar_only
+13765L,infliximab,biosimilar,Inflectra; Ixifi; Remsima; Renflexis,4,FALSE,TRUE,FALSE,2023-12-01,biosimilar_only
+13774Y,etanercept,biosimilar,Brenzys; Erelzi; Nepexto,3,FALSE,TRUE,FALSE,2023-12-01,biosimilar_only
+13778E,infliximab,biosimilar,Inflectra; Ixifi; Remsima; Renflexis,4,FALSE,TRUE,FALSE,2023-12-01,biosimilar_only
+14221L,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2024-08-01,mixed
+14222M,adalimumab,biosimilar,Amgevita; Hadlima; Hyrimoz,3,FALSE,TRUE,FALSE,2024-08-01,biosimilar_only
+14223N,adalimumab,no_data,NA,NA,NA,NA,NA,NA,not_in_schedule
+14234E,adalimumab,biosimilar,Hadlima; Hyrimoz; Yuflyma,3,FALSE,TRUE,FALSE,2024-08-01,biosimilar_only
+14235F,adalimumab,no_data,NA,NA,NA,NA,NA,NA,not_in_schedule
+14242N,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2024-08-01,mixed
+14243P,adalimumab,biosimilar,Amgevita; Hadlima; Hyrimoz,3,FALSE,TRUE,FALSE,2024-08-01,biosimilar_only
+14244Q,adalimumab,reference,Humira,1,TRUE,FALSE,FALSE,2024-08-01,reference_only
+14245R,adalimumab,reference,Humira,1,TRUE,FALSE,FALSE,2024-08-01,reference_only
+14251C,adalimumab,biosimilar,Amgevita; Hadlima; Hyrimoz,3,FALSE,TRUE,FALSE,2024-08-01,biosimilar_only
+14252D,adalimumab,no_data,NA,NA,NA,NA,NA,NA,not_in_schedule
+14253E,adalimumab,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+14261N,adalimumab,biosimilar,Abrilada; Amgevita; Hadlima; Hyrimoz,4,FALSE,TRUE,FALSE,2024-08-01,biosimilar_only
+14262P,adalimumab,biosimilar,Abrilada; Amgevita; Hadlima; Hyrimoz,4,FALSE,TRUE,FALSE,2024-08-01,biosimilar_only
+14263Q,adalimumab,biosimilar,Abrilada; Amgevita; Hadlima; Hyrimoz,4,FALSE,TRUE,FALSE,2024-08-01,biosimilar_only
+14272E,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2024-08-01,mixed
+14273F,adalimumab,no_data,NA,NA,NA,NA,NA,NA,not_in_schedule
+14274G,adalimumab,no_data,NA,NA,NA,NA,NA,NA,not_in_schedule
+14275H,adalimumab,reference,Humira,1,TRUE,FALSE,FALSE,2024-08-01,reference_only
+14276J,adalimumab,no_data,NA,NA,NA,NA,NA,NA,not_in_schedule
+14283R,adalimumab,biosimilar,Amgevita; Hadlima; Hyrimoz,3,FALSE,TRUE,FALSE,2024-08-01,biosimilar_only
+14284T,adalimumab,biosimilar,Abrilada; Amgevita; Hadlima; Hyrimoz,4,FALSE,TRUE,FALSE,2024-08-01,biosimilar_only
+14285W,adalimumab,no_data,NA,NA,NA,NA,NA,NA,not_in_schedule
+14286X,adalimumab,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+14294H,adalimumab,no_data,NA,NA,NA,NA,NA,NA,not_in_schedule
+14295J,adalimumab,no_data,NA,NA,NA,NA,NA,NA,not_in_schedule
+14586Q,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2024-10-01,mixed
+14587R,adalimumab,biosimilar,Hyrimoz; Yuflyma,2,FALSE,TRUE,FALSE,2024-10-01,biosimilar_only
+14591Y,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2024-10-01,mixed
+14594D,aflibercept,reference,Eylea,1,TRUE,FALSE,FALSE,2024-10-01,reference_only
+14622N,adalimumab,biosimilar,Yuflyma,1,FALSE,TRUE,FALSE,2024-10-01,biosimilar_only
+14626T,aflibercept,reference,Eylea,1,TRUE,FALSE,FALSE,2024-10-01,reference_only
+14627W,aflibercept,reference,Eylea,1,TRUE,FALSE,FALSE,2024-10-01,reference_only
+14628X,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2024-10-01,mixed
+14629Y,adalimumab,biosimilar,Hadlima; Hyrimoz; Yuflyma,3,FALSE,TRUE,FALSE,2024-10-01,biosimilar_only
+14635G,aflibercept,reference,Eylea,1,TRUE,FALSE,FALSE,2024-10-01,reference_only
+14747E,adalimumab,biosimilar,Amgevita,1,FALSE,TRUE,FALSE,2025-04-01,biosimilar_only
+14748F,adalimumab,biosimilar,Amgevita,1,FALSE,TRUE,FALSE,2025-04-01,biosimilar_only
+14749G,adalimumab,biosimilar,Amgevita,1,FALSE,TRUE,FALSE,2025-04-01,biosimilar_only
+14750H,adalimumab,no_data,NA,NA,NA,NA,NA,NA,not_in_schedule
+14751J,adalimumab,biosimilar,NA,NA,NA,NA,NA,NA,not_in_schedule
+14764C,adalimumab,no_data,NA,NA,NA,NA,NA,NA,not_in_schedule
+14772L,adalimumab,biosimilar,Amgevita,1,FALSE,TRUE,FALSE,2025-04-01,biosimilar_only
+14777R,adalimumab,no_data,NA,NA,NA,NA,NA,NA,not_in_schedule
+14852Q,etanercept,biosimilar,Erelzi; Nepexto,2,FALSE,TRUE,FALSE,2025-07-01,biosimilar_only
+14958G,adalimumab,biosimilar,Amgevita; Hadlima; Hyrimoz,3,FALSE,TRUE,FALSE,2025-09-01,biosimilar_only
+14973C,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2025-09-01,mixed
+14974D,adalimumab,no_data,NA,NA,NA,NA,NA,NA,not_in_schedule
+14975E,adalimumab,biosimilar,Amgevita,1,FALSE,TRUE,FALSE,2025-09-01,biosimilar_only
+14976F,adalimumab,reference,Humira,1,TRUE,FALSE,FALSE,2025-09-01,reference_only
+14984P,adalimumab,no_data,NA,NA,NA,NA,NA,NA,not_in_schedule
+14985Q,adalimumab,biosimilar,Abrilada; Amgevita; Hadlima; Hyrimoz,4,FALSE,TRUE,FALSE,2025-09-01,biosimilar_only
+14995F,adalimumab,reference,Humira,1,TRUE,FALSE,FALSE,2025-09-01,reference_only
+14996G,adalimumab,reference,Humira,1,TRUE,FALSE,FALSE,2025-09-01,reference_only
+14997H,adalimumab,reference,Humira,1,TRUE,FALSE,FALSE,2025-09-01,reference_only
+14998J,adalimumab,biosimilar,Amgevita,1,FALSE,TRUE,FALSE,2025-09-01,biosimilar_only
+15005R,adalimumab,biosimilar,Amgevita,1,FALSE,TRUE,FALSE,2025-09-01,biosimilar_only
+15006T,adalimumab,biosimilar,Abrilada; Amgevita; Hadlima; Hyrimoz,4,FALSE,TRUE,FALSE,2025-09-01,biosimilar_only
+15007W,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2025-09-01,mixed
+15008X,adalimumab,biosimilar,Amgevita; Hadlima; Hyrimoz,3,FALSE,TRUE,FALSE,2025-09-01,biosimilar_only
+15009Y,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2025-09-01,mixed
+15010B,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2025-09-01,mixed
+15019L,adalimumab,biosimilar,Abrilada; Amgevita; Hadlima; Hyrimoz,4,FALSE,TRUE,FALSE,2025-09-01,biosimilar_only
+15020M,adalimumab,biosimilar,Amgevita; Hadlima; Hyrimoz,3,FALSE,TRUE,FALSE,2025-09-01,biosimilar_only
+15031D,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2025-09-01,mixed
+15038L,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2025-09-01,mixed
+15039M,adalimumab,reference,Humira,1,TRUE,FALSE,FALSE,2025-09-01,reference_only
+15040N,adalimumab,no_data,NA,NA,NA,NA,NA,NA,not_in_schedule
+15050D,etanercept,biosimilar,Erelzi,1,FALSE,TRUE,FALSE,2025-10-01,biosimilar_only
+15137Q,adalimumab,biosimilar,Amgevita; Hadlima; Hyrimoz,3,FALSE,TRUE,FALSE,2026-01-01,biosimilar_only
+15138R,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2026-01-01,mixed
+15139T,adalimumab,biosimilar,Abrilada; Amgevita; Hadlima; Hyrimoz,4,FALSE,TRUE,FALSE,2026-01-01,biosimilar_only
+15140W,adalimumab,biosimilar,Abrilada; Amgevita; Hadlima; Hyrimoz,4,FALSE,TRUE,FALSE,2026-01-01,biosimilar_only
+15141X,adalimumab,biosimilar,Amgevita; Hadlima; Hyrimoz,3,FALSE,TRUE,FALSE,2026-01-01,biosimilar_only
+15142Y,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2026-01-01,mixed
+15143B,adalimumab,biosimilar,Amgevita,1,FALSE,TRUE,FALSE,2026-01-01,biosimilar_only
+15146E,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2026-01-01,mixed
+15147F,adalimumab,biosimilar,Abrilada; Amgevita; Hadlima; Hyrimoz,4,FALSE,TRUE,FALSE,2026-01-01,biosimilar_only
+15148G,adalimumab,reference,Humira,1,TRUE,FALSE,FALSE,2026-01-01,reference_only
+15149H,adalimumab,reference,Humira,1,TRUE,FALSE,FALSE,2026-01-01,reference_only
+15153M,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2026-01-01,mixed
+15154N,adalimumab,biosimilar,Amgevita; Hadlima; Hyrimoz,3,FALSE,TRUE,FALSE,2026-01-01,biosimilar_only
+15155P,adalimumab,biosimilar,Amgevita,1,FALSE,TRUE,FALSE,2026-01-01,biosimilar_only
+15156Q,adalimumab,reference,Humira,1,TRUE,FALSE,FALSE,2026-01-01,reference_only
+15159W,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2026-01-01,mixed
+15160X,adalimumab,biosimilar,Abrilada; Amgevita; Hadlima; Hyrimoz,4,FALSE,TRUE,FALSE,2026-01-01,biosimilar_only
+15161Y,adalimumab,biosimilar,Amgevita; Hadlima; Hyrimoz,3,FALSE,TRUE,FALSE,2026-01-01,biosimilar_only
+15162B,adalimumab,biosimilar,Amgevita; Hadlima; Hyrimoz,3,FALSE,TRUE,FALSE,2026-01-01,biosimilar_only
+15170K,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2026-01-01,mixed
+15172M,adalimumab,biosimilar,Amgevita,1,FALSE,TRUE,FALSE,2026-01-01,biosimilar_only
+15173N,adalimumab,reference,Humira,1,TRUE,FALSE,FALSE,2026-01-01,reference_only
+15177T,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2026-01-01,mixed
+15178W,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2026-01-01,mixed
+15180Y,adalimumab,biosimilar,Amgevita,1,FALSE,TRUE,FALSE,2026-01-01,biosimilar_only
+15189K,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2026-01-01,mixed
+15190L,adalimumab,reference,Humira,1,TRUE,FALSE,FALSE,2026-01-01,reference_only
+15200B,adalimumab,biosimilar,Abrilada; Amgevita; Hadlima; Hyrimoz,4,FALSE,TRUE,FALSE,2026-01-01,biosimilar_only
+15201C,adalimumab,reference,Hadlima; Humira; Hyrimoz; Yuflyma,4,TRUE,TRUE,FALSE,2026-01-01,mixed
+15202D,adalimumab,biosimilar,Amgevita,1,FALSE,TRUE,FALSE,2026-01-01,biosimilar_only
+15206H,aflibercept,biosimilar,Afqlir,1,FALSE,TRUE,FALSE,2026-02-01,biosimilar_only
+15207J,aflibercept,biosimilar,Afqlir,1,FALSE,TRUE,FALSE,2026-02-01,biosimilar_only
+15213Q,aflibercept,biosimilar,Afqlir,1,FALSE,TRUE,FALSE,2026-02-01,biosimilar_only
+15214R,aflibercept,biosimilar,Afqlir,1,FALSE,TRUE,FALSE,2026-02-01,biosimilar_only
+15215T,aflibercept,biosimilar,Afqlir,1,FALSE,TRUE,FALSE,2026-02-01,biosimilar_only
+15217X,aflibercept,biosimilar,Afqlir,1,FALSE,TRUE,FALSE,2026-02-01,biosimilar_only
+15218Y,aflibercept,biosimilar,Afqlir,1,FALSE,TRUE,FALSE,2026-02-01,biosimilar_only
+15219B,aflibercept,biosimilar,Afqlir,1,FALSE,TRUE,FALSE,2026-02-01,biosimilar_only

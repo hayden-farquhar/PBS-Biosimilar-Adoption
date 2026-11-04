@@ -1,6 +1,6 @@
 {
-  "title": "Reference Product Delisting Drives Biosimilar Adoption in Australia: replication code and data",
-  "description": "Replication code and processed data for an analysis of Pharmaceutical Benefits Scheme (PBS) biosimilar policy and biosimilar market share in Australia, January 2009 to November 2025. Applies interrupted time series segmented regression, regression discontinuity in time, Bayesian structural time series, and Bai-Perron structural break detection to PBS prescribing data for 10 biologic molecules, with an exposure-weighted counterfactual expenditure analysis for adalimumab.",
+  "title": "Can Shared Reimbursement Codes Measure Biosimilar Uptake? Code and data for identification bounds on biosimilar share in Australia's Pharmaceutical Benefits Scheme",
+  "description": "Code and derived data for an analysis of what public Pharmaceutical Benefits Scheme (PBS) item statistics can identify about biosimilar uptake in Australia. PBS dispensing for ten biologic molecules (746 item numbers, January 2009 to November 2025) is decomposed by the brands listed under each item number, giving lower and upper bounds on biosimilar share. The bounds are checked against item compositions recovered from archived PBS item pages and against brand-level counts in the PBS Expenditure and Prescriptions Report, and a structural-break analysis of the conventional item-classified share is compared with item and policy events. This version replaces the analysis in v1.0.1, whose item-classified share is not brand share; v1.0.1 results should not be used.",
   "upload_type": "software",
   "license": "MIT",
   "access_right": "open",
@@ -14,11 +14,11 @@
   "keywords": [
     "biosimilar",
     "Pharmaceutical Benefits Scheme",
-    "interrupted time series",
-    "regression discontinuity",
-    "structural break detection",
+    "product identification",
+    "administrative data",
+    "measurement error",
+    "partial identification",
     "pharmaceutical policy",
-    "health economics",
     "Australia"
   ],
   "language": "eng"

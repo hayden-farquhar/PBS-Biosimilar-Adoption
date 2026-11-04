@@ -1,0 +1,11 @@
+molecule,total_items,reference_only,biosimilar_only,mixed,not_in_schedule,brands_listed
+adalimumab,342,22,152,101,67,"Abrilada, Amgevita, Hadlima, Humira, Hyrimoz, Yuflyma"
+etanercept,117,20,14,40,43,"Brenzys, Enbrel, Erelzi, Nepexto"
+infliximab,108,1,62,34,11,"Inflectra, Ixifi, Remicade, Remsima, Remsima SC, Renflexis"
+rituximab,56,0,8,0,48,"Riximyo, Ruxience, Truxima"
+trastuzumab,40,6,16,0,18,"Herceptin SC, Herzuma, Kanjinti, Ogivri, Trazimera"
+bevacizumab,24,0,2,0,22,"Abevmy, Mvasi, Vegzelma"
+filgrastim,24,0,10,0,14,"Nivestim, Zarzio"
+pegfilgrastim,3,0,2,0,1,"Pelgraz, Ziextenzo"
+insulin glargine,4,4,0,0,0,"Optisulin, Optisulin SoloStar, Toujeo Solostar"
+aflibercept,28,20,8,0,0,"Afqlir, Eylea"

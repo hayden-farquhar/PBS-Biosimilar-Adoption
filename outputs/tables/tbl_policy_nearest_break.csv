@@ -1,0 +1,27 @@
+molecule,policy_date,intervention_type,description,first_bio_date,change_month,months_to_break,break_within_window
+adalimumab,2023-03-01,additional_biosimilar,Yuflyma (Celltrion) listed — fifth adalimumab biosimilar,2021-04-01,2022-05-01,-10,FALSE
+adalimumab,2023-04-01,price_cut,24.39% catch-up statutory price reduction for Humira; 6.91% for biosimilars,2021-04-01,2022-05-01,-11,FALSE
+adalimumab,2023-11-01,streamlined_authority,Streamlined authority changes for rheumatoid arthritis,2021-04-01,2022-05-01,-18,FALSE
+adalimumab,2023-12-01,streamlined_authority,Streamlined authority extended to AS indications,2021-04-01,2022-05-01,-19,FALSE
+adalimumab,2024-01-01,additional_biosimilar,Adalicip (Cipla/Alvotech) listed — sixth adalimumab biosimilar,2021-04-01,2022-05-01,-20,FALSE
+adalimumab,2024-08-01,additional_biosimilar,Abrilada (Pfizer) listed — seventh adalimumab biosimilar,2021-04-01,2022-05-01,-27,FALSE
+etanercept,2021-02-01,aip_regulation,"Active ingredient prescribing mandatory for PBS prescriptions (all medicines, with exemptions); regulations commenced 2019-10-31",2017-04-01,2021-10-01,8,FALSE
+etanercept,2023-04-01,price_cut,Catch-up statutory price reduction: Enbrel cartridges 36.82%; other Enbrel and Brenzys items 20.83% (indicative),2017-04-01,2021-10-01,-18,FALSE
+etanercept,2023-11-01,streamlined_authority,Streamlined authority changes for rheumatoid arthritis,2017-04-01,2021-10-01,-25,FALSE
+etanercept,2023-12-01,streamlined_authority,Streamlined authority extended to AS indications,2017-04-01,2021-10-01,-26,FALSE
+etanercept,2025-07-01,additional_biosimilar,Nepexto (Sandoz) listed — second etanercept biosimilar,2017-04-01,2021-10-01,-45,FALSE
+etanercept,2025-10-01,additional_biosimilar,Erelzi listed — third etanercept biosimilar,2017-04-01,2021-10-01,-48,FALSE
+infliximab,2017-08-01,additional_biosimilar,Renflexis (Samsung Bioepis) listed,2015-12-01,2015-12-01,-20,FALSE
+infliximab,2018-04-01,price_disclosure,Price disclosure cycle — infliximab price reduction,2015-12-01,2015-12-01,-28,FALSE
+infliximab,2021-02-01,aip_regulation,"Active ingredient prescribing mandatory for PBS prescriptions (all medicines, with exemptions); regulations commenced 2019-10-31",2015-12-01,2015-12-01,-62,FALSE
+infliximab,2021-07-01,additional_biosimilar,Remsima SC listed — subcutaneous infliximab biosimilar,2015-12-01,2015-12-01,-67,FALSE
+infliximab,2023-11-01,streamlined_authority,Streamlined authority for RA indications,2015-12-01,2015-12-01,-95,FALSE
+infliximab,2023-12-01,streamlined_authority,Streamlined authority extended to AS indications,2015-12-01,2015-12-01,-96,FALSE
+infliximab,2025-11-01,additional_biosimilar,Ixifi listed,2015-12-01,2015-12-01,-119,FALSE
+rituximab,2020-01-01,a_flag,'a' flag enabled for rituximab biosimilars,2019-10-01,2022-09-01,32,FALSE
+rituximab,2020-01-01,additional_biosimilar,Truxima (Celltrion) listed,2019-10-01,2022-09-01,32,FALSE
+rituximab,2021-02-01,aip_regulation,"Active ingredient prescribing mandatory for PBS prescriptions (all medicines, with exemptions); regulations commenced 2019-10-31",2019-10-01,2022-09-01,19,FALSE
+rituximab,2021-04-01,reference_delisting,MabThera IV (reference rituximab) delisted from PBS,2019-10-01,2022-09-01,17,FALSE
+rituximab,2021-10-01,reference_delisting,MabThera SC delisted from PBS,2019-10-01,2022-09-01,11,FALSE
+rituximab,2022-06-01,additional_biosimilar,Ruxience listed,2019-10-01,2022-09-01,3,TRUE
+rituximab,2022-09-01,streamlined_authority,Rituximab changed to Unrestricted Benefit (no authority),2019-10-01,2022-09-01,0,TRUE

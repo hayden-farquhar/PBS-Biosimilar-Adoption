@@ -1,99 +1,63 @@
-# Reference Product Delisting Drives Biosimilar Adoption in Australia
+# Can Shared Reimbursement Codes Measure Biosimilar Uptake? Code and data
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22732780.svg)](https://doi.org/10.5281/zenodo.22732780)
 
-Archived at Zenodo. Cite the concept DOI [10.5281/zenodo.22732780](https://doi.org/10.5281/zenodo.22732780), which always resolves to the latest version.
+Archived at Zenodo. The concept DOI [10.5281/zenodo.22732780](https://doi.org/10.5281/zenodo.22732780) always resolves to the latest version.
 
-Replication code and data for:
+Code and data for:
 
-> Farquhar H. Reference Product Delisting Drives Biosimilar Adoption in Australia: Interrupted Time Series Evidence and a Documented Reversal in Adalimumab Uptake. Manuscript under consideration at a peer-reviewed journal.
+> Farquhar H. Can Shared Reimbursement Codes Measure Biosimilar Uptake? Identification Bounds and Validation Against Brand-Level Counts in Australia's Pharmaceutical Benefits Scheme. Manuscript in preparation.
 
 ## Overview
 
-This repository contains all analysis code and processed data to replicate the findings of the study. The study applies interrupted time series (ITS) segmented regression, regression discontinuity in time (RDiT), Bayesian structural time series (CausalImpact), and Bai-Perron structural break detection to PBS prescribing data for 10 biologic molecules.
+Australia's Pharmaceutical Benefits Scheme (PBS) publishes dispensing by item number, and one item number can cover both the reference brand and its biosimilars. This code decomposes PBS dispensing for ten biologic molecules (746 item numbers, January 2009 to November 2025) by the brands listed under each item, and computes the bounds on biosimilar share that item-level statistics can identify. It checks those bounds against item compositions recovered from archived PBS item pages and against the brand-level counts in the annual PBS Expenditure and Prescriptions Report. It also shows what a structural-break analysis of the conventional item-classified share detects.
 
-## Note on this version
+## Note on this version (v2.0.0)
 
-This release supersedes the initial commit and corrects two defects found while revising the manuscript. Anyone who cloned the earlier state should re-run from this version.
+This release replaces the analysis in v1.0.1. That analysis classed each item number as reference or biosimilar and treated the resulting share as biosimilar uptake. Because many items list reference and biosimilar brands together, that share is not brand share, and the v1.0.1 results (interrupted time series and regression discontinuity estimates, counterfactual savings, state variation) should not be used. Its scripts and outputs remain in the git history and in Zenodo v1.0.1. `03_market_share.R` is kept because it builds the conventional item-classified series that this analysis evaluates.
 
-**A double-counting error in the national series.** `03_market_share.R` aggregated national prescription counts without restricting to national-level records. The two sources are shaped differently: the PBS Date of Supply extract carries only a national row, whereas Medicare Statistics carries a national row *and* eight jurisdiction rows that sum to the same total. Every Medicare-era month (January 2009 to June 2022) was therefore counted twice, while Date of Supply months were counted once, producing an artefactual halving of volumes at July 2022. The fix adds `filter(state == "National")` before the national aggregation; the state-level block was already correct. 1,081 of 1,527 molecule-months changed.
-
-**Unverifiable international benchmarks.** The international comparison in `04_descriptive_analysis.R` carried adalimumab uptake figures attributed to sources that do not contain them, including an "OECD average" that is in fact a tumour-necrosis-factor-inhibitor class figure measured in treatment days. Benchmarks are now restricted to the two exact, adalimumab-specific, retail-setting values published in Tam et al. (BioDrugs 2025;39(3):461-476). Rows that could not be verified are commented out with the reason recorded, not deleted.
-
-Downstream of these fixes, structural break detection showed that neither adalimumab policy date falls within the confidence interval of any detected break, so the adalimumab intervention effects are not identified and are reported descriptively in the manuscript. `09_figure2_observed.R` is new and produces the main-text Figures 1 and 2 as observed series without fitted regressions.
-
-## Directory Structure
+## Directory structure
 
 ```
 ├── scripts/
-│   ├── 01_item_mapping.R           # Map PBS item numbers to biosimilar/reference biologic
-│   ├── 02_data_acquisition.R       # Process PBS Date of Supply and Medicare Statistics data
-│   ├── 03_market_share.R           # Calculate biosimilar market share by molecule x time
-│   ├── 04_descriptive_analysis.R   # Adoption curves, velocity metrics, international benchmarking
-│   ├── 05_its_analysis.R           # Interrupted time series: segmented regression + CausalImpact
-│   ├── 06_rd_analysis.R            # Regression discontinuity at policy implementation dates
-│   ├── 07_geographic_variation.R   # State-level variation, multilevel models, funnel plots
-│   └── 08_counterfactual.R         # Counterfactual PBS expenditure under OECD-average uptake
+│   ├── 01_item_mapping.R                # Item numbers, molecules, policy timeline
+│   ├── 02_data_acquisition.R            # Process PBS Date of Supply and Medicare Statistics data
+│   ├── 03_market_share.R                # Conventional item-classified share (the series evaluated)
+│   ├── 11_item_class_decomposition.R    # Item brand composition and bounds (February 2026 Schedule)
+│   ├── 12_archived_item_brands.R        # Brands under each item from archived PBS item pages
+│   ├── 13_archived_bounds_validation.R  # Snapshot vs archived classes; time-varying bounds
+│   ├── 14_break_demonstration.R         # Bai-Perron breaks on the conventional series vs item and policy events
+│   ├── 15_tables_figures.R              # Main tables and figures
+│   └── 16_brand_level_benchmark.R       # Brand-level counts from the Expenditure and Prescriptions Report
 ├── data/
-│   ├── reference/                  # Policy timeline, item number mappings, ATC codes
-│   └── processed/                  # Biosimilar market share time series (analysis-ready)
+│   ├── reference/                       # Item mapping, ATC lookup, policy timeline, sources for each date
+│   └── processed/                       # Conventional item-classified series
 └── outputs/
-    ├── figures/                    # All study figures (PNG)
-    └── tables/                     # All results tables (CSV)
+    ├── figures/                         # Figures 1 and 2 (PDF, PNG)
+    └── tables/                          # All tables (CSV)
 ```
 
-## Data Sources
+## Data sources
 
-All data used in this study are publicly available:
+All input data are public:
 
-- **PBS Date of Supply data** (July 2021 -- November 2025): Australian Department of Health and Aged Care, [pbs.gov.au/info/statistics/dos-and-dop](https://www.pbs.gov.au/info/statistics/dos-and-dop)
-- **Medicare Statistics** (January 2009 -- June 2022): Services Australia, [medicarestatistics.humanservices.gov.au](https://medicarestatistics.humanservices.gov.au)
-- **PBS Schedule**: [pbs.gov.au](https://www.pbs.gov.au)
-- **OECD Health Statistics**: [stats.oecd.org](https://stats.oecd.org)
+- PBS and RPBS Date of Supply data, July 2021 to November 2025: Department of Health, Disability and Ageing, https://www.pbs.gov.au/statistics/dos-and-dop/dos-and-dop
+- PBS Item Reports, January 2009 to June 2022: Services Australia, Medicare Statistics (https://medicarestatistics.humanservices.gov.au), also listed on data.gov.au (https://data.gov.au/data/dataset/14b536d4-eb6a-485d-bf87-2e6e77ddbac1)
+- PBS API CSV files, Schedule of Pharmaceutical Benefits effective 1 February 2026 (schedule code 4604), listed on the PBS Downloads page (archived copy: https://web.archive.org/web/20260227102043/https://www.pbs.gov.au/browse/downloads)
+- Archived PBS item pages (`www.pbs.gov.au/medicine/item/<item>`), Internet Archive Wayback Machine
+- PBS Expenditure and Prescriptions Reports, 2023-24 (https://pbs.gov.au/statistics/expenditure-prescriptions/2023-2024/PBS-Expenditure-prescriptions-report-2023-24.PDF) and 2024-25 (https://www.pbs.gov.au/statistics/expenditure-prescriptions/2024-2025/Expenditure-prescriptions-report-tables-2024-25.PDF)
 
-Raw data files are not included in this repository due to size and redistribution considerations. Scripts `01_item_mapping.R` and `02_data_acquisition.R` document the acquisition and processing pipeline. The `data/processed/` directory contains the analysis-ready market share time series derived from these sources.
+Raw files are not redistributed here. The source documents for each policy date are listed in `data/reference/sources/README.md`. The archived item pages are not included either; `outputs/tables/tbl_archived_fetch_log.csv` gives the item and capture timestamp of every page used, and `outputs/tables/tbl_archived_item_brands.csv` the brands parsed from each, so any capture can be retrieved again from `https://web.archive.org/web/<timestamp>id_/https://www.pbs.gov.au/medicine/item/<item>`.
 
-## Reproducing the Analysis
+## Reproducing the analysis
 
-Scripts are numbered sequentially. Scripts 01--03 process raw data into the analysis-ready datasets provided in `data/processed/`. Scripts 04--08 produce all results, figures, and tables reported in the manuscript.
+Requirements: R (tested on 4.6.1) with tidyverse, here, cli, glue, lubridate, readxl, rvest, httr, scales, patchwork and strucchange; `pdftotext` (poppler) for script 16.
 
-To reproduce from the processed data:
+1. Download the raw files above into `data/raw/` (`pbs_prescribing/`, `pbs_schedule/pbs-api-csv/` unzipped, `pbs_expenditure_prescriptions/`).
+2. Run from the repository root in this order: 01, 02, 03, 11, 12, 13, 14, 16, 15.
 
-```r
-# Install required packages
-install.packages(c(
-  "tidyverse", "here", "lubridate", "sandwich", "lmtest", "CausalImpact",
-  "rdrobust", "lme4", "sf", "ozmaps", "tmap", "scales", "patchwork",
-  "knitr", "kableExtra", "cli"
-))
+Script 12 needs network access. It caches each archived page before parsing and can be rerun to resume. Scripts 13 to 15 read its outputs, so they can be rerun from the tables in `outputs/tables/` without refetching.
 
-# Run analysis scripts (from project root)
-source("scripts/04_descriptive_analysis.R")
-source("scripts/05_its_analysis.R")
-source("scripts/06_rd_analysis.R")
-source("scripts/07_geographic_variation.R")
-source("scripts/08_counterfactual.R")
-```
+## Licence
 
-## Requirements
-
-- R >= 4.3.0
-- Key packages: `tidyverse`, `sandwich`, `lmtest`, `CausalImpact`, `rdrobust`, `lme4`, `sf`, `ozmaps`, `tmap`, `patchwork`
-
-See individual script headers for full dependency lists.
-
-## Key Reference Data
-
-- `data/reference/policy_timeline.csv` -- 56 policy intervention records (listing dates, delistings, price cuts, authority changes) across 10 molecules
-- `data/reference/pbs_item_mapping.csv` -- 746 PBS item numbers classified as biosimilar or reference biologic
-- `data/reference/atc_molecule_lookup.csv` -- ATC code to molecule name mapping
-
-## Author
-
-Hayden Farquhar MBBS MPHTM
-Independent Researcher
-ORCID: [0009-0002-6226-440X](https://orcid.org/0009-0002-6226-440X)
-
-## License
-
-This code is provided for academic replication purposes. Data derived from publicly available Australian Government sources.
+Code: MIT. Source data remain subject to the terms of their publishers.

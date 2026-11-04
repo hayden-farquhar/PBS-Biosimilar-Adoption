@@ -1,0 +1,11 @@
+molecule,total_rx,conventional,lower,upper,width_pp,mixed_pct,identification
+adalimumab,33564,20.4,20.4,99.6,79.2,79.2,Bounded: reference and biosimilar brands share items
+etanercept,8759,98.9,17.5,98.9,81.4,81.4,Bounded: reference and biosimilar brands share items
+infliximab,9303,100.0,72.4,100.0,27.6,27.6,Bounded: reference and biosimilar brands share items
+rituximab,4792,100.0,100.0,100.0,0.0,0.0,Point-identified: no reference brand listed
+trastuzumab,5222,81.8,81.8,81.8,0.0,0.0,Point-identified: brands on separate items
+bevacizumab,5765,100.0,100.0,100.0,0.0,0.0,Point-identified: no reference brand listed
+filgrastim,2009,100.0,100.0,100.0,0.0,0.0,Point-identified: no reference brand listed
+pegfilgrastim,2165,100.0,100.0,100.0,0.0,0.0,Point-identified: no reference brand listed
+insulin glargine,28426,0.0,0.0,0.0,0.0,0.0,Point-identified: no biosimilar brand listed
+aflibercept,NA,NA,NA,NA,NA,NA,"First biosimilar listed February 2026, after the data end"
